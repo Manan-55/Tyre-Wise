@@ -1,0 +1,915 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,LapTime_s,Year,GrandPrix,SessionType
+VER,Red Bull Racing,2.0,1.0,SOFT,5.0,False,12,97.974,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,3.0,1.0,SOFT,6.0,False,1,98.006,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,4.0,1.0,SOFT,7.0,False,1,97.976,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,5.0,1.0,SOFT,8.0,False,1,98.035,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,6.0,1.0,SOFT,9.0,False,1,97.986,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,7.0,1.0,SOFT,10.0,False,1,98.021,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,8.0,1.0,SOFT,11.0,False,1,98.154,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,9.0,1.0,SOFT,12.0,False,1,98.278,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,10.0,1.0,SOFT,13.0,False,1,98.369,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,11.0,1.0,SOFT,14.0,False,1,98.483,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,12.0,1.0,SOFT,15.0,False,1,98.591,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,13.0,1.0,SOFT,16.0,False,1,98.482,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,16.0,2.0,SOFT,2.0,False,1,97.801,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,17.0,2.0,SOFT,3.0,False,1,97.648,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,18.0,2.0,SOFT,4.0,False,1,97.614,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,19.0,2.0,SOFT,5.0,False,1,97.712,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,20.0,2.0,SOFT,6.0,False,1,97.788,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,21.0,2.0,SOFT,7.0,False,1,97.582,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,22.0,2.0,SOFT,8.0,False,1,97.651,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,23.0,2.0,SOFT,9.0,False,1,97.552,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,24.0,2.0,SOFT,10.0,False,1,97.387,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,25.0,2.0,SOFT,11.0,False,1,97.372,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,26.0,2.0,SOFT,12.0,False,1,97.682,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,27.0,2.0,SOFT,13.0,False,1,97.379,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,28.0,2.0,SOFT,14.0,False,1,97.651,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,29.0,2.0,SOFT,15.0,False,1,97.571,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,30.0,2.0,SOFT,16.0,False,1,97.549,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,31.0,2.0,SOFT,17.0,False,1,97.431,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,32.0,2.0,SOFT,18.0,False,1,97.691,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,33.0,2.0,SOFT,19.0,False,1,97.686,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,34.0,2.0,SOFT,20.0,False,1,97.839,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,35.0,2.0,SOFT,21.0,False,1,97.85,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,38.0,3.0,HARD,2.0,True,1,96.297,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,39.0,3.0,HARD,3.0,True,1,96.446,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,40.0,3.0,HARD,4.0,True,1,96.942,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,43.0,3.0,HARD,7.0,True,1,96.89,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,44.0,3.0,HARD,8.0,True,1,96.236,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,45.0,3.0,HARD,9.0,True,1,97.015,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,46.0,3.0,HARD,10.0,True,1,96.701,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,47.0,3.0,HARD,11.0,True,1,97.009,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,48.0,3.0,HARD,12.0,True,1,96.918,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,49.0,3.0,HARD,13.0,True,1,96.962,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,50.0,3.0,HARD,14.0,True,1,97.25,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,51.0,3.0,HARD,15.0,True,1,97.427,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,52.0,3.0,HARD,16.0,True,1,96.919,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,53.0,3.0,HARD,17.0,True,1,96.89,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,54.0,3.0,HARD,18.0,True,1,96.678,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,55.0,3.0,HARD,19.0,True,1,96.322,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,56.0,3.0,HARD,20.0,True,1,97.205,2023,Bahrain Grand Prix,R
+VER,Red Bull Racing,57.0,3.0,HARD,21.0,True,1,96.373,2023,Bahrain Grand Prix,R
+GAS,Alpine,2.0,1.0,SOFT,2.0,True,21,100.438,2023,Bahrain Grand Prix,R
+GAS,Alpine,3.0,1.0,SOFT,3.0,True,1,100.643,2023,Bahrain Grand Prix,R
+GAS,Alpine,4.0,1.0,SOFT,4.0,True,1,100.894,2023,Bahrain Grand Prix,R
+GAS,Alpine,5.0,1.0,SOFT,5.0,True,1,100.818,2023,Bahrain Grand Prix,R
+GAS,Alpine,6.0,1.0,SOFT,6.0,True,1,101.11,2023,Bahrain Grand Prix,R
+GAS,Alpine,7.0,1.0,SOFT,7.0,True,1,101.134,2023,Bahrain Grand Prix,R
+GAS,Alpine,8.0,1.0,SOFT,8.0,True,1,101.173,2023,Bahrain Grand Prix,R
+GAS,Alpine,11.0,2.0,HARD,2.0,True,1,98.762,2023,Bahrain Grand Prix,R
+GAS,Alpine,12.0,2.0,HARD,3.0,True,1,98.928,2023,Bahrain Grand Prix,R
+GAS,Alpine,13.0,2.0,HARD,4.0,True,1,99.349,2023,Bahrain Grand Prix,R
+GAS,Alpine,14.0,2.0,HARD,5.0,True,1,98.859,2023,Bahrain Grand Prix,R
+GAS,Alpine,15.0,2.0,HARD,6.0,True,1,98.985,2023,Bahrain Grand Prix,R
+GAS,Alpine,16.0,2.0,HARD,7.0,True,1,98.945,2023,Bahrain Grand Prix,R
+GAS,Alpine,17.0,2.0,HARD,8.0,True,1,99.011,2023,Bahrain Grand Prix,R
+GAS,Alpine,18.0,2.0,HARD,9.0,True,1,99.029,2023,Bahrain Grand Prix,R
+GAS,Alpine,19.0,2.0,HARD,10.0,True,1,99.066,2023,Bahrain Grand Prix,R
+GAS,Alpine,20.0,2.0,HARD,11.0,True,1,99.017,2023,Bahrain Grand Prix,R
+GAS,Alpine,21.0,2.0,HARD,12.0,True,1,99.327,2023,Bahrain Grand Prix,R
+GAS,Alpine,22.0,2.0,HARD,13.0,True,1,99.485,2023,Bahrain Grand Prix,R
+GAS,Alpine,23.0,2.0,HARD,14.0,True,1,99.263,2023,Bahrain Grand Prix,R
+GAS,Alpine,24.0,2.0,HARD,15.0,True,1,99.761,2023,Bahrain Grand Prix,R
+GAS,Alpine,27.0,3.0,HARD,2.0,True,1,98.729,2023,Bahrain Grand Prix,R
+GAS,Alpine,28.0,3.0,HARD,3.0,True,1,97.761,2023,Bahrain Grand Prix,R
+GAS,Alpine,29.0,3.0,HARD,4.0,True,1,98.012,2023,Bahrain Grand Prix,R
+GAS,Alpine,30.0,3.0,HARD,5.0,True,1,97.76,2023,Bahrain Grand Prix,R
+GAS,Alpine,31.0,3.0,HARD,6.0,True,1,97.968,2023,Bahrain Grand Prix,R
+GAS,Alpine,32.0,3.0,HARD,7.0,True,1,98.012,2023,Bahrain Grand Prix,R
+GAS,Alpine,33.0,3.0,HARD,8.0,True,1,97.974,2023,Bahrain Grand Prix,R
+GAS,Alpine,34.0,3.0,HARD,9.0,True,1,98.022,2023,Bahrain Grand Prix,R
+GAS,Alpine,35.0,3.0,HARD,10.0,True,1,98.088,2023,Bahrain Grand Prix,R
+GAS,Alpine,36.0,3.0,HARD,11.0,True,1,98.184,2023,Bahrain Grand Prix,R
+GAS,Alpine,37.0,3.0,HARD,12.0,True,1,98.133,2023,Bahrain Grand Prix,R
+GAS,Alpine,38.0,3.0,HARD,13.0,True,1,98.108,2023,Bahrain Grand Prix,R
+GAS,Alpine,39.0,3.0,HARD,14.0,True,1,98.537,2023,Bahrain Grand Prix,R
+GAS,Alpine,42.0,4.0,SOFT,2.0,True,1,95.068,2023,Bahrain Grand Prix,R
+GAS,Alpine,43.0,4.0,SOFT,3.0,True,1,95.942,2023,Bahrain Grand Prix,R
+GAS,Alpine,44.0,4.0,SOFT,4.0,True,1,95.792,2023,Bahrain Grand Prix,R
+GAS,Alpine,45.0,4.0,SOFT,5.0,True,1,96.186,2023,Bahrain Grand Prix,R
+GAS,Alpine,46.0,4.0,SOFT,6.0,True,1,96.041,2023,Bahrain Grand Prix,R
+GAS,Alpine,47.0,4.0,SOFT,7.0,True,1,96.12,2023,Bahrain Grand Prix,R
+GAS,Alpine,48.0,4.0,SOFT,8.0,True,1,96.368,2023,Bahrain Grand Prix,R
+GAS,Alpine,49.0,4.0,SOFT,9.0,True,1,96.803,2023,Bahrain Grand Prix,R
+GAS,Alpine,50.0,4.0,SOFT,10.0,True,1,96.551,2023,Bahrain Grand Prix,R
+GAS,Alpine,51.0,4.0,SOFT,11.0,True,1,96.635,2023,Bahrain Grand Prix,R
+GAS,Alpine,52.0,4.0,SOFT,12.0,True,1,96.891,2023,Bahrain Grand Prix,R
+GAS,Alpine,53.0,4.0,SOFT,13.0,True,1,96.979,2023,Bahrain Grand Prix,R
+GAS,Alpine,54.0,4.0,SOFT,14.0,True,1,97.222,2023,Bahrain Grand Prix,R
+GAS,Alpine,55.0,4.0,SOFT,15.0,True,1,97.559,2023,Bahrain Grand Prix,R
+GAS,Alpine,56.0,4.0,SOFT,16.0,True,1,97.845,2023,Bahrain Grand Prix,R
+GAS,Alpine,57.0,4.0,SOFT,17.0,True,1,98.147,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,2.0,1.0,SOFT,5.0,False,21,98.862,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,3.0,1.0,SOFT,6.0,False,1,98.83,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,4.0,1.0,SOFT,7.0,False,1,98.758,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,5.0,1.0,SOFT,8.0,False,1,98.404,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,6.0,1.0,SOFT,9.0,False,1,98.718,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,7.0,1.0,SOFT,10.0,False,1,98.804,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,8.0,1.0,SOFT,11.0,False,1,99.172,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,9.0,1.0,SOFT,12.0,False,1,98.914,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,10.0,1.0,SOFT,13.0,False,1,99.085,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,11.0,1.0,SOFT,14.0,False,1,99.249,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,12.0,1.0,SOFT,15.0,False,1,99.197,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,13.0,1.0,SOFT,16.0,False,1,99.336,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,14.0,1.0,SOFT,17.0,False,1,98.739,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,15.0,1.0,SOFT,18.0,False,1,98.608,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,16.0,1.0,SOFT,19.0,False,1,98.77,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,19.0,2.0,SOFT,4.0,False,1,97.659,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,20.0,2.0,SOFT,5.0,False,1,97.448,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,21.0,2.0,SOFT,6.0,False,1,97.24,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,22.0,2.0,SOFT,7.0,False,1,97.169,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,23.0,2.0,SOFT,8.0,False,1,97.304,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,24.0,2.0,SOFT,9.0,False,1,97.352,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,25.0,2.0,SOFT,10.0,False,1,98.418,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,26.0,2.0,SOFT,11.0,False,1,97.454,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,27.0,2.0,SOFT,12.0,False,1,97.387,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,28.0,2.0,SOFT,13.0,False,1,97.211,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,29.0,2.0,SOFT,14.0,False,1,97.733,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,30.0,2.0,SOFT,15.0,False,1,97.4,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,31.0,2.0,SOFT,16.0,False,1,97.919,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,32.0,2.0,SOFT,17.0,False,1,97.722,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,33.0,2.0,SOFT,18.0,False,1,97.869,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,36.0,3.0,HARD,2.0,True,1,96.82,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,37.0,3.0,HARD,3.0,True,1,96.344,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,38.0,3.0,HARD,4.0,True,1,96.431,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,39.0,3.0,HARD,5.0,True,1,96.429,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,40.0,3.0,HARD,6.0,True,1,97.114,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,43.0,3.0,HARD,9.0,True,1,96.554,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,44.0,3.0,HARD,10.0,True,1,96.978,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,45.0,3.0,HARD,11.0,True,1,96.928,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,46.0,3.0,HARD,12.0,True,1,97.257,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,47.0,3.0,HARD,13.0,True,1,96.661,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,48.0,3.0,HARD,14.0,True,1,96.859,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,49.0,3.0,HARD,15.0,True,1,97.049,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,50.0,3.0,HARD,16.0,True,1,97.731,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,51.0,3.0,HARD,17.0,True,1,97.049,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,52.0,3.0,HARD,18.0,True,1,97.062,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,53.0,3.0,HARD,19.0,True,1,97.345,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,54.0,3.0,HARD,20.0,True,1,97.296,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,55.0,3.0,HARD,21.0,True,1,97.092,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,56.0,3.0,HARD,22.0,True,1,96.565,2023,Bahrain Grand Prix,R
+PER,Red Bull Racing,57.0,3.0,HARD,23.0,True,1,96.558,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,2.0,1.0,SOFT,5.0,False,21,99.792,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,3.0,1.0,SOFT,6.0,False,1,99.1,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,4.0,1.0,SOFT,7.0,False,1,99.548,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,5.0,1.0,SOFT,8.0,False,1,99.662,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,6.0,1.0,SOFT,9.0,False,1,99.674,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,7.0,1.0,SOFT,10.0,False,1,99.729,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,8.0,1.0,SOFT,11.0,False,1,99.959,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,9.0,1.0,SOFT,12.0,False,1,100.275,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,10.0,1.0,SOFT,13.0,False,1,100.203,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,11.0,1.0,SOFT,14.0,False,1,101.147,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,12.0,1.0,SOFT,15.0,False,1,100.934,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,13.0,1.0,SOFT,16.0,False,1,100.341,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,16.0,2.0,HARD,2.0,True,1,97.542,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,17.0,2.0,HARD,3.0,True,1,98.139,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,18.0,2.0,HARD,4.0,True,1,98.124,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,19.0,2.0,HARD,5.0,True,1,98.361,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,20.0,2.0,HARD,6.0,True,1,98.318,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,21.0,2.0,HARD,7.0,True,1,98.407,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,22.0,2.0,HARD,8.0,True,1,98.2,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,23.0,2.0,HARD,9.0,True,1,97.853,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,24.0,2.0,HARD,10.0,True,1,97.878,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,25.0,2.0,HARD,11.0,True,1,98.139,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,26.0,2.0,HARD,12.0,True,1,98.127,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,27.0,2.0,HARD,13.0,True,1,98.612,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,28.0,2.0,HARD,14.0,True,1,98.199,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,29.0,2.0,HARD,15.0,True,1,98.585,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,30.0,2.0,HARD,16.0,True,1,98.282,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,31.0,2.0,HARD,17.0,True,1,98.009,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,32.0,2.0,HARD,18.0,True,1,97.871,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,33.0,2.0,HARD,19.0,True,1,97.769,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,36.0,3.0,HARD,2.0,True,1,96.156,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,37.0,3.0,HARD,3.0,True,1,97.431,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,38.0,3.0,HARD,4.0,True,1,97.002,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,39.0,3.0,HARD,5.0,True,1,97.243,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,40.0,3.0,HARD,6.0,True,12,97.208,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,42.0,3.0,HARD,8.0,True,1,96.334,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,43.0,3.0,HARD,9.0,True,1,96.911,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,44.0,3.0,HARD,10.0,True,1,97.022,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,45.0,3.0,HARD,11.0,True,1,97.931,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,46.0,3.0,HARD,12.0,True,1,97.087,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,47.0,3.0,HARD,13.0,True,1,97.326,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,48.0,3.0,HARD,14.0,True,1,96.783,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,49.0,3.0,HARD,15.0,True,1,96.726,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,50.0,3.0,HARD,16.0,True,1,96.331,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,51.0,3.0,HARD,17.0,True,1,96.96,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,52.0,3.0,HARD,18.0,True,1,97.01,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,53.0,3.0,HARD,19.0,True,1,97.01,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,54.0,3.0,HARD,20.0,True,1,97.599,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,55.0,3.0,HARD,21.0,True,1,97.662,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,56.0,3.0,HARD,22.0,True,1,97.473,2023,Bahrain Grand Prix,R
+ALO,Aston Martin,57.0,3.0,HARD,23.0,True,1,97.422,2023,Bahrain Grand Prix,R
+LEC,Ferrari,2.0,1.0,SOFT,2.0,True,21,98.75,2023,Bahrain Grand Prix,R
+LEC,Ferrari,3.0,1.0,SOFT,3.0,True,1,98.658,2023,Bahrain Grand Prix,R
+LEC,Ferrari,4.0,1.0,SOFT,4.0,True,1,98.825,2023,Bahrain Grand Prix,R
+LEC,Ferrari,5.0,1.0,SOFT,5.0,True,1,98.664,2023,Bahrain Grand Prix,R
+LEC,Ferrari,6.0,1.0,SOFT,6.0,True,1,98.572,2023,Bahrain Grand Prix,R
+LEC,Ferrari,7.0,1.0,SOFT,7.0,True,1,98.691,2023,Bahrain Grand Prix,R
+LEC,Ferrari,8.0,1.0,SOFT,8.0,True,1,98.614,2023,Bahrain Grand Prix,R
+LEC,Ferrari,9.0,1.0,SOFT,9.0,True,1,98.828,2023,Bahrain Grand Prix,R
+LEC,Ferrari,10.0,1.0,SOFT,10.0,True,1,99.073,2023,Bahrain Grand Prix,R
+LEC,Ferrari,11.0,1.0,SOFT,11.0,True,1,99.212,2023,Bahrain Grand Prix,R
+LEC,Ferrari,12.0,1.0,SOFT,12.0,True,1,99.489,2023,Bahrain Grand Prix,R
+LEC,Ferrari,15.0,2.0,HARD,2.0,True,1,98.477,2023,Bahrain Grand Prix,R
+LEC,Ferrari,16.0,2.0,HARD,3.0,True,1,97.953,2023,Bahrain Grand Prix,R
+LEC,Ferrari,17.0,2.0,HARD,4.0,True,1,98.031,2023,Bahrain Grand Prix,R
+LEC,Ferrari,18.0,2.0,HARD,5.0,True,1,97.798,2023,Bahrain Grand Prix,R
+LEC,Ferrari,19.0,2.0,HARD,6.0,True,1,97.858,2023,Bahrain Grand Prix,R
+LEC,Ferrari,20.0,2.0,HARD,7.0,True,1,97.631,2023,Bahrain Grand Prix,R
+LEC,Ferrari,21.0,2.0,HARD,8.0,True,1,97.753,2023,Bahrain Grand Prix,R
+LEC,Ferrari,22.0,2.0,HARD,9.0,True,1,98.162,2023,Bahrain Grand Prix,R
+LEC,Ferrari,23.0,2.0,HARD,10.0,True,1,98.054,2023,Bahrain Grand Prix,R
+LEC,Ferrari,24.0,2.0,HARD,11.0,True,1,97.972,2023,Bahrain Grand Prix,R
+LEC,Ferrari,25.0,2.0,HARD,12.0,True,1,98.541,2023,Bahrain Grand Prix,R
+LEC,Ferrari,26.0,2.0,HARD,13.0,True,1,99.668,2023,Bahrain Grand Prix,R
+LEC,Ferrari,27.0,2.0,HARD,14.0,True,1,98.814,2023,Bahrain Grand Prix,R
+LEC,Ferrari,28.0,2.0,HARD,15.0,True,1,98.618,2023,Bahrain Grand Prix,R
+LEC,Ferrari,29.0,2.0,HARD,16.0,True,1,98.447,2023,Bahrain Grand Prix,R
+LEC,Ferrari,30.0,2.0,HARD,17.0,True,1,98.39,2023,Bahrain Grand Prix,R
+LEC,Ferrari,31.0,2.0,HARD,18.0,True,1,98.746,2023,Bahrain Grand Prix,R
+LEC,Ferrari,32.0,2.0,HARD,19.0,True,1,98.948,2023,Bahrain Grand Prix,R
+LEC,Ferrari,35.0,3.0,HARD,2.0,True,1,98.073,2023,Bahrain Grand Prix,R
+LEC,Ferrari,36.0,3.0,HARD,3.0,True,1,97.313,2023,Bahrain Grand Prix,R
+LEC,Ferrari,37.0,3.0,HARD,4.0,True,1,97.17,2023,Bahrain Grand Prix,R
+LEC,Ferrari,38.0,3.0,HARD,5.0,True,1,97.17,2023,Bahrain Grand Prix,R
+LEC,Ferrari,39.0,3.0,HARD,6.0,True,1,97.287,2023,Bahrain Grand Prix,R
+STR,Aston Martin,2.0,1.0,SOFT,5.0,False,21,99.892,2023,Bahrain Grand Prix,R
+STR,Aston Martin,3.0,1.0,SOFT,6.0,False,1,99.625,2023,Bahrain Grand Prix,R
+STR,Aston Martin,4.0,1.0,SOFT,7.0,False,1,99.745,2023,Bahrain Grand Prix,R
+STR,Aston Martin,5.0,1.0,SOFT,8.0,False,1,99.144,2023,Bahrain Grand Prix,R
+STR,Aston Martin,6.0,1.0,SOFT,9.0,False,1,99.714,2023,Bahrain Grand Prix,R
+STR,Aston Martin,7.0,1.0,SOFT,10.0,False,1,99.945,2023,Bahrain Grand Prix,R
+STR,Aston Martin,8.0,1.0,SOFT,11.0,False,1,99.801,2023,Bahrain Grand Prix,R
+STR,Aston Martin,9.0,1.0,SOFT,12.0,False,1,100.106,2023,Bahrain Grand Prix,R
+STR,Aston Martin,10.0,1.0,SOFT,13.0,False,1,100.192,2023,Bahrain Grand Prix,R
+STR,Aston Martin,11.0,1.0,SOFT,14.0,False,1,100.923,2023,Bahrain Grand Prix,R
+STR,Aston Martin,12.0,1.0,SOFT,15.0,False,1,101.039,2023,Bahrain Grand Prix,R
+STR,Aston Martin,13.0,1.0,SOFT,16.0,False,1,101.12,2023,Bahrain Grand Prix,R
+STR,Aston Martin,14.0,1.0,SOFT,17.0,False,1,100.002,2023,Bahrain Grand Prix,R
+STR,Aston Martin,17.0,2.0,HARD,2.0,True,1,97.507,2023,Bahrain Grand Prix,R
+STR,Aston Martin,18.0,2.0,HARD,3.0,True,1,98.127,2023,Bahrain Grand Prix,R
+STR,Aston Martin,19.0,2.0,HARD,4.0,True,1,98.587,2023,Bahrain Grand Prix,R
+STR,Aston Martin,20.0,2.0,HARD,5.0,True,1,98.038,2023,Bahrain Grand Prix,R
+STR,Aston Martin,21.0,2.0,HARD,6.0,True,1,98.273,2023,Bahrain Grand Prix,R
+STR,Aston Martin,22.0,2.0,HARD,7.0,True,1,98.73,2023,Bahrain Grand Prix,R
+STR,Aston Martin,23.0,2.0,HARD,8.0,True,1,98.295,2023,Bahrain Grand Prix,R
+STR,Aston Martin,24.0,2.0,HARD,9.0,True,1,98.478,2023,Bahrain Grand Prix,R
+STR,Aston Martin,25.0,2.0,HARD,10.0,True,1,98.25,2023,Bahrain Grand Prix,R
+STR,Aston Martin,26.0,2.0,HARD,11.0,True,1,98.482,2023,Bahrain Grand Prix,R
+STR,Aston Martin,27.0,2.0,HARD,12.0,True,1,99.021,2023,Bahrain Grand Prix,R
+STR,Aston Martin,28.0,2.0,HARD,13.0,True,1,98.723,2023,Bahrain Grand Prix,R
+STR,Aston Martin,29.0,2.0,HARD,14.0,True,1,98.71,2023,Bahrain Grand Prix,R
+STR,Aston Martin,32.0,3.0,HARD,2.0,True,1,96.546,2023,Bahrain Grand Prix,R
+STR,Aston Martin,33.0,3.0,HARD,3.0,True,1,97.21,2023,Bahrain Grand Prix,R
+STR,Aston Martin,34.0,3.0,HARD,4.0,True,1,97.168,2023,Bahrain Grand Prix,R
+STR,Aston Martin,35.0,3.0,HARD,5.0,True,1,97.521,2023,Bahrain Grand Prix,R
+STR,Aston Martin,36.0,3.0,HARD,6.0,True,1,97.72,2023,Bahrain Grand Prix,R
+STR,Aston Martin,37.0,3.0,HARD,7.0,True,1,97.68,2023,Bahrain Grand Prix,R
+STR,Aston Martin,38.0,3.0,HARD,8.0,True,1,97.274,2023,Bahrain Grand Prix,R
+STR,Aston Martin,39.0,3.0,HARD,9.0,True,1,97.456,2023,Bahrain Grand Prix,R
+STR,Aston Martin,42.0,3.0,HARD,12.0,True,1,97.298,2023,Bahrain Grand Prix,R
+STR,Aston Martin,43.0,3.0,HARD,13.0,True,1,97.304,2023,Bahrain Grand Prix,R
+STR,Aston Martin,44.0,3.0,HARD,14.0,True,1,97.299,2023,Bahrain Grand Prix,R
+STR,Aston Martin,45.0,3.0,HARD,15.0,True,1,97.222,2023,Bahrain Grand Prix,R
+STR,Aston Martin,46.0,3.0,HARD,16.0,True,1,97.562,2023,Bahrain Grand Prix,R
+STR,Aston Martin,47.0,3.0,HARD,17.0,True,1,97.257,2023,Bahrain Grand Prix,R
+STR,Aston Martin,48.0,3.0,HARD,18.0,True,1,97.448,2023,Bahrain Grand Prix,R
+STR,Aston Martin,49.0,3.0,HARD,19.0,True,1,97.551,2023,Bahrain Grand Prix,R
+STR,Aston Martin,50.0,3.0,HARD,20.0,True,1,97.388,2023,Bahrain Grand Prix,R
+STR,Aston Martin,51.0,3.0,HARD,21.0,True,1,97.866,2023,Bahrain Grand Prix,R
+STR,Aston Martin,52.0,3.0,HARD,22.0,True,1,97.579,2023,Bahrain Grand Prix,R
+STR,Aston Martin,53.0,3.0,HARD,23.0,True,1,98.379,2023,Bahrain Grand Prix,R
+STR,Aston Martin,54.0,3.0,HARD,24.0,True,1,97.597,2023,Bahrain Grand Prix,R
+STR,Aston Martin,55.0,3.0,HARD,25.0,True,1,97.701,2023,Bahrain Grand Prix,R
+STR,Aston Martin,56.0,3.0,HARD,26.0,True,1,98.11,2023,Bahrain Grand Prix,R
+STR,Aston Martin,57.0,3.0,HARD,27.0,True,1,97.991,2023,Bahrain Grand Prix,R
+SAR,Williams,2.0,1.0,SOFT,2.0,True,21,100.467,2023,Bahrain Grand Prix,R
+SAR,Williams,3.0,1.0,SOFT,3.0,True,1,100.349,2023,Bahrain Grand Prix,R
+SAR,Williams,4.0,1.0,SOFT,4.0,True,1,100.644,2023,Bahrain Grand Prix,R
+SAR,Williams,5.0,1.0,SOFT,5.0,True,1,100.902,2023,Bahrain Grand Prix,R
+SAR,Williams,6.0,1.0,SOFT,6.0,True,1,100.791,2023,Bahrain Grand Prix,R
+SAR,Williams,7.0,1.0,SOFT,7.0,True,1,100.892,2023,Bahrain Grand Prix,R
+SAR,Williams,8.0,1.0,SOFT,8.0,True,1,100.868,2023,Bahrain Grand Prix,R
+SAR,Williams,9.0,1.0,SOFT,9.0,True,1,100.908,2023,Bahrain Grand Prix,R
+SAR,Williams,10.0,1.0,SOFT,10.0,True,1,101.133,2023,Bahrain Grand Prix,R
+SAR,Williams,11.0,1.0,SOFT,11.0,True,1,101.532,2023,Bahrain Grand Prix,R
+SAR,Williams,14.0,2.0,SOFT,2.0,True,1,98.413,2023,Bahrain Grand Prix,R
+SAR,Williams,15.0,2.0,SOFT,3.0,True,1,99.033,2023,Bahrain Grand Prix,R
+SAR,Williams,16.0,2.0,SOFT,4.0,True,1,98.988,2023,Bahrain Grand Prix,R
+SAR,Williams,17.0,2.0,SOFT,5.0,True,1,99.439,2023,Bahrain Grand Prix,R
+SAR,Williams,18.0,2.0,SOFT,6.0,True,1,99.399,2023,Bahrain Grand Prix,R
+SAR,Williams,19.0,2.0,SOFT,7.0,True,1,99.22,2023,Bahrain Grand Prix,R
+SAR,Williams,20.0,2.0,SOFT,8.0,True,1,99.186,2023,Bahrain Grand Prix,R
+SAR,Williams,21.0,2.0,SOFT,9.0,True,1,99.612,2023,Bahrain Grand Prix,R
+SAR,Williams,22.0,2.0,SOFT,10.0,True,1,99.362,2023,Bahrain Grand Prix,R
+SAR,Williams,23.0,2.0,SOFT,11.0,True,1,99.692,2023,Bahrain Grand Prix,R
+SAR,Williams,24.0,2.0,SOFT,12.0,True,1,99.872,2023,Bahrain Grand Prix,R
+SAR,Williams,25.0,2.0,SOFT,13.0,True,1,99.834,2023,Bahrain Grand Prix,R
+SAR,Williams,26.0,2.0,SOFT,14.0,True,1,100.006,2023,Bahrain Grand Prix,R
+SAR,Williams,27.0,2.0,SOFT,15.0,True,1,99.602,2023,Bahrain Grand Prix,R
+SAR,Williams,28.0,2.0,SOFT,16.0,True,1,99.62,2023,Bahrain Grand Prix,R
+SAR,Williams,29.0,2.0,SOFT,17.0,True,1,99.673,2023,Bahrain Grand Prix,R
+SAR,Williams,32.0,3.0,HARD,2.0,True,1,97.613,2023,Bahrain Grand Prix,R
+SAR,Williams,33.0,3.0,HARD,3.0,True,1,97.862,2023,Bahrain Grand Prix,R
+SAR,Williams,34.0,3.0,HARD,4.0,True,1,97.902,2023,Bahrain Grand Prix,R
+SAR,Williams,35.0,3.0,HARD,5.0,True,1,98.029,2023,Bahrain Grand Prix,R
+SAR,Williams,36.0,3.0,HARD,6.0,True,1,97.717,2023,Bahrain Grand Prix,R
+SAR,Williams,37.0,3.0,HARD,7.0,True,1,97.831,2023,Bahrain Grand Prix,R
+SAR,Williams,38.0,3.0,HARD,8.0,True,1,98.015,2023,Bahrain Grand Prix,R
+SAR,Williams,39.0,3.0,HARD,9.0,True,1,97.971,2023,Bahrain Grand Prix,R
+SAR,Williams,42.0,4.0,SOFT,2.0,True,1,96.037,2023,Bahrain Grand Prix,R
+SAR,Williams,43.0,4.0,SOFT,3.0,True,1,96.801,2023,Bahrain Grand Prix,R
+SAR,Williams,44.0,4.0,SOFT,4.0,True,1,97.407,2023,Bahrain Grand Prix,R
+SAR,Williams,45.0,4.0,SOFT,5.0,True,1,97.462,2023,Bahrain Grand Prix,R
+SAR,Williams,46.0,4.0,SOFT,6.0,True,1,98.441,2023,Bahrain Grand Prix,R
+SAR,Williams,47.0,4.0,SOFT,7.0,True,1,97.227,2023,Bahrain Grand Prix,R
+SAR,Williams,48.0,4.0,SOFT,8.0,True,1,97.068,2023,Bahrain Grand Prix,R
+SAR,Williams,49.0,4.0,SOFT,9.0,True,1,97.225,2023,Bahrain Grand Prix,R
+SAR,Williams,50.0,4.0,SOFT,10.0,True,1,97.29,2023,Bahrain Grand Prix,R
+SAR,Williams,51.0,4.0,SOFT,11.0,True,1,97.472,2023,Bahrain Grand Prix,R
+SAR,Williams,52.0,4.0,SOFT,12.0,True,1,97.456,2023,Bahrain Grand Prix,R
+SAR,Williams,53.0,4.0,SOFT,13.0,True,1,97.662,2023,Bahrain Grand Prix,R
+SAR,Williams,54.0,4.0,SOFT,14.0,True,1,97.936,2023,Bahrain Grand Prix,R
+SAR,Williams,55.0,4.0,SOFT,15.0,True,1,98.316,2023,Bahrain Grand Prix,R
+SAR,Williams,56.0,4.0,SOFT,16.0,True,1,99.626,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,2.0,1.0,HARD,2.0,True,21,101.521,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,3.0,1.0,HARD,3.0,True,1,101.978,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,4.0,1.0,HARD,4.0,True,1,100.773,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,5.0,1.0,HARD,5.0,True,1,101.34,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,6.0,1.0,HARD,6.0,True,1,101.125,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,7.0,1.0,HARD,7.0,True,1,101.526,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,8.0,1.0,HARD,8.0,True,1,101.283,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,101.278,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,101.719,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,11.0,1.0,HARD,11.0,True,1,102.049,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,12.0,1.0,HARD,12.0,True,1,101.345,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,13.0,1.0,HARD,13.0,True,1,101.654,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,14.0,1.0,HARD,14.0,True,1,101.739,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,17.0,2.0,HARD,2.0,True,1,98.319,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,18.0,2.0,HARD,3.0,True,1,98.274,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,19.0,2.0,HARD,4.0,True,1,98.803,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,20.0,2.0,HARD,5.0,True,1,99.083,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,21.0,2.0,HARD,6.0,True,1,99.086,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,22.0,2.0,HARD,7.0,True,1,98.913,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,23.0,2.0,HARD,8.0,True,1,99.027,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,24.0,2.0,HARD,9.0,True,1,98.947,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,25.0,2.0,HARD,10.0,True,1,99.476,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,26.0,2.0,HARD,11.0,True,1,99.601,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,27.0,2.0,HARD,12.0,True,1,99.298,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,28.0,2.0,HARD,13.0,True,1,99.316,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,31.0,3.0,SOFT,2.0,True,1,98.593,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,32.0,3.0,SOFT,3.0,True,1,97.644,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,33.0,3.0,SOFT,4.0,True,1,97.097,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,34.0,3.0,SOFT,5.0,True,1,97.528,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,35.0,3.0,SOFT,6.0,True,1,97.46,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,36.0,3.0,SOFT,7.0,True,1,97.754,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,37.0,3.0,SOFT,8.0,True,1,97.998,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,38.0,3.0,SOFT,9.0,True,1,98.303,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,39.0,3.0,SOFT,10.0,True,1,98.587,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,42.0,4.0,SOFT,2.0,True,1,96.471,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,43.0,4.0,SOFT,3.0,True,1,96.942,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,44.0,4.0,SOFT,4.0,True,1,96.588,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,45.0,4.0,SOFT,5.0,True,1,97.126,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,46.0,4.0,SOFT,6.0,True,1,97.589,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,47.0,4.0,SOFT,7.0,True,1,97.629,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,48.0,4.0,SOFT,8.0,True,1,97.607,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,49.0,4.0,SOFT,9.0,True,1,97.739,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,50.0,4.0,SOFT,10.0,True,1,98.315,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,51.0,4.0,SOFT,11.0,True,1,98.157,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,52.0,4.0,SOFT,12.0,True,1,97.963,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,53.0,4.0,SOFT,13.0,True,1,97.982,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,54.0,4.0,SOFT,14.0,True,1,99.651,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,55.0,4.0,SOFT,15.0,True,1,98.446,2023,Bahrain Grand Prix,R
+MAG,Haas F1 Team,56.0,4.0,SOFT,16.0,True,1,98.779,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,2.0,1.0,SOFT,2.0,True,21,101.289,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,3.0,1.0,SOFT,3.0,True,1,100.914,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,4.0,1.0,SOFT,4.0,True,1,100.373,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,5.0,1.0,SOFT,5.0,True,1,100.63,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,6.0,1.0,SOFT,6.0,True,1,101.125,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,7.0,1.0,SOFT,7.0,True,1,101.166,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,8.0,1.0,SOFT,8.0,True,1,101.23,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,9.0,1.0,SOFT,9.0,True,1,101.573,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,10.0,1.0,SOFT,10.0,True,1,101.666,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,13.0,2.0,HARD,2.0,True,1,98.924,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,14.0,2.0,HARD,3.0,True,1,98.829,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,15.0,2.0,HARD,4.0,True,1,98.868,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,16.0,2.0,HARD,5.0,True,1,99.127,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,17.0,2.0,HARD,6.0,True,1,98.996,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,18.0,2.0,HARD,7.0,True,1,99.054,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,19.0,2.0,HARD,8.0,True,1,99.078,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,20.0,2.0,HARD,9.0,True,1,99.182,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,21.0,2.0,HARD,10.0,True,1,99.182,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,22.0,2.0,HARD,11.0,True,1,99.296,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,23.0,2.0,HARD,12.0,True,1,99.542,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,24.0,2.0,HARD,13.0,True,1,99.807,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,25.0,2.0,HARD,14.0,True,1,100.96,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,26.0,2.0,HARD,15.0,True,1,99.97,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,29.0,3.0,HARD,2.0,True,1,98.121,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,30.0,3.0,HARD,3.0,True,1,97.709,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,31.0,3.0,HARD,4.0,True,1,97.909,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,32.0,3.0,HARD,5.0,True,1,97.902,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,33.0,3.0,HARD,6.0,True,1,97.933,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,34.0,3.0,HARD,7.0,True,1,98.266,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,35.0,3.0,HARD,8.0,True,1,98.123,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,36.0,3.0,HARD,9.0,True,1,98.206,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,37.0,3.0,HARD,10.0,True,1,98.423,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,38.0,3.0,HARD,11.0,True,1,98.379,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,39.0,3.0,HARD,12.0,True,1,98.535,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,42.0,3.0,HARD,15.0,True,1,99.873,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,43.0,3.0,HARD,16.0,True,1,100.177,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,44.0,3.0,HARD,17.0,True,1,99.588,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,45.0,3.0,HARD,18.0,True,1,98.889,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,46.0,3.0,HARD,19.0,True,1,98.871,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,47.0,3.0,HARD,20.0,True,1,98.921,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,48.0,3.0,HARD,21.0,True,1,100.441,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,49.0,3.0,HARD,22.0,True,1,98.985,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,50.0,3.0,HARD,23.0,True,1,99.089,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,51.0,3.0,HARD,24.0,True,1,100.475,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,52.0,3.0,HARD,25.0,True,1,100.33,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,53.0,3.0,HARD,26.0,True,1,99.15,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,54.0,3.0,HARD,27.0,True,1,98.885,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,55.0,3.0,HARD,28.0,True,1,99.239,2023,Bahrain Grand Prix,R
+DEV,AlphaTauri,56.0,3.0,HARD,29.0,True,1,99.161,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,2.0,1.0,SOFT,2.0,True,21,100.837,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,3.0,1.0,SOFT,3.0,True,1,100.243,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,4.0,1.0,SOFT,4.0,True,1,99.95,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,5.0,1.0,SOFT,5.0,True,1,101.131,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,6.0,1.0,SOFT,6.0,True,1,100.886,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,7.0,1.0,SOFT,7.0,True,1,100.952,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,8.0,1.0,SOFT,8.0,True,1,100.846,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,9.0,1.0,SOFT,9.0,True,1,101.01,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,12.0,2.0,HARD,2.0,True,1,99.143,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,13.0,2.0,HARD,3.0,True,1,99.471,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,14.0,2.0,HARD,4.0,True,1,98.742,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,15.0,2.0,HARD,5.0,True,1,98.975,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,16.0,2.0,HARD,6.0,True,1,99.061,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,17.0,2.0,HARD,7.0,True,1,99.021,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,18.0,2.0,HARD,8.0,True,1,99.302,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,19.0,2.0,HARD,9.0,True,1,99.17,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,20.0,2.0,HARD,10.0,True,1,99.282,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,21.0,2.0,HARD,11.0,True,1,99.325,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,22.0,2.0,HARD,12.0,True,1,99.439,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,23.0,2.0,HARD,13.0,True,1,99.632,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,24.0,2.0,HARD,14.0,True,1,100.109,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,25.0,2.0,HARD,15.0,True,1,99.746,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,28.0,3.0,HARD,2.0,True,1,97.824,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,29.0,3.0,HARD,3.0,True,1,97.779,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,30.0,3.0,HARD,4.0,True,1,98.147,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,31.0,3.0,HARD,5.0,True,1,97.813,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,32.0,3.0,HARD,6.0,True,1,98.017,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,33.0,3.0,HARD,7.0,True,1,98.094,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,34.0,3.0,HARD,8.0,True,1,98.13,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,35.0,3.0,HARD,9.0,True,1,98.163,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,36.0,3.0,HARD,10.0,True,1,98.059,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,37.0,3.0,HARD,11.0,True,1,98.075,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,38.0,3.0,HARD,12.0,True,1,98.084,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,39.0,3.0,HARD,13.0,True,1,98.419,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,42.0,4.0,SOFT,5.0,False,1,96.637,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,43.0,4.0,SOFT,6.0,False,1,97.028,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,44.0,4.0,SOFT,7.0,False,1,97.01,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,45.0,4.0,SOFT,8.0,False,1,97.021,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,46.0,4.0,SOFT,9.0,False,1,97.258,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,47.0,4.0,SOFT,10.0,False,1,97.359,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,48.0,4.0,SOFT,11.0,False,1,97.238,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,49.0,4.0,SOFT,12.0,False,1,97.528,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,50.0,4.0,SOFT,13.0,False,1,97.624,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,51.0,4.0,SOFT,14.0,False,1,97.706,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,52.0,4.0,SOFT,15.0,False,1,97.59,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,53.0,4.0,SOFT,16.0,False,1,97.675,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,54.0,4.0,SOFT,17.0,False,1,97.72,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,55.0,4.0,SOFT,18.0,False,1,97.945,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,56.0,4.0,SOFT,19.0,False,1,98.102,2023,Bahrain Grand Prix,R
+TSU,AlphaTauri,57.0,4.0,SOFT,20.0,False,1,98.246,2023,Bahrain Grand Prix,R
+ALB,Williams,2.0,1.0,SOFT,2.0,True,21,100.43,2023,Bahrain Grand Prix,R
+ALB,Williams,3.0,1.0,SOFT,3.0,True,1,100.143,2023,Bahrain Grand Prix,R
+ALB,Williams,4.0,1.0,SOFT,4.0,True,1,99.761,2023,Bahrain Grand Prix,R
+ALB,Williams,5.0,1.0,SOFT,5.0,True,1,100.606,2023,Bahrain Grand Prix,R
+ALB,Williams,6.0,1.0,SOFT,6.0,True,1,100.744,2023,Bahrain Grand Prix,R
+ALB,Williams,7.0,1.0,SOFT,7.0,True,1,100.646,2023,Bahrain Grand Prix,R
+ALB,Williams,8.0,1.0,SOFT,8.0,True,1,100.918,2023,Bahrain Grand Prix,R
+ALB,Williams,9.0,1.0,SOFT,9.0,True,1,100.969,2023,Bahrain Grand Prix,R
+ALB,Williams,10.0,1.0,SOFT,10.0,True,1,101.119,2023,Bahrain Grand Prix,R
+ALB,Williams,13.0,2.0,SOFT,2.0,True,1,98.649,2023,Bahrain Grand Prix,R
+ALB,Williams,14.0,2.0,SOFT,3.0,True,1,98.472,2023,Bahrain Grand Prix,R
+ALB,Williams,15.0,2.0,SOFT,4.0,True,1,99.158,2023,Bahrain Grand Prix,R
+ALB,Williams,16.0,2.0,SOFT,5.0,True,1,99.253,2023,Bahrain Grand Prix,R
+ALB,Williams,17.0,2.0,SOFT,6.0,True,1,99.094,2023,Bahrain Grand Prix,R
+ALB,Williams,18.0,2.0,SOFT,7.0,True,1,99.049,2023,Bahrain Grand Prix,R
+ALB,Williams,19.0,2.0,SOFT,8.0,True,1,99.272,2023,Bahrain Grand Prix,R
+ALB,Williams,20.0,2.0,SOFT,9.0,True,1,99.299,2023,Bahrain Grand Prix,R
+ALB,Williams,21.0,2.0,SOFT,10.0,True,1,99.591,2023,Bahrain Grand Prix,R
+ALB,Williams,22.0,2.0,SOFT,11.0,True,1,99.588,2023,Bahrain Grand Prix,R
+ALB,Williams,23.0,2.0,SOFT,12.0,True,1,99.802,2023,Bahrain Grand Prix,R
+ALB,Williams,24.0,2.0,SOFT,13.0,True,1,99.89,2023,Bahrain Grand Prix,R
+ALB,Williams,25.0,2.0,SOFT,14.0,True,1,99.832,2023,Bahrain Grand Prix,R
+ALB,Williams,28.0,3.0,HARD,2.0,True,1,97.503,2023,Bahrain Grand Prix,R
+ALB,Williams,29.0,3.0,HARD,3.0,True,1,98.127,2023,Bahrain Grand Prix,R
+ALB,Williams,30.0,3.0,HARD,4.0,True,1,97.931,2023,Bahrain Grand Prix,R
+ALB,Williams,31.0,3.0,HARD,5.0,True,1,98.104,2023,Bahrain Grand Prix,R
+ALB,Williams,32.0,3.0,HARD,6.0,True,1,97.919,2023,Bahrain Grand Prix,R
+ALB,Williams,33.0,3.0,HARD,7.0,True,1,98.104,2023,Bahrain Grand Prix,R
+ALB,Williams,34.0,3.0,HARD,8.0,True,1,97.961,2023,Bahrain Grand Prix,R
+ALB,Williams,35.0,3.0,HARD,9.0,True,1,97.984,2023,Bahrain Grand Prix,R
+ALB,Williams,36.0,3.0,HARD,10.0,True,1,98.176,2023,Bahrain Grand Prix,R
+ALB,Williams,37.0,3.0,HARD,11.0,True,1,98.038,2023,Bahrain Grand Prix,R
+ALB,Williams,38.0,3.0,HARD,12.0,True,1,98.33,2023,Bahrain Grand Prix,R
+ALB,Williams,39.0,3.0,HARD,13.0,True,1,98.346,2023,Bahrain Grand Prix,R
+ALB,Williams,42.0,4.0,SOFT,2.0,False,1,97.211,2023,Bahrain Grand Prix,R
+ALB,Williams,43.0,4.0,SOFT,3.0,False,1,97.144,2023,Bahrain Grand Prix,R
+ALB,Williams,44.0,4.0,SOFT,4.0,False,1,97.327,2023,Bahrain Grand Prix,R
+ALB,Williams,45.0,4.0,SOFT,5.0,False,1,97.503,2023,Bahrain Grand Prix,R
+ALB,Williams,46.0,4.0,SOFT,6.0,False,1,97.577,2023,Bahrain Grand Prix,R
+ALB,Williams,47.0,4.0,SOFT,7.0,False,1,97.545,2023,Bahrain Grand Prix,R
+ALB,Williams,48.0,4.0,SOFT,8.0,False,1,97.684,2023,Bahrain Grand Prix,R
+ALB,Williams,49.0,4.0,SOFT,9.0,False,1,97.609,2023,Bahrain Grand Prix,R
+ALB,Williams,50.0,4.0,SOFT,10.0,False,1,97.695,2023,Bahrain Grand Prix,R
+ALB,Williams,51.0,4.0,SOFT,11.0,False,1,97.727,2023,Bahrain Grand Prix,R
+ALB,Williams,52.0,4.0,SOFT,12.0,False,1,97.861,2023,Bahrain Grand Prix,R
+ALB,Williams,53.0,4.0,SOFT,13.0,False,1,97.778,2023,Bahrain Grand Prix,R
+ALB,Williams,54.0,4.0,SOFT,14.0,False,1,97.78,2023,Bahrain Grand Prix,R
+ALB,Williams,55.0,4.0,SOFT,15.0,False,1,97.803,2023,Bahrain Grand Prix,R
+ALB,Williams,56.0,4.0,SOFT,16.0,False,1,98.159,2023,Bahrain Grand Prix,R
+ALB,Williams,57.0,4.0,SOFT,17.0,False,1,98.137,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,2.0,1.0,SOFT,2.0,True,21,101.091,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,3.0,1.0,SOFT,3.0,True,1,100.596,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,4.0,1.0,SOFT,4.0,True,1,100.853,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,5.0,1.0,SOFT,5.0,True,1,100.814,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,6.0,1.0,SOFT,6.0,True,1,101.156,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,7.0,1.0,SOFT,7.0,True,1,101.197,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,8.0,1.0,SOFT,8.0,True,1,101.184,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,9.0,1.0,SOFT,9.0,True,1,101.526,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,10.0,1.0,SOFT,10.0,True,1,101.743,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,11.0,1.0,SOFT,11.0,True,1,102.108,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,14.0,2.0,HARD,2.0,True,1,99.33,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,15.0,2.0,HARD,3.0,True,1,99.229,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,16.0,2.0,HARD,4.0,True,1,98.998,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,17.0,2.0,HARD,5.0,True,1,99.143,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,18.0,2.0,HARD,6.0,True,1,98.873,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,19.0,2.0,HARD,7.0,True,1,98.794,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,20.0,2.0,HARD,8.0,True,1,98.896,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,21.0,2.0,HARD,9.0,True,1,98.888,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,22.0,2.0,HARD,10.0,True,1,99.115,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,23.0,2.0,HARD,11.0,True,1,99.462,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,24.0,2.0,HARD,12.0,True,1,99.503,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,25.0,2.0,HARD,13.0,True,1,99.066,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,26.0,2.0,HARD,14.0,True,1,99.427,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,27.0,2.0,HARD,15.0,True,1,99.235,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,28.0,2.0,HARD,16.0,True,1,99.412,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,29.0,2.0,HARD,17.0,True,1,99.361,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,30.0,2.0,HARD,18.0,True,1,99.382,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,31.0,2.0,HARD,19.0,True,1,99.67,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,34.0,3.0,SOFT,5.0,False,1,97.037,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,35.0,3.0,SOFT,6.0,False,1,97.55,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,36.0,3.0,SOFT,7.0,False,1,97.957,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,37.0,3.0,SOFT,8.0,False,1,98.003,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,38.0,3.0,SOFT,9.0,False,1,98.422,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,39.0,3.0,SOFT,10.0,False,1,98.368,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,42.0,3.0,SOFT,13.0,False,1,99.904,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,43.0,3.0,SOFT,14.0,False,1,98.311,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,44.0,3.0,SOFT,15.0,False,1,97.974,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,45.0,3.0,SOFT,16.0,False,1,97.95,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,46.0,3.0,SOFT,17.0,False,1,98.336,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,47.0,3.0,SOFT,18.0,False,1,99.553,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,48.0,3.0,SOFT,19.0,False,1,98.596,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,49.0,3.0,SOFT,20.0,False,1,98.628,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,50.0,3.0,SOFT,21.0,False,1,99.893,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,51.0,3.0,SOFT,22.0,False,1,98.719,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,52.0,3.0,SOFT,23.0,False,1,98.713,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,53.0,3.0,SOFT,24.0,False,1,98.634,2023,Bahrain Grand Prix,R
+ZHO,Alfa Romeo,56.0,4.0,SOFT,5.0,False,1,93.996,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,2.0,1.0,SOFT,5.0,False,21,100.72,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,3.0,1.0,SOFT,6.0,False,1,100.484,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,4.0,1.0,SOFT,7.0,False,1,101.004,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,5.0,1.0,SOFT,8.0,False,1,101.002,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,6.0,1.0,SOFT,9.0,False,1,101.002,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,7.0,1.0,SOFT,10.0,False,1,101.148,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,8.0,1.0,SOFT,11.0,False,1,101.249,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,9.0,1.0,SOFT,12.0,False,1,101.615,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,10.0,1.0,SOFT,13.0,False,1,102.252,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,13.0,2.0,HARD,2.0,True,1,99.406,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,14.0,2.0,HARD,3.0,True,1,98.847,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,15.0,2.0,HARD,4.0,True,1,98.972,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,16.0,2.0,HARD,5.0,True,1,99.136,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,17.0,2.0,HARD,6.0,True,1,99.396,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,18.0,2.0,HARD,7.0,True,1,100.323,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,19.0,2.0,HARD,8.0,True,1,99.633,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,20.0,2.0,HARD,9.0,True,1,99.495,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,21.0,2.0,HARD,10.0,True,1,99.703,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,22.0,2.0,HARD,11.0,True,1,99.934,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,23.0,2.0,HARD,12.0,True,1,99.866,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,24.0,2.0,HARD,13.0,True,1,99.855,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,25.0,2.0,HARD,14.0,True,1,100.295,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,28.0,3.0,HARD,2.0,True,1,96.981,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,29.0,3.0,HARD,3.0,True,1,97.398,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,30.0,3.0,HARD,4.0,True,1,97.617,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,31.0,3.0,HARD,5.0,True,1,97.891,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,32.0,3.0,HARD,6.0,True,1,97.806,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,33.0,3.0,HARD,7.0,True,1,97.761,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,34.0,3.0,HARD,8.0,True,1,97.895,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,35.0,3.0,HARD,9.0,True,1,98.093,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,36.0,3.0,HARD,10.0,True,1,98.245,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,37.0,3.0,HARD,11.0,True,1,98.108,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,38.0,3.0,HARD,12.0,True,1,98.191,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,39.0,3.0,HARD,13.0,True,1,98.184,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,42.0,4.0,SOFT,5.0,False,1,96.616,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,43.0,4.0,SOFT,6.0,False,1,96.793,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,44.0,4.0,SOFT,7.0,False,1,97.076,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,45.0,4.0,SOFT,8.0,False,1,97.314,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,46.0,4.0,SOFT,9.0,False,1,99.972,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,47.0,4.0,SOFT,10.0,False,1,96.806,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,48.0,4.0,SOFT,11.0,False,1,97.086,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,49.0,4.0,SOFT,12.0,False,1,97.077,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,50.0,4.0,SOFT,13.0,False,1,97.242,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,51.0,4.0,SOFT,14.0,False,1,97.306,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,52.0,4.0,SOFT,15.0,False,1,97.917,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,53.0,4.0,SOFT,16.0,False,1,98.067,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,54.0,4.0,SOFT,17.0,False,1,98.458,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,55.0,4.0,SOFT,18.0,False,1,98.564,2023,Bahrain Grand Prix,R
+HUL,Haas F1 Team,56.0,4.0,SOFT,19.0,False,1,99.206,2023,Bahrain Grand Prix,R
+OCO,Alpine,2.0,1.0,SOFT,5.0,False,21,100.408,2023,Bahrain Grand Prix,R
+OCO,Alpine,3.0,1.0,SOFT,6.0,False,1,99.948,2023,Bahrain Grand Prix,R
+OCO,Alpine,4.0,1.0,SOFT,7.0,False,1,99.543,2023,Bahrain Grand Prix,R
+OCO,Alpine,5.0,1.0,SOFT,8.0,False,1,100.281,2023,Bahrain Grand Prix,R
+OCO,Alpine,6.0,1.0,SOFT,9.0,False,1,100.331,2023,Bahrain Grand Prix,R
+OCO,Alpine,7.0,1.0,SOFT,10.0,False,1,100.488,2023,Bahrain Grand Prix,R
+OCO,Alpine,8.0,1.0,SOFT,11.0,False,1,100.562,2023,Bahrain Grand Prix,R
+OCO,Alpine,9.0,1.0,SOFT,12.0,False,1,100.866,2023,Bahrain Grand Prix,R
+OCO,Alpine,10.0,1.0,SOFT,13.0,False,1,100.858,2023,Bahrain Grand Prix,R
+OCO,Alpine,11.0,1.0,SOFT,14.0,False,1,101.035,2023,Bahrain Grand Prix,R
+OCO,Alpine,14.0,2.0,HARD,2.0,True,1,98.649,2023,Bahrain Grand Prix,R
+OCO,Alpine,17.0,3.0,HARD,5.0,False,1,98.78,2023,Bahrain Grand Prix,R
+OCO,Alpine,18.0,3.0,HARD,6.0,False,1,98.886,2023,Bahrain Grand Prix,R
+OCO,Alpine,19.0,3.0,HARD,7.0,False,1,98.817,2023,Bahrain Grand Prix,R
+OCO,Alpine,20.0,3.0,HARD,8.0,False,1,98.809,2023,Bahrain Grand Prix,R
+OCO,Alpine,21.0,3.0,HARD,9.0,False,1,98.976,2023,Bahrain Grand Prix,R
+OCO,Alpine,22.0,3.0,HARD,10.0,False,1,99.028,2023,Bahrain Grand Prix,R
+OCO,Alpine,23.0,3.0,HARD,11.0,False,1,100.052,2023,Bahrain Grand Prix,R
+OCO,Alpine,24.0,3.0,HARD,12.0,False,1,99.382,2023,Bahrain Grand Prix,R
+OCO,Alpine,25.0,3.0,HARD,13.0,False,1,99.435,2023,Bahrain Grand Prix,R
+OCO,Alpine,26.0,3.0,HARD,14.0,False,1,99.521,2023,Bahrain Grand Prix,R
+OCO,Alpine,27.0,3.0,HARD,15.0,False,1,99.594,2023,Bahrain Grand Prix,R
+OCO,Alpine,28.0,3.0,HARD,16.0,False,1,100.026,2023,Bahrain Grand Prix,R
+OCO,Alpine,29.0,3.0,HARD,17.0,False,1,101.181,2023,Bahrain Grand Prix,R
+OCO,Alpine,30.0,3.0,HARD,18.0,False,1,99.757,2023,Bahrain Grand Prix,R
+OCO,Alpine,31.0,3.0,HARD,19.0,False,1,99.748,2023,Bahrain Grand Prix,R
+OCO,Alpine,34.0,4.0,HARD,2.0,True,1,96.797,2023,Bahrain Grand Prix,R
+OCO,Alpine,35.0,4.0,HARD,3.0,True,1,96.964,2023,Bahrain Grand Prix,R
+OCO,Alpine,36.0,4.0,HARD,4.0,True,1,97.364,2023,Bahrain Grand Prix,R
+OCO,Alpine,37.0,4.0,HARD,5.0,True,1,97.338,2023,Bahrain Grand Prix,R
+OCO,Alpine,38.0,4.0,HARD,6.0,True,1,97.216,2023,Bahrain Grand Prix,R
+OCO,Alpine,39.0,4.0,HARD,7.0,True,12,97.523,2023,Bahrain Grand Prix,R
+NOR,McLaren,2.0,1.0,SOFT,2.0,True,21,100.433,2023,Bahrain Grand Prix,R
+NOR,McLaren,3.0,1.0,SOFT,3.0,True,1,99.777,2023,Bahrain Grand Prix,R
+NOR,McLaren,4.0,1.0,SOFT,4.0,True,1,102.267,2023,Bahrain Grand Prix,R
+NOR,McLaren,5.0,1.0,SOFT,5.0,True,1,100.664,2023,Bahrain Grand Prix,R
+NOR,McLaren,6.0,1.0,SOFT,6.0,True,1,100.814,2023,Bahrain Grand Prix,R
+NOR,McLaren,7.0,1.0,SOFT,7.0,True,1,100.726,2023,Bahrain Grand Prix,R
+NOR,McLaren,8.0,1.0,SOFT,8.0,True,1,100.857,2023,Bahrain Grand Prix,R
+NOR,McLaren,9.0,1.0,SOFT,9.0,True,1,100.783,2023,Bahrain Grand Prix,R
+NOR,McLaren,12.0,2.0,HARD,2.0,True,1,99.314,2023,Bahrain Grand Prix,R
+NOR,McLaren,13.0,2.0,HARD,3.0,True,1,99.51,2023,Bahrain Grand Prix,R
+NOR,McLaren,14.0,2.0,HARD,4.0,True,1,99.243,2023,Bahrain Grand Prix,R
+NOR,McLaren,15.0,2.0,HARD,5.0,True,1,98.87,2023,Bahrain Grand Prix,R
+NOR,McLaren,16.0,2.0,HARD,6.0,True,1,98.86,2023,Bahrain Grand Prix,R
+NOR,McLaren,19.0,3.0,SOFT,5.0,False,1,97.966,2023,Bahrain Grand Prix,R
+NOR,McLaren,20.0,3.0,SOFT,6.0,False,1,98.345,2023,Bahrain Grand Prix,R
+NOR,McLaren,21.0,3.0,SOFT,7.0,False,1,98.297,2023,Bahrain Grand Prix,R
+NOR,McLaren,22.0,3.0,SOFT,8.0,False,1,98.908,2023,Bahrain Grand Prix,R
+NOR,McLaren,23.0,3.0,SOFT,9.0,False,1,98.291,2023,Bahrain Grand Prix,R
+NOR,McLaren,24.0,3.0,SOFT,10.0,False,1,98.696,2023,Bahrain Grand Prix,R
+NOR,McLaren,25.0,3.0,SOFT,11.0,False,1,98.447,2023,Bahrain Grand Prix,R
+NOR,McLaren,26.0,3.0,SOFT,12.0,False,1,98.44,2023,Bahrain Grand Prix,R
+NOR,McLaren,29.0,4.0,MEDIUM,2.0,True,1,97.26,2023,Bahrain Grand Prix,R
+NOR,McLaren,30.0,4.0,MEDIUM,3.0,True,1,97.605,2023,Bahrain Grand Prix,R
+NOR,McLaren,31.0,4.0,MEDIUM,4.0,True,1,97.768,2023,Bahrain Grand Prix,R
+NOR,McLaren,32.0,4.0,MEDIUM,5.0,True,1,98.111,2023,Bahrain Grand Prix,R
+NOR,McLaren,33.0,4.0,MEDIUM,6.0,True,1,97.52,2023,Bahrain Grand Prix,R
+NOR,McLaren,34.0,4.0,MEDIUM,7.0,True,1,97.987,2023,Bahrain Grand Prix,R
+NOR,McLaren,35.0,4.0,MEDIUM,8.0,True,1,97.87,2023,Bahrain Grand Prix,R
+NOR,McLaren,36.0,4.0,MEDIUM,9.0,True,1,99.886,2023,Bahrain Grand Prix,R
+NOR,McLaren,39.0,5.0,HARD,2.0,True,12,98.347,2023,Bahrain Grand Prix,R
+NOR,McLaren,41.0,5.0,HARD,4.0,True,1,96.705,2023,Bahrain Grand Prix,R
+NOR,McLaren,42.0,5.0,HARD,5.0,True,1,96.668,2023,Bahrain Grand Prix,R
+NOR,McLaren,43.0,5.0,HARD,6.0,True,1,96.687,2023,Bahrain Grand Prix,R
+NOR,McLaren,44.0,5.0,HARD,7.0,True,1,97.219,2023,Bahrain Grand Prix,R
+NOR,McLaren,45.0,5.0,HARD,8.0,True,1,97.426,2023,Bahrain Grand Prix,R
+NOR,McLaren,46.0,5.0,HARD,9.0,True,1,97.656,2023,Bahrain Grand Prix,R
+NOR,McLaren,49.0,6.0,SOFT,6.0,False,1,99.08,2023,Bahrain Grand Prix,R
+NOR,McLaren,50.0,6.0,SOFT,7.0,False,1,95.257,2023,Bahrain Grand Prix,R
+NOR,McLaren,51.0,6.0,SOFT,8.0,False,1,95.822,2023,Bahrain Grand Prix,R
+NOR,McLaren,52.0,6.0,SOFT,9.0,False,1,96.152,2023,Bahrain Grand Prix,R
+NOR,McLaren,53.0,6.0,SOFT,10.0,False,1,96.5,2023,Bahrain Grand Prix,R
+HAM,Mercedes,2.0,1.0,SOFT,5.0,False,21,99.166,2023,Bahrain Grand Prix,R
+HAM,Mercedes,3.0,1.0,SOFT,6.0,False,1,99.22,2023,Bahrain Grand Prix,R
+HAM,Mercedes,4.0,1.0,SOFT,7.0,False,1,99.198,2023,Bahrain Grand Prix,R
+HAM,Mercedes,5.0,1.0,SOFT,8.0,False,1,99.335,2023,Bahrain Grand Prix,R
+HAM,Mercedes,6.0,1.0,SOFT,9.0,False,1,99.756,2023,Bahrain Grand Prix,R
+HAM,Mercedes,7.0,1.0,SOFT,10.0,False,1,99.757,2023,Bahrain Grand Prix,R
+HAM,Mercedes,8.0,1.0,SOFT,11.0,False,1,100.267,2023,Bahrain Grand Prix,R
+HAM,Mercedes,9.0,1.0,SOFT,12.0,False,1,100.323,2023,Bahrain Grand Prix,R
+HAM,Mercedes,10.0,1.0,SOFT,13.0,False,1,100.289,2023,Bahrain Grand Prix,R
+HAM,Mercedes,11.0,1.0,SOFT,14.0,False,1,100.752,2023,Bahrain Grand Prix,R
+HAM,Mercedes,14.0,2.0,HARD,2.0,True,1,98.308,2023,Bahrain Grand Prix,R
+HAM,Mercedes,15.0,2.0,HARD,3.0,True,1,98.527,2023,Bahrain Grand Prix,R
+HAM,Mercedes,16.0,2.0,HARD,4.0,True,1,98.617,2023,Bahrain Grand Prix,R
+HAM,Mercedes,17.0,2.0,HARD,5.0,True,1,98.704,2023,Bahrain Grand Prix,R
+HAM,Mercedes,18.0,2.0,HARD,6.0,True,1,98.69,2023,Bahrain Grand Prix,R
+HAM,Mercedes,19.0,2.0,HARD,7.0,True,1,98.684,2023,Bahrain Grand Prix,R
+HAM,Mercedes,20.0,2.0,HARD,8.0,True,1,98.478,2023,Bahrain Grand Prix,R
+HAM,Mercedes,21.0,2.0,HARD,9.0,True,1,98.581,2023,Bahrain Grand Prix,R
+HAM,Mercedes,22.0,2.0,HARD,10.0,True,1,98.46,2023,Bahrain Grand Prix,R
+HAM,Mercedes,23.0,2.0,HARD,11.0,True,1,98.384,2023,Bahrain Grand Prix,R
+HAM,Mercedes,24.0,2.0,HARD,12.0,True,1,98.367,2023,Bahrain Grand Prix,R
+HAM,Mercedes,25.0,2.0,HARD,13.0,True,1,98.29,2023,Bahrain Grand Prix,R
+HAM,Mercedes,26.0,2.0,HARD,14.0,True,1,98.339,2023,Bahrain Grand Prix,R
+HAM,Mercedes,27.0,2.0,HARD,15.0,True,1,98.369,2023,Bahrain Grand Prix,R
+HAM,Mercedes,28.0,2.0,HARD,16.0,True,1,98.265,2023,Bahrain Grand Prix,R
+HAM,Mercedes,29.0,2.0,HARD,17.0,True,1,98.38,2023,Bahrain Grand Prix,R
+HAM,Mercedes,32.0,3.0,HARD,2.0,True,1,97.563,2023,Bahrain Grand Prix,R
+HAM,Mercedes,33.0,3.0,HARD,3.0,True,1,97.549,2023,Bahrain Grand Prix,R
+HAM,Mercedes,34.0,3.0,HARD,4.0,True,1,98.135,2023,Bahrain Grand Prix,R
+HAM,Mercedes,35.0,3.0,HARD,5.0,True,1,96.831,2023,Bahrain Grand Prix,R
+HAM,Mercedes,36.0,3.0,HARD,6.0,True,1,96.546,2023,Bahrain Grand Prix,R
+HAM,Mercedes,37.0,3.0,HARD,7.0,True,1,97.388,2023,Bahrain Grand Prix,R
+HAM,Mercedes,38.0,3.0,HARD,8.0,True,1,98.304,2023,Bahrain Grand Prix,R
+HAM,Mercedes,39.0,3.0,HARD,9.0,True,1,97.478,2023,Bahrain Grand Prix,R
+HAM,Mercedes,40.0,3.0,HARD,10.0,True,12,97.494,2023,Bahrain Grand Prix,R
+HAM,Mercedes,42.0,3.0,HARD,12.0,True,1,97.061,2023,Bahrain Grand Prix,R
+HAM,Mercedes,43.0,3.0,HARD,13.0,True,1,97.111,2023,Bahrain Grand Prix,R
+HAM,Mercedes,44.0,3.0,HARD,14.0,True,1,97.048,2023,Bahrain Grand Prix,R
+HAM,Mercedes,45.0,3.0,HARD,15.0,True,1,97.661,2023,Bahrain Grand Prix,R
+HAM,Mercedes,46.0,3.0,HARD,16.0,True,1,97.779,2023,Bahrain Grand Prix,R
+HAM,Mercedes,47.0,3.0,HARD,17.0,True,1,98.517,2023,Bahrain Grand Prix,R
+HAM,Mercedes,48.0,3.0,HARD,18.0,True,1,97.844,2023,Bahrain Grand Prix,R
+HAM,Mercedes,49.0,3.0,HARD,19.0,True,1,97.954,2023,Bahrain Grand Prix,R
+HAM,Mercedes,50.0,3.0,HARD,20.0,True,1,97.77,2023,Bahrain Grand Prix,R
+HAM,Mercedes,51.0,3.0,HARD,21.0,True,1,98.014,2023,Bahrain Grand Prix,R
+HAM,Mercedes,52.0,3.0,HARD,22.0,True,1,97.803,2023,Bahrain Grand Prix,R
+HAM,Mercedes,53.0,3.0,HARD,23.0,True,1,97.988,2023,Bahrain Grand Prix,R
+HAM,Mercedes,54.0,3.0,HARD,24.0,True,1,98.076,2023,Bahrain Grand Prix,R
+HAM,Mercedes,55.0,3.0,HARD,25.0,True,1,97.955,2023,Bahrain Grand Prix,R
+HAM,Mercedes,56.0,3.0,HARD,26.0,True,1,98.111,2023,Bahrain Grand Prix,R
+HAM,Mercedes,57.0,3.0,HARD,27.0,True,1,98.255,2023,Bahrain Grand Prix,R
+SAI,Ferrari,2.0,1.0,SOFT,5.0,False,21,98.933,2023,Bahrain Grand Prix,R
+SAI,Ferrari,3.0,1.0,SOFT,6.0,False,1,99.042,2023,Bahrain Grand Prix,R
+SAI,Ferrari,4.0,1.0,SOFT,7.0,False,1,98.985,2023,Bahrain Grand Prix,R
+SAI,Ferrari,5.0,1.0,SOFT,8.0,False,1,99.128,2023,Bahrain Grand Prix,R
+SAI,Ferrari,6.0,1.0,SOFT,9.0,False,1,99.474,2023,Bahrain Grand Prix,R
+SAI,Ferrari,7.0,1.0,SOFT,10.0,False,1,99.502,2023,Bahrain Grand Prix,R
+SAI,Ferrari,8.0,1.0,SOFT,11.0,False,1,99.779,2023,Bahrain Grand Prix,R
+SAI,Ferrari,9.0,1.0,SOFT,12.0,False,1,99.744,2023,Bahrain Grand Prix,R
+SAI,Ferrari,10.0,1.0,SOFT,13.0,False,1,100.102,2023,Bahrain Grand Prix,R
+SAI,Ferrari,11.0,1.0,SOFT,14.0,False,1,100.507,2023,Bahrain Grand Prix,R
+SAI,Ferrari,12.0,1.0,SOFT,15.0,False,1,100.52,2023,Bahrain Grand Prix,R
+SAI,Ferrari,15.0,2.0,HARD,2.0,True,1,97.985,2023,Bahrain Grand Prix,R
+SAI,Ferrari,16.0,2.0,HARD,3.0,True,1,98.433,2023,Bahrain Grand Prix,R
+SAI,Ferrari,17.0,2.0,HARD,4.0,True,1,98.161,2023,Bahrain Grand Prix,R
+SAI,Ferrari,18.0,2.0,HARD,5.0,True,1,98.287,2023,Bahrain Grand Prix,R
+SAI,Ferrari,19.0,2.0,HARD,6.0,True,1,98.21,2023,Bahrain Grand Prix,R
+SAI,Ferrari,20.0,2.0,HARD,7.0,True,1,98.096,2023,Bahrain Grand Prix,R
+SAI,Ferrari,21.0,2.0,HARD,8.0,True,1,98.24,2023,Bahrain Grand Prix,R
+SAI,Ferrari,22.0,2.0,HARD,9.0,True,1,98.453,2023,Bahrain Grand Prix,R
+SAI,Ferrari,23.0,2.0,HARD,10.0,True,1,98.597,2023,Bahrain Grand Prix,R
+SAI,Ferrari,24.0,2.0,HARD,11.0,True,1,98.314,2023,Bahrain Grand Prix,R
+SAI,Ferrari,25.0,2.0,HARD,12.0,True,1,98.571,2023,Bahrain Grand Prix,R
+SAI,Ferrari,26.0,2.0,HARD,13.0,True,1,98.331,2023,Bahrain Grand Prix,R
+SAI,Ferrari,27.0,2.0,HARD,14.0,True,1,98.423,2023,Bahrain Grand Prix,R
+SAI,Ferrari,28.0,2.0,HARD,15.0,True,1,98.474,2023,Bahrain Grand Prix,R
+SAI,Ferrari,29.0,2.0,HARD,16.0,True,1,98.55,2023,Bahrain Grand Prix,R
+SAI,Ferrari,30.0,2.0,HARD,17.0,True,1,98.601,2023,Bahrain Grand Prix,R
+SAI,Ferrari,33.0,3.0,HARD,2.0,True,1,97.548,2023,Bahrain Grand Prix,R
+SAI,Ferrari,34.0,3.0,HARD,3.0,True,1,97.475,2023,Bahrain Grand Prix,R
+SAI,Ferrari,35.0,3.0,HARD,4.0,True,1,97.441,2023,Bahrain Grand Prix,R
+SAI,Ferrari,36.0,3.0,HARD,5.0,True,1,97.706,2023,Bahrain Grand Prix,R
+SAI,Ferrari,37.0,3.0,HARD,6.0,True,1,97.13,2023,Bahrain Grand Prix,R
+SAI,Ferrari,38.0,3.0,HARD,7.0,True,1,97.444,2023,Bahrain Grand Prix,R
+SAI,Ferrari,39.0,3.0,HARD,8.0,True,1,97.403,2023,Bahrain Grand Prix,R
+SAI,Ferrari,40.0,3.0,HARD,9.0,True,12,97.587,2023,Bahrain Grand Prix,R
+SAI,Ferrari,42.0,3.0,HARD,11.0,True,1,97.375,2023,Bahrain Grand Prix,R
+SAI,Ferrari,43.0,3.0,HARD,12.0,True,1,97.294,2023,Bahrain Grand Prix,R
+SAI,Ferrari,44.0,3.0,HARD,13.0,True,1,97.389,2023,Bahrain Grand Prix,R
+SAI,Ferrari,45.0,3.0,HARD,14.0,True,1,99.561,2023,Bahrain Grand Prix,R
+SAI,Ferrari,46.0,3.0,HARD,15.0,True,1,97.844,2023,Bahrain Grand Prix,R
+SAI,Ferrari,47.0,3.0,HARD,16.0,True,1,98.222,2023,Bahrain Grand Prix,R
+SAI,Ferrari,48.0,3.0,HARD,17.0,True,1,97.897,2023,Bahrain Grand Prix,R
+SAI,Ferrari,49.0,3.0,HARD,18.0,True,1,97.765,2023,Bahrain Grand Prix,R
+SAI,Ferrari,50.0,3.0,HARD,19.0,True,1,97.604,2023,Bahrain Grand Prix,R
+SAI,Ferrari,51.0,3.0,HARD,20.0,True,1,97.672,2023,Bahrain Grand Prix,R
+SAI,Ferrari,52.0,3.0,HARD,21.0,True,1,97.49,2023,Bahrain Grand Prix,R
+SAI,Ferrari,53.0,3.0,HARD,22.0,True,1,97.66,2023,Bahrain Grand Prix,R
+SAI,Ferrari,54.0,3.0,HARD,23.0,True,1,97.694,2023,Bahrain Grand Prix,R
+SAI,Ferrari,55.0,3.0,HARD,24.0,True,1,97.821,2023,Bahrain Grand Prix,R
+SAI,Ferrari,56.0,3.0,HARD,25.0,True,1,98.126,2023,Bahrain Grand Prix,R
+SAI,Ferrari,57.0,3.0,HARD,26.0,True,1,98.021,2023,Bahrain Grand Prix,R
+RUS,Mercedes,2.0,1.0,SOFT,5.0,False,21,99.59,2023,Bahrain Grand Prix,R
+RUS,Mercedes,3.0,1.0,SOFT,6.0,False,1,99.093,2023,Bahrain Grand Prix,R
+RUS,Mercedes,4.0,1.0,SOFT,7.0,False,1,99.261,2023,Bahrain Grand Prix,R
+RUS,Mercedes,5.0,1.0,SOFT,8.0,False,1,99.549,2023,Bahrain Grand Prix,R
+RUS,Mercedes,6.0,1.0,SOFT,9.0,False,1,99.493,2023,Bahrain Grand Prix,R
+RUS,Mercedes,7.0,1.0,SOFT,10.0,False,1,100.056,2023,Bahrain Grand Prix,R
+RUS,Mercedes,8.0,1.0,SOFT,11.0,False,1,100.31,2023,Bahrain Grand Prix,R
+RUS,Mercedes,9.0,1.0,SOFT,12.0,False,1,100.42,2023,Bahrain Grand Prix,R
+RUS,Mercedes,10.0,1.0,SOFT,13.0,False,1,100.532,2023,Bahrain Grand Prix,R
+RUS,Mercedes,11.0,1.0,SOFT,14.0,False,1,101.085,2023,Bahrain Grand Prix,R
+RUS,Mercedes,12.0,1.0,SOFT,15.0,False,1,101.112,2023,Bahrain Grand Prix,R
+RUS,Mercedes,15.0,2.0,HARD,2.0,True,1,97.46,2023,Bahrain Grand Prix,R
+RUS,Mercedes,16.0,2.0,HARD,3.0,True,1,97.833,2023,Bahrain Grand Prix,R
+RUS,Mercedes,17.0,2.0,HARD,4.0,True,1,98.604,2023,Bahrain Grand Prix,R
+RUS,Mercedes,18.0,2.0,HARD,5.0,True,1,98.427,2023,Bahrain Grand Prix,R
+RUS,Mercedes,19.0,2.0,HARD,6.0,True,1,98.512,2023,Bahrain Grand Prix,R
+RUS,Mercedes,20.0,2.0,HARD,7.0,True,1,98.578,2023,Bahrain Grand Prix,R
+RUS,Mercedes,21.0,2.0,HARD,8.0,True,1,98.555,2023,Bahrain Grand Prix,R
+RUS,Mercedes,22.0,2.0,HARD,9.0,True,1,98.438,2023,Bahrain Grand Prix,R
+RUS,Mercedes,23.0,2.0,HARD,10.0,True,1,98.773,2023,Bahrain Grand Prix,R
+RUS,Mercedes,24.0,2.0,HARD,11.0,True,1,98.643,2023,Bahrain Grand Prix,R
+RUS,Mercedes,25.0,2.0,HARD,12.0,True,1,98.487,2023,Bahrain Grand Prix,R
+RUS,Mercedes,26.0,2.0,HARD,13.0,True,1,98.462,2023,Bahrain Grand Prix,R
+RUS,Mercedes,27.0,2.0,HARD,14.0,True,1,98.625,2023,Bahrain Grand Prix,R
+RUS,Mercedes,28.0,2.0,HARD,15.0,True,1,98.448,2023,Bahrain Grand Prix,R
+RUS,Mercedes,29.0,2.0,HARD,16.0,True,1,98.792,2023,Bahrain Grand Prix,R
+RUS,Mercedes,30.0,2.0,HARD,17.0,True,1,98.541,2023,Bahrain Grand Prix,R
+RUS,Mercedes,33.0,3.0,HARD,2.0,True,1,97.221,2023,Bahrain Grand Prix,R
+RUS,Mercedes,34.0,3.0,HARD,3.0,True,1,97.311,2023,Bahrain Grand Prix,R
+RUS,Mercedes,35.0,3.0,HARD,4.0,True,1,97.592,2023,Bahrain Grand Prix,R
+RUS,Mercedes,36.0,3.0,HARD,5.0,True,1,97.607,2023,Bahrain Grand Prix,R
+RUS,Mercedes,37.0,3.0,HARD,6.0,True,1,97.822,2023,Bahrain Grand Prix,R
+RUS,Mercedes,38.0,3.0,HARD,7.0,True,1,97.66,2023,Bahrain Grand Prix,R
+RUS,Mercedes,39.0,3.0,HARD,8.0,True,1,97.495,2023,Bahrain Grand Prix,R
+RUS,Mercedes,42.0,3.0,HARD,11.0,True,1,97.035,2023,Bahrain Grand Prix,R
+RUS,Mercedes,43.0,3.0,HARD,12.0,True,1,97.48,2023,Bahrain Grand Prix,R
+RUS,Mercedes,44.0,3.0,HARD,13.0,True,1,97.597,2023,Bahrain Grand Prix,R
+RUS,Mercedes,45.0,3.0,HARD,14.0,True,1,97.316,2023,Bahrain Grand Prix,R
+RUS,Mercedes,46.0,3.0,HARD,15.0,True,1,97.571,2023,Bahrain Grand Prix,R
+RUS,Mercedes,47.0,3.0,HARD,16.0,True,1,97.432,2023,Bahrain Grand Prix,R
+RUS,Mercedes,48.0,3.0,HARD,17.0,True,1,97.52,2023,Bahrain Grand Prix,R
+RUS,Mercedes,49.0,3.0,HARD,18.0,True,1,97.718,2023,Bahrain Grand Prix,R
+RUS,Mercedes,50.0,3.0,HARD,19.0,True,1,97.383,2023,Bahrain Grand Prix,R
+RUS,Mercedes,51.0,3.0,HARD,20.0,True,1,97.825,2023,Bahrain Grand Prix,R
+RUS,Mercedes,52.0,3.0,HARD,21.0,True,1,97.589,2023,Bahrain Grand Prix,R
+RUS,Mercedes,53.0,3.0,HARD,22.0,True,1,97.841,2023,Bahrain Grand Prix,R
+RUS,Mercedes,54.0,3.0,HARD,23.0,True,1,97.923,2023,Bahrain Grand Prix,R
+RUS,Mercedes,55.0,3.0,HARD,24.0,True,1,97.86,2023,Bahrain Grand Prix,R
+RUS,Mercedes,56.0,3.0,HARD,25.0,True,1,97.636,2023,Bahrain Grand Prix,R
+RUS,Mercedes,57.0,3.0,HARD,26.0,True,1,97.767,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,2.0,1.0,SOFT,2.0,True,21,99.956,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,3.0,1.0,SOFT,3.0,True,1,99.397,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,4.0,1.0,SOFT,4.0,True,1,99.823,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,5.0,1.0,SOFT,5.0,True,1,101.033,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,6.0,1.0,SOFT,6.0,True,1,100.265,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,7.0,1.0,SOFT,7.0,True,1,100.564,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,8.0,1.0,SOFT,8.0,True,1,100.387,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,9.0,1.0,SOFT,9.0,True,1,100.275,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,10.0,1.0,SOFT,10.0,True,1,100.676,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,13.0,2.0,HARD,2.0,True,1,98.03,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,14.0,2.0,HARD,3.0,True,1,98.098,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,15.0,2.0,HARD,4.0,True,1,98.851,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,16.0,2.0,HARD,5.0,True,1,98.494,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,17.0,2.0,HARD,6.0,True,1,99.973,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,18.0,2.0,HARD,7.0,True,1,100.24,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,19.0,2.0,HARD,8.0,True,1,99.497,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,20.0,2.0,HARD,9.0,True,1,100.442,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,21.0,2.0,HARD,10.0,True,1,99.355,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,22.0,2.0,HARD,11.0,True,1,99.356,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,23.0,2.0,HARD,12.0,True,1,99.311,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,24.0,2.0,HARD,13.0,True,1,99.427,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,25.0,2.0,HARD,14.0,True,1,99.49,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,26.0,2.0,HARD,15.0,True,1,99.5,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,27.0,2.0,HARD,16.0,True,1,99.287,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,28.0,2.0,HARD,17.0,True,1,99.016,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,31.0,3.0,HARD,2.0,True,1,97.379,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,32.0,3.0,HARD,3.0,True,1,97.675,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,33.0,3.0,HARD,4.0,True,1,97.775,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,34.0,3.0,HARD,5.0,True,1,97.774,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,35.0,3.0,HARD,6.0,True,1,97.817,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,36.0,3.0,HARD,7.0,True,1,97.827,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,37.0,3.0,HARD,8.0,True,1,97.774,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,38.0,3.0,HARD,9.0,True,1,97.658,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,39.0,3.0,HARD,10.0,True,1,97.784,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,42.0,3.0,HARD,13.0,True,1,97.736,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,43.0,3.0,HARD,14.0,True,1,97.813,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,44.0,3.0,HARD,15.0,True,1,97.868,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,45.0,3.0,HARD,16.0,True,1,97.688,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,46.0,3.0,HARD,17.0,True,1,97.83,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,47.0,3.0,HARD,18.0,True,1,97.815,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,48.0,3.0,HARD,19.0,True,1,97.5,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,49.0,3.0,HARD,20.0,True,1,97.85,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,50.0,3.0,HARD,21.0,True,1,97.71,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,51.0,3.0,HARD,22.0,True,1,97.816,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,52.0,3.0,HARD,23.0,True,1,97.947,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,53.0,3.0,HARD,24.0,True,1,97.856,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,54.0,3.0,HARD,25.0,True,1,97.738,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,55.0,3.0,HARD,26.0,True,1,97.807,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,56.0,3.0,HARD,27.0,True,1,98.16,2023,Bahrain Grand Prix,R
+BOT,Alfa Romeo,57.0,3.0,HARD,28.0,True,1,98.407,2023,Bahrain Grand Prix,R
+PIA,McLaren,2.0,1.0,SOFT,2.0,True,21,100.83,2023,Bahrain Grand Prix,R
+PIA,McLaren,3.0,1.0,SOFT,3.0,True,1,100.691,2023,Bahrain Grand Prix,R
+PIA,McLaren,4.0,1.0,SOFT,4.0,True,1,100.718,2023,Bahrain Grand Prix,R
+PIA,McLaren,5.0,1.0,SOFT,5.0,True,1,100.862,2023,Bahrain Grand Prix,R
+PIA,McLaren,6.0,1.0,SOFT,6.0,True,1,101.111,2023,Bahrain Grand Prix,R
+PIA,McLaren,7.0,1.0,SOFT,7.0,True,1,101.167,2023,Bahrain Grand Prix,R
+PIA,McLaren,8.0,1.0,SOFT,8.0,True,1,101.295,2023,Bahrain Grand Prix,R
+PIA,McLaren,9.0,1.0,SOFT,9.0,True,1,101.534,2023,Bahrain Grand Prix,R
+PIA,McLaren,10.0,1.0,SOFT,10.0,True,1,101.584,2023,Bahrain Grand Prix,R
+PIA,McLaren,11.0,1.0,SOFT,11.0,True,1,101.352,2023,Bahrain Grand Prix,R
+PIA,McLaren,12.0,1.0,SOFT,12.0,True,1,101.156,2023,Bahrain Grand Prix,R

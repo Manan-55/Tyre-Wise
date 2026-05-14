@@ -1,0 +1,1424 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,LapTime_s,Year,GrandPrix,SessionType
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,79.367,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,79.074,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,78.129,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,78.019,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,77.64,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,77.633,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,77.397,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,77.031,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,77.084,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,76.858,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,12,76.993,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,21,77.434,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,12,77.065,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,21,77.079,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,76.824,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,76.86,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,76.712,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,76.823,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,77.214,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,76.803,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,76.659,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,76.604,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,76.798,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,77.183,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,77.212,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,27.0,1.0,MEDIUM,27.0,True,1,77.259,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,28.0,1.0,MEDIUM,28.0,True,1,77.77,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,29.0,1.0,MEDIUM,29.0,True,1,78.001,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,30.0,1.0,MEDIUM,30.0,True,1,78.16,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,31.0,1.0,MEDIUM,31.0,True,1,78.741,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,32.0,1.0,MEDIUM,32.0,True,1,78.816,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,33.0,1.0,MEDIUM,33.0,True,1,78.946,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,34.0,1.0,MEDIUM,34.0,True,1,78.044,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,35.0,1.0,MEDIUM,35.0,True,1,78.024,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,36.0,1.0,MEDIUM,36.0,True,1,77.974,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,37.0,1.0,MEDIUM,37.0,True,1,77.273,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,38.0,1.0,MEDIUM,38.0,True,1,77.122,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,39.0,1.0,MEDIUM,39.0,True,1,76.966,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,40.0,1.0,MEDIUM,40.0,True,1,77.161,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,41.0,1.0,MEDIUM,41.0,True,1,76.944,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,42.0,1.0,MEDIUM,42.0,True,1,76.8,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,43.0,1.0,MEDIUM,43.0,True,1,76.963,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,44.0,1.0,MEDIUM,44.0,True,1,76.722,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,45.0,1.0,MEDIUM,45.0,True,1,76.701,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,46.0,1.0,MEDIUM,46.0,True,1,77.075,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,47.0,1.0,MEDIUM,47.0,True,1,77.16,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,48.0,1.0,MEDIUM,48.0,True,1,77.065,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,49.0,1.0,MEDIUM,49.0,True,1,77.428,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,50.0,1.0,MEDIUM,50.0,True,1,77.314,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,51.0,1.0,MEDIUM,51.0,True,1,77.427,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,52.0,1.0,MEDIUM,52.0,True,1,84.046,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,53.0,1.0,MEDIUM,53.0,True,1,89.919,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,54.0,1.0,MEDIUM,54.0,True,1,98.946,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,57.0,2.0,INTERMEDIATE,2.0,True,1,103.464,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,58.0,2.0,INTERMEDIATE,3.0,True,12,102.808,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,59.0,2.0,INTERMEDIATE,4.0,True,12,103.791,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,60.0,2.0,INTERMEDIATE,5.0,True,12,101.54,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,61.0,2.0,INTERMEDIATE,6.0,True,12,100.797,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,62.0,2.0,INTERMEDIATE,7.0,True,1,99.272,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,63.0,2.0,INTERMEDIATE,8.0,True,1,99.61,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,64.0,2.0,INTERMEDIATE,9.0,True,1,98.364,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,65.0,2.0,INTERMEDIATE,10.0,True,1,97.16,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,66.0,2.0,INTERMEDIATE,11.0,True,1,94.035,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,67.0,2.0,INTERMEDIATE,12.0,True,1,92.921,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,68.0,2.0,INTERMEDIATE,13.0,True,1,93.659,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,69.0,2.0,INTERMEDIATE,14.0,True,12,91.607,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,70.0,2.0,INTERMEDIATE,15.0,True,1,91.244,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,71.0,2.0,INTERMEDIATE,16.0,True,1,90.363,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,72.0,2.0,INTERMEDIATE,17.0,True,1,90.402,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,73.0,2.0,INTERMEDIATE,18.0,True,1,88.386,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,74.0,2.0,INTERMEDIATE,19.0,True,1,86.864,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,75.0,2.0,INTERMEDIATE,20.0,True,1,85.518,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,76.0,2.0,INTERMEDIATE,21.0,True,1,85.316,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,77.0,2.0,INTERMEDIATE,22.0,True,1,85.46,2023,Monaco Grand Prix,R
+VER,Red Bull Racing,78.0,2.0,INTERMEDIATE,23.0,True,1,85.201,2023,Monaco Grand Prix,R
+GAS,Alpine,2.0,1.0,HARD,2.0,True,1,80.636,2023,Monaco Grand Prix,R
+GAS,Alpine,3.0,1.0,HARD,3.0,True,1,80.282,2023,Monaco Grand Prix,R
+GAS,Alpine,4.0,1.0,HARD,4.0,True,1,79.577,2023,Monaco Grand Prix,R
+GAS,Alpine,5.0,1.0,HARD,5.0,True,1,78.893,2023,Monaco Grand Prix,R
+GAS,Alpine,6.0,1.0,HARD,6.0,True,1,78.842,2023,Monaco Grand Prix,R
+GAS,Alpine,7.0,1.0,HARD,7.0,True,1,78.604,2023,Monaco Grand Prix,R
+GAS,Alpine,8.0,1.0,HARD,8.0,True,1,79.317,2023,Monaco Grand Prix,R
+GAS,Alpine,9.0,1.0,HARD,9.0,True,1,78.788,2023,Monaco Grand Prix,R
+GAS,Alpine,10.0,1.0,HARD,10.0,True,1,78.31,2023,Monaco Grand Prix,R
+GAS,Alpine,11.0,1.0,HARD,11.0,True,1,78.367,2023,Monaco Grand Prix,R
+GAS,Alpine,12.0,1.0,HARD,12.0,True,12,78.582,2023,Monaco Grand Prix,R
+GAS,Alpine,13.0,1.0,HARD,13.0,True,1,77.713,2023,Monaco Grand Prix,R
+GAS,Alpine,14.0,1.0,HARD,14.0,True,12,78.564,2023,Monaco Grand Prix,R
+GAS,Alpine,15.0,1.0,HARD,15.0,True,1,78.284,2023,Monaco Grand Prix,R
+GAS,Alpine,16.0,1.0,HARD,16.0,True,1,78.298,2023,Monaco Grand Prix,R
+GAS,Alpine,17.0,1.0,HARD,17.0,True,1,77.99,2023,Monaco Grand Prix,R
+GAS,Alpine,18.0,1.0,HARD,18.0,True,1,78.453,2023,Monaco Grand Prix,R
+GAS,Alpine,19.0,1.0,HARD,19.0,True,1,78.109,2023,Monaco Grand Prix,R
+GAS,Alpine,20.0,1.0,HARD,20.0,True,1,78.587,2023,Monaco Grand Prix,R
+GAS,Alpine,21.0,1.0,HARD,21.0,True,1,77.81,2023,Monaco Grand Prix,R
+GAS,Alpine,22.0,1.0,HARD,22.0,True,1,78.213,2023,Monaco Grand Prix,R
+GAS,Alpine,23.0,1.0,HARD,23.0,True,1,77.942,2023,Monaco Grand Prix,R
+GAS,Alpine,24.0,1.0,HARD,24.0,True,1,77.577,2023,Monaco Grand Prix,R
+GAS,Alpine,25.0,1.0,HARD,25.0,True,1,77.54,2023,Monaco Grand Prix,R
+GAS,Alpine,26.0,1.0,HARD,26.0,True,1,77.912,2023,Monaco Grand Prix,R
+GAS,Alpine,27.0,1.0,HARD,27.0,True,1,78.012,2023,Monaco Grand Prix,R
+GAS,Alpine,28.0,1.0,HARD,28.0,True,1,77.285,2023,Monaco Grand Prix,R
+GAS,Alpine,29.0,1.0,HARD,29.0,True,1,77.373,2023,Monaco Grand Prix,R
+GAS,Alpine,30.0,1.0,HARD,30.0,True,1,77.083,2023,Monaco Grand Prix,R
+GAS,Alpine,31.0,1.0,HARD,31.0,True,1,78.015,2023,Monaco Grand Prix,R
+GAS,Alpine,32.0,1.0,HARD,32.0,True,1,77.384,2023,Monaco Grand Prix,R
+GAS,Alpine,33.0,1.0,HARD,33.0,True,1,77.45,2023,Monaco Grand Prix,R
+GAS,Alpine,34.0,1.0,HARD,34.0,True,1,77.207,2023,Monaco Grand Prix,R
+GAS,Alpine,35.0,1.0,HARD,35.0,True,1,77.421,2023,Monaco Grand Prix,R
+GAS,Alpine,36.0,1.0,HARD,36.0,True,1,77.668,2023,Monaco Grand Prix,R
+GAS,Alpine,37.0,1.0,HARD,37.0,True,1,77.212,2023,Monaco Grand Prix,R
+GAS,Alpine,38.0,1.0,HARD,38.0,True,1,77.556,2023,Monaco Grand Prix,R
+GAS,Alpine,39.0,1.0,HARD,39.0,True,1,77.102,2023,Monaco Grand Prix,R
+GAS,Alpine,40.0,1.0,HARD,40.0,True,1,77.221,2023,Monaco Grand Prix,R
+GAS,Alpine,41.0,1.0,HARD,41.0,True,1,77.654,2023,Monaco Grand Prix,R
+GAS,Alpine,42.0,1.0,HARD,42.0,True,1,78.559,2023,Monaco Grand Prix,R
+GAS,Alpine,43.0,1.0,HARD,43.0,True,1,77.699,2023,Monaco Grand Prix,R
+GAS,Alpine,44.0,1.0,HARD,44.0,True,1,78.042,2023,Monaco Grand Prix,R
+GAS,Alpine,45.0,1.0,HARD,45.0,True,1,76.839,2023,Monaco Grand Prix,R
+GAS,Alpine,46.0,1.0,HARD,46.0,True,1,76.997,2023,Monaco Grand Prix,R
+GAS,Alpine,49.0,2.0,MEDIUM,2.0,True,1,75.831,2023,Monaco Grand Prix,R
+GAS,Alpine,50.0,2.0,MEDIUM,3.0,True,1,75.955,2023,Monaco Grand Prix,R
+GAS,Alpine,51.0,2.0,MEDIUM,4.0,True,1,76.711,2023,Monaco Grand Prix,R
+GAS,Alpine,52.0,2.0,MEDIUM,5.0,True,1,82.349,2023,Monaco Grand Prix,R
+GAS,Alpine,53.0,2.0,MEDIUM,6.0,True,1,95.781,2023,Monaco Grand Prix,R
+GAS,Alpine,56.0,3.0,INTERMEDIATE,2.0,True,21,101.478,2023,Monaco Grand Prix,R
+GAS,Alpine,57.0,3.0,INTERMEDIATE,3.0,True,1,103.496,2023,Monaco Grand Prix,R
+GAS,Alpine,58.0,3.0,INTERMEDIATE,4.0,True,12,103.238,2023,Monaco Grand Prix,R
+GAS,Alpine,59.0,3.0,INTERMEDIATE,5.0,True,12,103.477,2023,Monaco Grand Prix,R
+GAS,Alpine,60.0,3.0,INTERMEDIATE,6.0,True,21,102.923,2023,Monaco Grand Prix,R
+GAS,Alpine,61.0,3.0,INTERMEDIATE,7.0,True,12,102.263,2023,Monaco Grand Prix,R
+GAS,Alpine,62.0,3.0,INTERMEDIATE,8.0,True,1,100.864,2023,Monaco Grand Prix,R
+GAS,Alpine,63.0,3.0,INTERMEDIATE,9.0,True,1,100.28,2023,Monaco Grand Prix,R
+GAS,Alpine,64.0,3.0,INTERMEDIATE,10.0,True,1,99.374,2023,Monaco Grand Prix,R
+GAS,Alpine,65.0,3.0,INTERMEDIATE,11.0,True,1,98.169,2023,Monaco Grand Prix,R
+GAS,Alpine,66.0,3.0,INTERMEDIATE,12.0,True,1,96.252,2023,Monaco Grand Prix,R
+GAS,Alpine,67.0,3.0,INTERMEDIATE,13.0,True,1,94.612,2023,Monaco Grand Prix,R
+GAS,Alpine,68.0,3.0,INTERMEDIATE,14.0,True,12,93.318,2023,Monaco Grand Prix,R
+GAS,Alpine,69.0,3.0,INTERMEDIATE,15.0,True,21,96.097,2023,Monaco Grand Prix,R
+GAS,Alpine,70.0,3.0,INTERMEDIATE,16.0,True,1,91.098,2023,Monaco Grand Prix,R
+GAS,Alpine,71.0,3.0,INTERMEDIATE,17.0,True,1,90.098,2023,Monaco Grand Prix,R
+GAS,Alpine,72.0,3.0,INTERMEDIATE,18.0,True,1,89.916,2023,Monaco Grand Prix,R
+GAS,Alpine,73.0,3.0,INTERMEDIATE,19.0,True,1,88.128,2023,Monaco Grand Prix,R
+GAS,Alpine,74.0,3.0,INTERMEDIATE,20.0,True,1,87.856,2023,Monaco Grand Prix,R
+GAS,Alpine,75.0,3.0,INTERMEDIATE,21.0,True,1,86.378,2023,Monaco Grand Prix,R
+GAS,Alpine,76.0,3.0,INTERMEDIATE,22.0,True,1,86.077,2023,Monaco Grand Prix,R
+GAS,Alpine,77.0,3.0,INTERMEDIATE,23.0,True,1,85.607,2023,Monaco Grand Prix,R
+GAS,Alpine,78.0,3.0,INTERMEDIATE,24.0,True,1,86.578,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,3.0,2.0,HARD,2.0,True,1,76.387,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,4.0,2.0,HARD,3.0,True,1,76.535,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,5.0,2.0,HARD,4.0,True,1,76.269,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,6.0,2.0,HARD,5.0,True,1,76.458,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,7.0,2.0,HARD,6.0,True,1,77.399,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,8.0,2.0,HARD,7.0,True,1,77.937,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,9.0,2.0,HARD,8.0,True,1,78.254,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,10.0,2.0,HARD,9.0,True,1,79.787,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,11.0,2.0,HARD,10.0,True,12,79.848,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,12.0,2.0,HARD,11.0,True,21,80.433,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,13.0,2.0,HARD,12.0,True,1,80.797,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,14.0,2.0,HARD,13.0,True,12,80.283,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,15.0,2.0,HARD,14.0,True,1,80.418,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,16.0,2.0,HARD,15.0,True,1,80.487,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,17.0,2.0,HARD,16.0,True,1,81.315,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,18.0,2.0,HARD,17.0,True,1,78.092,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,19.0,2.0,HARD,18.0,True,1,77.867,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,20.0,2.0,HARD,19.0,True,1,77.979,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,21.0,2.0,HARD,20.0,True,1,78.523,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,22.0,2.0,HARD,21.0,True,1,78.803,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,23.0,2.0,HARD,22.0,True,1,78.604,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,24.0,2.0,HARD,23.0,True,1,78.624,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,25.0,2.0,HARD,24.0,True,1,78.541,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,26.0,2.0,HARD,25.0,True,1,79.877,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,27.0,2.0,HARD,26.0,True,1,79.319,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,28.0,2.0,HARD,27.0,True,1,79.611,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,29.0,2.0,HARD,28.0,True,1,79.986,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,30.0,2.0,HARD,29.0,True,1,80.771,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,31.0,2.0,HARD,30.0,True,1,79.292,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,32.0,2.0,HARD,31.0,True,1,79.607,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,33.0,2.0,HARD,32.0,True,1,82.083,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,36.0,3.0,MEDIUM,3.0,False,1,76.882,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,37.0,3.0,MEDIUM,4.0,False,1,76.706,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,38.0,3.0,MEDIUM,5.0,False,1,76.353,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,39.0,3.0,MEDIUM,6.0,False,1,76.445,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,40.0,3.0,MEDIUM,7.0,False,1,76.755,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,41.0,3.0,MEDIUM,8.0,False,1,77.959,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,42.0,3.0,MEDIUM,9.0,False,1,77.46,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,43.0,3.0,MEDIUM,10.0,False,1,77.847,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,44.0,3.0,MEDIUM,11.0,False,1,77.616,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,45.0,3.0,MEDIUM,12.0,False,1,77.128,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,46.0,3.0,MEDIUM,13.0,False,1,77.047,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,47.0,3.0,MEDIUM,14.0,False,1,76.859,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,48.0,3.0,MEDIUM,15.0,False,1,76.98,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,49.0,3.0,MEDIUM,16.0,False,1,78.524,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,50.0,3.0,MEDIUM,17.0,False,1,84.856,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,51.0,3.0,MEDIUM,18.0,False,1,85.645,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,52.0,3.0,MEDIUM,19.0,False,1,98.2,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,55.0,4.0,INTERMEDIATE,2.0,True,21,100.446,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,56.0,4.0,INTERMEDIATE,3.0,True,1,105.055,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,59.0,5.0,WET,2.0,True,21,100.595,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,60.0,5.0,WET,3.0,True,12,101.082,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,61.0,5.0,WET,4.0,True,1,101.22,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,62.0,5.0,WET,5.0,True,1,99.631,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,63.0,5.0,WET,6.0,True,1,99.405,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,64.0,5.0,WET,7.0,True,1,97.112,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,65.0,5.0,WET,8.0,True,1,97.675,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,66.0,5.0,WET,9.0,True,1,96.451,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,67.0,5.0,WET,10.0,True,12,95.957,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,68.0,5.0,WET,11.0,True,21,96.297,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,69.0,5.0,WET,12.0,True,1,95.708,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,72.0,6.0,INTERMEDIATE,2.0,True,1,89.537,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,73.0,6.0,INTERMEDIATE,3.0,True,1,86.82,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,74.0,6.0,INTERMEDIATE,4.0,True,1,85.704,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,75.0,6.0,INTERMEDIATE,5.0,True,1,94.148,2023,Monaco Grand Prix,R
+PER,Red Bull Racing,76.0,6.0,INTERMEDIATE,6.0,True,1,90.273,2023,Monaco Grand Prix,R
+ALO,Aston Martin,2.0,1.0,HARD,3.0,False,1,79.646,2023,Monaco Grand Prix,R
+ALO,Aston Martin,3.0,1.0,HARD,4.0,False,1,79.113,2023,Monaco Grand Prix,R
+ALO,Aston Martin,4.0,1.0,HARD,5.0,False,1,78.776,2023,Monaco Grand Prix,R
+ALO,Aston Martin,5.0,1.0,HARD,6.0,False,1,77.939,2023,Monaco Grand Prix,R
+ALO,Aston Martin,6.0,1.0,HARD,7.0,False,1,77.952,2023,Monaco Grand Prix,R
+ALO,Aston Martin,7.0,1.0,HARD,8.0,False,1,77.505,2023,Monaco Grand Prix,R
+ALO,Aston Martin,8.0,1.0,HARD,9.0,False,1,77.391,2023,Monaco Grand Prix,R
+ALO,Aston Martin,9.0,1.0,HARD,10.0,False,1,77.783,2023,Monaco Grand Prix,R
+ALO,Aston Martin,10.0,1.0,HARD,11.0,False,1,77.324,2023,Monaco Grand Prix,R
+ALO,Aston Martin,11.0,1.0,HARD,12.0,False,1,77.249,2023,Monaco Grand Prix,R
+ALO,Aston Martin,12.0,1.0,HARD,13.0,False,12,77.588,2023,Monaco Grand Prix,R
+ALO,Aston Martin,13.0,1.0,HARD,14.0,False,21,78.443,2023,Monaco Grand Prix,R
+ALO,Aston Martin,14.0,1.0,HARD,15.0,False,12,77.508,2023,Monaco Grand Prix,R
+ALO,Aston Martin,15.0,1.0,HARD,16.0,False,1,77.444,2023,Monaco Grand Prix,R
+ALO,Aston Martin,16.0,1.0,HARD,17.0,False,1,77.17,2023,Monaco Grand Prix,R
+ALO,Aston Martin,17.0,1.0,HARD,18.0,False,1,77.699,2023,Monaco Grand Prix,R
+ALO,Aston Martin,18.0,1.0,HARD,19.0,False,1,77.528,2023,Monaco Grand Prix,R
+ALO,Aston Martin,19.0,1.0,HARD,20.0,False,1,77.258,2023,Monaco Grand Prix,R
+ALO,Aston Martin,20.0,1.0,HARD,21.0,False,1,77.13,2023,Monaco Grand Prix,R
+ALO,Aston Martin,21.0,1.0,HARD,22.0,False,1,77.664,2023,Monaco Grand Prix,R
+ALO,Aston Martin,22.0,1.0,HARD,23.0,False,1,77.947,2023,Monaco Grand Prix,R
+ALO,Aston Martin,23.0,1.0,HARD,24.0,False,1,77.272,2023,Monaco Grand Prix,R
+ALO,Aston Martin,24.0,1.0,HARD,25.0,False,1,77.285,2023,Monaco Grand Prix,R
+ALO,Aston Martin,25.0,1.0,HARD,26.0,False,1,77.182,2023,Monaco Grand Prix,R
+ALO,Aston Martin,26.0,1.0,HARD,27.0,False,1,77.141,2023,Monaco Grand Prix,R
+ALO,Aston Martin,27.0,1.0,HARD,28.0,False,1,77.228,2023,Monaco Grand Prix,R
+ALO,Aston Martin,28.0,1.0,HARD,29.0,False,1,77.562,2023,Monaco Grand Prix,R
+ALO,Aston Martin,29.0,1.0,HARD,30.0,False,1,77.111,2023,Monaco Grand Prix,R
+ALO,Aston Martin,30.0,1.0,HARD,31.0,False,1,76.965,2023,Monaco Grand Prix,R
+ALO,Aston Martin,31.0,1.0,HARD,32.0,False,1,77.259,2023,Monaco Grand Prix,R
+ALO,Aston Martin,32.0,1.0,HARD,33.0,False,1,77.637,2023,Monaco Grand Prix,R
+ALO,Aston Martin,33.0,1.0,HARD,34.0,False,1,77.816,2023,Monaco Grand Prix,R
+ALO,Aston Martin,34.0,1.0,HARD,35.0,False,1,79.297,2023,Monaco Grand Prix,R
+ALO,Aston Martin,35.0,1.0,HARD,36.0,False,1,78.634,2023,Monaco Grand Prix,R
+ALO,Aston Martin,36.0,1.0,HARD,37.0,False,1,77.876,2023,Monaco Grand Prix,R
+ALO,Aston Martin,37.0,1.0,HARD,38.0,False,1,77.974,2023,Monaco Grand Prix,R
+ALO,Aston Martin,38.0,1.0,HARD,39.0,False,1,77.141,2023,Monaco Grand Prix,R
+ALO,Aston Martin,39.0,1.0,HARD,40.0,False,1,77.705,2023,Monaco Grand Prix,R
+ALO,Aston Martin,40.0,1.0,HARD,41.0,False,1,77.63,2023,Monaco Grand Prix,R
+ALO,Aston Martin,41.0,1.0,HARD,42.0,False,1,77.016,2023,Monaco Grand Prix,R
+ALO,Aston Martin,42.0,1.0,HARD,43.0,False,1,76.719,2023,Monaco Grand Prix,R
+ALO,Aston Martin,43.0,1.0,HARD,44.0,False,1,76.674,2023,Monaco Grand Prix,R
+ALO,Aston Martin,44.0,1.0,HARD,45.0,False,1,76.919,2023,Monaco Grand Prix,R
+ALO,Aston Martin,45.0,1.0,HARD,46.0,False,1,76.862,2023,Monaco Grand Prix,R
+ALO,Aston Martin,46.0,1.0,HARD,47.0,False,1,77.114,2023,Monaco Grand Prix,R
+ALO,Aston Martin,47.0,1.0,HARD,48.0,False,1,77.108,2023,Monaco Grand Prix,R
+ALO,Aston Martin,48.0,1.0,HARD,49.0,False,1,76.931,2023,Monaco Grand Prix,R
+ALO,Aston Martin,49.0,1.0,HARD,50.0,False,1,76.992,2023,Monaco Grand Prix,R
+ALO,Aston Martin,50.0,1.0,HARD,51.0,False,1,77.408,2023,Monaco Grand Prix,R
+ALO,Aston Martin,51.0,1.0,HARD,52.0,False,1,79.991,2023,Monaco Grand Prix,R
+ALO,Aston Martin,52.0,1.0,HARD,53.0,False,1,84.967,2023,Monaco Grand Prix,R
+ALO,Aston Martin,53.0,1.0,HARD,54.0,False,1,90.862,2023,Monaco Grand Prix,R
+ALO,Aston Martin,57.0,3.0,INTERMEDIATE,2.0,True,1,102.581,2023,Monaco Grand Prix,R
+ALO,Aston Martin,58.0,3.0,INTERMEDIATE,3.0,True,12,101.267,2023,Monaco Grand Prix,R
+ALO,Aston Martin,59.0,3.0,INTERMEDIATE,4.0,True,21,100.897,2023,Monaco Grand Prix,R
+ALO,Aston Martin,60.0,3.0,INTERMEDIATE,5.0,True,12,100.638,2023,Monaco Grand Prix,R
+ALO,Aston Martin,61.0,3.0,INTERMEDIATE,6.0,True,12,102.727,2023,Monaco Grand Prix,R
+ALO,Aston Martin,62.0,3.0,INTERMEDIATE,7.0,True,1,100.467,2023,Monaco Grand Prix,R
+ALO,Aston Martin,63.0,3.0,INTERMEDIATE,8.0,True,1,99.671,2023,Monaco Grand Prix,R
+ALO,Aston Martin,64.0,3.0,INTERMEDIATE,9.0,True,1,98.135,2023,Monaco Grand Prix,R
+ALO,Aston Martin,65.0,3.0,INTERMEDIATE,10.0,True,1,97.64,2023,Monaco Grand Prix,R
+ALO,Aston Martin,66.0,3.0,INTERMEDIATE,11.0,True,1,96.332,2023,Monaco Grand Prix,R
+ALO,Aston Martin,67.0,3.0,INTERMEDIATE,12.0,True,1,93.205,2023,Monaco Grand Prix,R
+ALO,Aston Martin,68.0,3.0,INTERMEDIATE,13.0,True,1,92.841,2023,Monaco Grand Prix,R
+ALO,Aston Martin,69.0,3.0,INTERMEDIATE,14.0,True,12,93.864,2023,Monaco Grand Prix,R
+ALO,Aston Martin,70.0,3.0,INTERMEDIATE,15.0,True,1,91.23,2023,Monaco Grand Prix,R
+ALO,Aston Martin,71.0,3.0,INTERMEDIATE,16.0,True,1,91.057,2023,Monaco Grand Prix,R
+ALO,Aston Martin,72.0,3.0,INTERMEDIATE,17.0,True,1,89.419,2023,Monaco Grand Prix,R
+ALO,Aston Martin,73.0,3.0,INTERMEDIATE,18.0,True,1,90.346,2023,Monaco Grand Prix,R
+ALO,Aston Martin,74.0,3.0,INTERMEDIATE,19.0,True,1,87.245,2023,Monaco Grand Prix,R
+ALO,Aston Martin,75.0,3.0,INTERMEDIATE,20.0,True,1,85.7,2023,Monaco Grand Prix,R
+ALO,Aston Martin,76.0,3.0,INTERMEDIATE,21.0,True,1,86.931,2023,Monaco Grand Prix,R
+ALO,Aston Martin,77.0,3.0,INTERMEDIATE,22.0,True,1,84.701,2023,Monaco Grand Prix,R
+ALO,Aston Martin,78.0,3.0,INTERMEDIATE,23.0,True,1,85.668,2023,Monaco Grand Prix,R
+LEC,Ferrari,2.0,1.0,HARD,2.0,True,1,80.549,2023,Monaco Grand Prix,R
+LEC,Ferrari,3.0,1.0,HARD,3.0,True,1,80.021,2023,Monaco Grand Prix,R
+LEC,Ferrari,4.0,1.0,HARD,4.0,True,1,79.468,2023,Monaco Grand Prix,R
+LEC,Ferrari,5.0,1.0,HARD,5.0,True,1,78.837,2023,Monaco Grand Prix,R
+LEC,Ferrari,6.0,1.0,HARD,6.0,True,1,78.829,2023,Monaco Grand Prix,R
+LEC,Ferrari,7.0,1.0,HARD,7.0,True,1,78.645,2023,Monaco Grand Prix,R
+LEC,Ferrari,8.0,1.0,HARD,8.0,True,1,79.165,2023,Monaco Grand Prix,R
+LEC,Ferrari,9.0,1.0,HARD,9.0,True,1,78.809,2023,Monaco Grand Prix,R
+LEC,Ferrari,10.0,1.0,HARD,10.0,True,1,78.219,2023,Monaco Grand Prix,R
+LEC,Ferrari,11.0,1.0,HARD,11.0,True,1,78.162,2023,Monaco Grand Prix,R
+LEC,Ferrari,12.0,1.0,HARD,12.0,True,12,78.15,2023,Monaco Grand Prix,R
+LEC,Ferrari,13.0,1.0,HARD,13.0,True,1,78.018,2023,Monaco Grand Prix,R
+LEC,Ferrari,14.0,1.0,HARD,14.0,True,12,78.394,2023,Monaco Grand Prix,R
+LEC,Ferrari,15.0,1.0,HARD,15.0,True,1,78.312,2023,Monaco Grand Prix,R
+LEC,Ferrari,16.0,1.0,HARD,16.0,True,1,78.316,2023,Monaco Grand Prix,R
+LEC,Ferrari,17.0,1.0,HARD,17.0,True,1,78.234,2023,Monaco Grand Prix,R
+LEC,Ferrari,18.0,1.0,HARD,18.0,True,1,78.361,2023,Monaco Grand Prix,R
+LEC,Ferrari,19.0,1.0,HARD,19.0,True,1,78.19,2023,Monaco Grand Prix,R
+LEC,Ferrari,20.0,1.0,HARD,20.0,True,1,78.365,2023,Monaco Grand Prix,R
+LEC,Ferrari,21.0,1.0,HARD,21.0,True,1,78.127,2023,Monaco Grand Prix,R
+LEC,Ferrari,22.0,1.0,HARD,22.0,True,1,77.886,2023,Monaco Grand Prix,R
+LEC,Ferrari,23.0,1.0,HARD,23.0,True,1,77.922,2023,Monaco Grand Prix,R
+LEC,Ferrari,24.0,1.0,HARD,24.0,True,1,77.586,2023,Monaco Grand Prix,R
+LEC,Ferrari,25.0,1.0,HARD,25.0,True,1,77.619,2023,Monaco Grand Prix,R
+LEC,Ferrari,26.0,1.0,HARD,26.0,True,1,77.879,2023,Monaco Grand Prix,R
+LEC,Ferrari,27.0,1.0,HARD,27.0,True,1,77.602,2023,Monaco Grand Prix,R
+LEC,Ferrari,28.0,1.0,HARD,28.0,True,1,77.48,2023,Monaco Grand Prix,R
+LEC,Ferrari,29.0,1.0,HARD,29.0,True,1,77.065,2023,Monaco Grand Prix,R
+LEC,Ferrari,30.0,1.0,HARD,30.0,True,1,77.559,2023,Monaco Grand Prix,R
+LEC,Ferrari,31.0,1.0,HARD,31.0,True,1,77.876,2023,Monaco Grand Prix,R
+LEC,Ferrari,32.0,1.0,HARD,32.0,True,1,77.282,2023,Monaco Grand Prix,R
+LEC,Ferrari,33.0,1.0,HARD,33.0,True,1,77.163,2023,Monaco Grand Prix,R
+LEC,Ferrari,34.0,1.0,HARD,34.0,True,1,77.461,2023,Monaco Grand Prix,R
+LEC,Ferrari,35.0,1.0,HARD,35.0,True,1,77.467,2023,Monaco Grand Prix,R
+LEC,Ferrari,36.0,1.0,HARD,36.0,True,1,77.491,2023,Monaco Grand Prix,R
+LEC,Ferrari,37.0,1.0,HARD,37.0,True,1,77.361,2023,Monaco Grand Prix,R
+LEC,Ferrari,38.0,1.0,HARD,38.0,True,1,77.483,2023,Monaco Grand Prix,R
+LEC,Ferrari,39.0,1.0,HARD,39.0,True,1,77.213,2023,Monaco Grand Prix,R
+LEC,Ferrari,40.0,1.0,HARD,40.0,True,1,77.237,2023,Monaco Grand Prix,R
+LEC,Ferrari,41.0,1.0,HARD,41.0,True,1,78.328,2023,Monaco Grand Prix,R
+LEC,Ferrari,42.0,1.0,HARD,42.0,True,1,77.801,2023,Monaco Grand Prix,R
+LEC,Ferrari,43.0,1.0,HARD,43.0,True,1,78.451,2023,Monaco Grand Prix,R
+LEC,Ferrari,46.0,2.0,MEDIUM,2.0,True,1,75.773,2023,Monaco Grand Prix,R
+LEC,Ferrari,47.0,2.0,MEDIUM,3.0,True,1,76.358,2023,Monaco Grand Prix,R
+LEC,Ferrari,48.0,2.0,MEDIUM,4.0,True,1,76.971,2023,Monaco Grand Prix,R
+LEC,Ferrari,49.0,2.0,MEDIUM,5.0,True,1,76.283,2023,Monaco Grand Prix,R
+LEC,Ferrari,50.0,2.0,MEDIUM,6.0,True,1,75.956,2023,Monaco Grand Prix,R
+LEC,Ferrari,51.0,2.0,MEDIUM,7.0,True,1,77.017,2023,Monaco Grand Prix,R
+LEC,Ferrari,52.0,2.0,MEDIUM,8.0,True,1,83.243,2023,Monaco Grand Prix,R
+LEC,Ferrari,53.0,2.0,MEDIUM,9.0,True,1,93.259,2023,Monaco Grand Prix,R
+LEC,Ferrari,54.0,2.0,MEDIUM,10.0,True,1,95.725,2023,Monaco Grand Prix,R
+LEC,Ferrari,57.0,3.0,INTERMEDIATE,2.0,True,1,103.373,2023,Monaco Grand Prix,R
+LEC,Ferrari,58.0,3.0,INTERMEDIATE,3.0,True,12,103.473,2023,Monaco Grand Prix,R
+LEC,Ferrari,59.0,3.0,INTERMEDIATE,4.0,True,12,102.305,2023,Monaco Grand Prix,R
+LEC,Ferrari,60.0,3.0,INTERMEDIATE,5.0,True,21,102.852,2023,Monaco Grand Prix,R
+LEC,Ferrari,61.0,3.0,INTERMEDIATE,6.0,True,12,102.262,2023,Monaco Grand Prix,R
+LEC,Ferrari,62.0,3.0,INTERMEDIATE,7.0,True,1,101.144,2023,Monaco Grand Prix,R
+LEC,Ferrari,63.0,3.0,INTERMEDIATE,8.0,True,1,100.396,2023,Monaco Grand Prix,R
+LEC,Ferrari,64.0,3.0,INTERMEDIATE,9.0,True,1,99.223,2023,Monaco Grand Prix,R
+LEC,Ferrari,65.0,3.0,INTERMEDIATE,10.0,True,1,98.481,2023,Monaco Grand Prix,R
+LEC,Ferrari,66.0,3.0,INTERMEDIATE,11.0,True,1,95.05,2023,Monaco Grand Prix,R
+LEC,Ferrari,67.0,3.0,INTERMEDIATE,12.0,True,1,94.515,2023,Monaco Grand Prix,R
+LEC,Ferrari,68.0,3.0,INTERMEDIATE,13.0,True,12,93.903,2023,Monaco Grand Prix,R
+LEC,Ferrari,69.0,3.0,INTERMEDIATE,14.0,True,21,95.087,2023,Monaco Grand Prix,R
+LEC,Ferrari,70.0,3.0,INTERMEDIATE,15.0,True,1,92.309,2023,Monaco Grand Prix,R
+LEC,Ferrari,71.0,3.0,INTERMEDIATE,16.0,True,1,90.198,2023,Monaco Grand Prix,R
+LEC,Ferrari,72.0,3.0,INTERMEDIATE,17.0,True,1,88.677,2023,Monaco Grand Prix,R
+LEC,Ferrari,73.0,3.0,INTERMEDIATE,18.0,True,1,89.177,2023,Monaco Grand Prix,R
+LEC,Ferrari,74.0,3.0,INTERMEDIATE,19.0,True,1,87.848,2023,Monaco Grand Prix,R
+LEC,Ferrari,75.0,3.0,INTERMEDIATE,20.0,True,1,86.923,2023,Monaco Grand Prix,R
+LEC,Ferrari,76.0,3.0,INTERMEDIATE,21.0,True,1,86.435,2023,Monaco Grand Prix,R
+LEC,Ferrari,77.0,3.0,INTERMEDIATE,22.0,True,1,85.965,2023,Monaco Grand Prix,R
+LEC,Ferrari,78.0,3.0,INTERMEDIATE,23.0,True,1,86.939,2023,Monaco Grand Prix,R
+STR,Aston Martin,2.0,1.0,HARD,3.0,False,1,79.989,2023,Monaco Grand Prix,R
+STR,Aston Martin,3.0,1.0,HARD,4.0,False,1,79.928,2023,Monaco Grand Prix,R
+STR,Aston Martin,4.0,1.0,HARD,5.0,False,1,79.998,2023,Monaco Grand Prix,R
+STR,Aston Martin,5.0,1.0,HARD,6.0,False,1,80.438,2023,Monaco Grand Prix,R
+STR,Aston Martin,6.0,1.0,HARD,7.0,False,1,79.785,2023,Monaco Grand Prix,R
+STR,Aston Martin,7.0,1.0,HARD,8.0,False,1,79.417,2023,Monaco Grand Prix,R
+STR,Aston Martin,8.0,1.0,HARD,9.0,False,1,78.733,2023,Monaco Grand Prix,R
+STR,Aston Martin,9.0,1.0,HARD,10.0,False,1,78.659,2023,Monaco Grand Prix,R
+STR,Aston Martin,10.0,1.0,HARD,11.0,False,1,79.893,2023,Monaco Grand Prix,R
+STR,Aston Martin,11.0,1.0,HARD,12.0,False,12,79.758,2023,Monaco Grand Prix,R
+STR,Aston Martin,12.0,1.0,HARD,13.0,False,21,80.639,2023,Monaco Grand Prix,R
+STR,Aston Martin,13.0,1.0,HARD,14.0,False,1,80.847,2023,Monaco Grand Prix,R
+STR,Aston Martin,14.0,1.0,HARD,15.0,False,12,80.295,2023,Monaco Grand Prix,R
+STR,Aston Martin,15.0,1.0,HARD,16.0,False,1,80.203,2023,Monaco Grand Prix,R
+STR,Aston Martin,16.0,1.0,HARD,17.0,False,1,80.545,2023,Monaco Grand Prix,R
+STR,Aston Martin,17.0,1.0,HARD,18.0,False,1,81.17,2023,Monaco Grand Prix,R
+STR,Aston Martin,18.0,1.0,HARD,19.0,False,1,77.769,2023,Monaco Grand Prix,R
+STR,Aston Martin,19.0,1.0,HARD,20.0,False,1,77.915,2023,Monaco Grand Prix,R
+STR,Aston Martin,20.0,1.0,HARD,21.0,False,1,78.061,2023,Monaco Grand Prix,R
+STR,Aston Martin,21.0,1.0,HARD,22.0,False,1,78.594,2023,Monaco Grand Prix,R
+STR,Aston Martin,22.0,1.0,HARD,23.0,False,1,78.548,2023,Monaco Grand Prix,R
+STR,Aston Martin,23.0,1.0,HARD,24.0,False,1,78.927,2023,Monaco Grand Prix,R
+STR,Aston Martin,24.0,1.0,HARD,25.0,False,1,78.439,2023,Monaco Grand Prix,R
+STR,Aston Martin,25.0,1.0,HARD,26.0,False,1,79.058,2023,Monaco Grand Prix,R
+STR,Aston Martin,26.0,1.0,HARD,27.0,False,1,78.926,2023,Monaco Grand Prix,R
+STR,Aston Martin,27.0,1.0,HARD,28.0,False,1,79.772,2023,Monaco Grand Prix,R
+STR,Aston Martin,28.0,1.0,HARD,29.0,False,1,79.86,2023,Monaco Grand Prix,R
+STR,Aston Martin,29.0,1.0,HARD,30.0,False,1,79.831,2023,Monaco Grand Prix,R
+STR,Aston Martin,30.0,1.0,HARD,31.0,False,1,79.86,2023,Monaco Grand Prix,R
+STR,Aston Martin,31.0,1.0,HARD,32.0,False,1,81.753,2023,Monaco Grand Prix,R
+STR,Aston Martin,32.0,1.0,HARD,33.0,False,1,79.387,2023,Monaco Grand Prix,R
+STR,Aston Martin,33.0,1.0,HARD,34.0,False,1,80.446,2023,Monaco Grand Prix,R
+STR,Aston Martin,34.0,1.0,HARD,35.0,False,1,78.583,2023,Monaco Grand Prix,R
+STR,Aston Martin,35.0,1.0,HARD,36.0,False,1,81.072,2023,Monaco Grand Prix,R
+STR,Aston Martin,36.0,1.0,HARD,37.0,False,1,79.544,2023,Monaco Grand Prix,R
+STR,Aston Martin,37.0,1.0,HARD,38.0,False,1,78.76,2023,Monaco Grand Prix,R
+STR,Aston Martin,38.0,1.0,HARD,39.0,False,1,78.424,2023,Monaco Grand Prix,R
+STR,Aston Martin,39.0,1.0,HARD,40.0,False,1,78.498,2023,Monaco Grand Prix,R
+STR,Aston Martin,40.0,1.0,HARD,41.0,False,1,78.498,2023,Monaco Grand Prix,R
+STR,Aston Martin,41.0,1.0,HARD,42.0,False,1,78.574,2023,Monaco Grand Prix,R
+STR,Aston Martin,42.0,1.0,HARD,43.0,False,1,78.732,2023,Monaco Grand Prix,R
+STR,Aston Martin,43.0,1.0,HARD,44.0,False,1,78.898,2023,Monaco Grand Prix,R
+STR,Aston Martin,44.0,1.0,HARD,45.0,False,1,78.533,2023,Monaco Grand Prix,R
+STR,Aston Martin,45.0,1.0,HARD,46.0,False,1,78.374,2023,Monaco Grand Prix,R
+STR,Aston Martin,46.0,1.0,HARD,47.0,False,1,78.723,2023,Monaco Grand Prix,R
+STR,Aston Martin,47.0,1.0,HARD,48.0,False,1,79.033,2023,Monaco Grand Prix,R
+STR,Aston Martin,48.0,1.0,HARD,49.0,False,1,78.573,2023,Monaco Grand Prix,R
+STR,Aston Martin,49.0,1.0,HARD,50.0,False,1,78.418,2023,Monaco Grand Prix,R
+STR,Aston Martin,50.0,1.0,HARD,51.0,False,1,80.218,2023,Monaco Grand Prix,R
+STR,Aston Martin,53.0,2.0,INTERMEDIATE,2.0,True,1,96.321,2023,Monaco Grand Prix,R
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,79.658,2023,Monaco Grand Prix,R
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,80.219,2023,Monaco Grand Prix,R
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,1,80.246,2023,Monaco Grand Prix,R
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,1,80.214,2023,Monaco Grand Prix,R
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,79.312,2023,Monaco Grand Prix,R
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1,79.239,2023,Monaco Grand Prix,R
+SAR,Williams,8.0,1.0,MEDIUM,8.0,True,1,78.947,2023,Monaco Grand Prix,R
+SAR,Williams,9.0,1.0,MEDIUM,9.0,True,1,79.529,2023,Monaco Grand Prix,R
+SAR,Williams,10.0,1.0,MEDIUM,10.0,True,1,80.334,2023,Monaco Grand Prix,R
+SAR,Williams,11.0,1.0,MEDIUM,11.0,True,12,80.089,2023,Monaco Grand Prix,R
+SAR,Williams,12.0,1.0,MEDIUM,12.0,True,21,80.638,2023,Monaco Grand Prix,R
+SAR,Williams,13.0,1.0,MEDIUM,13.0,True,1,80.702,2023,Monaco Grand Prix,R
+SAR,Williams,14.0,1.0,MEDIUM,14.0,True,12,80.318,2023,Monaco Grand Prix,R
+SAR,Williams,15.0,1.0,MEDIUM,15.0,True,1,80.28,2023,Monaco Grand Prix,R
+SAR,Williams,16.0,1.0,MEDIUM,16.0,True,1,80.471,2023,Monaco Grand Prix,R
+SAR,Williams,17.0,1.0,MEDIUM,17.0,True,1,83.236,2023,Monaco Grand Prix,R
+SAR,Williams,18.0,1.0,MEDIUM,18.0,True,1,81.41,2023,Monaco Grand Prix,R
+SAR,Williams,19.0,1.0,MEDIUM,19.0,True,1,82.328,2023,Monaco Grand Prix,R
+SAR,Williams,22.0,2.0,HARD,2.0,True,1,77.483,2023,Monaco Grand Prix,R
+SAR,Williams,25.0,3.0,SOFT,2.0,True,1,77.894,2023,Monaco Grand Prix,R
+SAR,Williams,26.0,3.0,SOFT,3.0,True,1,78.033,2023,Monaco Grand Prix,R
+SAR,Williams,27.0,3.0,SOFT,4.0,True,1,77.875,2023,Monaco Grand Prix,R
+SAR,Williams,28.0,3.0,SOFT,5.0,True,1,77.74,2023,Monaco Grand Prix,R
+SAR,Williams,29.0,3.0,SOFT,6.0,True,1,77.753,2023,Monaco Grand Prix,R
+SAR,Williams,30.0,3.0,SOFT,7.0,True,1,77.535,2023,Monaco Grand Prix,R
+SAR,Williams,31.0,3.0,SOFT,8.0,True,1,77.493,2023,Monaco Grand Prix,R
+SAR,Williams,32.0,3.0,SOFT,9.0,True,1,77.302,2023,Monaco Grand Prix,R
+SAR,Williams,33.0,3.0,SOFT,10.0,True,1,77.344,2023,Monaco Grand Prix,R
+SAR,Williams,34.0,3.0,SOFT,11.0,True,1,77.666,2023,Monaco Grand Prix,R
+SAR,Williams,35.0,3.0,SOFT,12.0,True,1,78.638,2023,Monaco Grand Prix,R
+SAR,Williams,36.0,3.0,SOFT,13.0,True,1,77.372,2023,Monaco Grand Prix,R
+SAR,Williams,37.0,3.0,SOFT,14.0,True,1,77.383,2023,Monaco Grand Prix,R
+SAR,Williams,38.0,3.0,SOFT,15.0,True,1,80.017,2023,Monaco Grand Prix,R
+SAR,Williams,39.0,3.0,SOFT,16.0,True,1,81.035,2023,Monaco Grand Prix,R
+SAR,Williams,40.0,3.0,SOFT,17.0,True,1,79.469,2023,Monaco Grand Prix,R
+SAR,Williams,41.0,3.0,SOFT,18.0,True,1,78.519,2023,Monaco Grand Prix,R
+SAR,Williams,42.0,3.0,SOFT,19.0,True,1,78.625,2023,Monaco Grand Prix,R
+SAR,Williams,43.0,3.0,SOFT,20.0,True,1,78.773,2023,Monaco Grand Prix,R
+SAR,Williams,44.0,3.0,SOFT,21.0,True,1,82.125,2023,Monaco Grand Prix,R
+SAR,Williams,45.0,3.0,SOFT,22.0,True,1,79.618,2023,Monaco Grand Prix,R
+SAR,Williams,46.0,3.0,SOFT,23.0,True,1,79.028,2023,Monaco Grand Prix,R
+SAR,Williams,47.0,3.0,SOFT,24.0,True,1,78.91,2023,Monaco Grand Prix,R
+SAR,Williams,48.0,3.0,SOFT,25.0,True,1,79.212,2023,Monaco Grand Prix,R
+SAR,Williams,49.0,3.0,SOFT,26.0,True,1,82.128,2023,Monaco Grand Prix,R
+SAR,Williams,50.0,3.0,SOFT,27.0,True,1,83.12,2023,Monaco Grand Prix,R
+SAR,Williams,51.0,3.0,SOFT,28.0,True,1,92.385,2023,Monaco Grand Prix,R
+SAR,Williams,54.0,4.0,INTERMEDIATE,2.0,True,21,98.806,2023,Monaco Grand Prix,R
+SAR,Williams,55.0,4.0,INTERMEDIATE,3.0,True,1,101.078,2023,Monaco Grand Prix,R
+SAR,Williams,56.0,4.0,INTERMEDIATE,4.0,True,12,102.285,2023,Monaco Grand Prix,R
+SAR,Williams,57.0,4.0,INTERMEDIATE,5.0,True,12,118.063,2023,Monaco Grand Prix,R
+SAR,Williams,58.0,4.0,INTERMEDIATE,6.0,True,12,102.599,2023,Monaco Grand Prix,R
+SAR,Williams,59.0,4.0,INTERMEDIATE,7.0,True,12,103.687,2023,Monaco Grand Prix,R
+SAR,Williams,60.0,4.0,INTERMEDIATE,8.0,True,1,102.558,2023,Monaco Grand Prix,R
+SAR,Williams,61.0,4.0,INTERMEDIATE,9.0,True,1,100.969,2023,Monaco Grand Prix,R
+SAR,Williams,62.0,4.0,INTERMEDIATE,10.0,True,1,99.586,2023,Monaco Grand Prix,R
+SAR,Williams,63.0,4.0,INTERMEDIATE,11.0,True,1,103.289,2023,Monaco Grand Prix,R
+SAR,Williams,64.0,4.0,INTERMEDIATE,12.0,True,1,98.302,2023,Monaco Grand Prix,R
+SAR,Williams,65.0,4.0,INTERMEDIATE,13.0,True,1,98.073,2023,Monaco Grand Prix,R
+SAR,Williams,66.0,4.0,INTERMEDIATE,14.0,True,1,96.293,2023,Monaco Grand Prix,R
+SAR,Williams,67.0,4.0,INTERMEDIATE,15.0,True,12,99.467,2023,Monaco Grand Prix,R
+SAR,Williams,68.0,4.0,INTERMEDIATE,16.0,True,1,91.921,2023,Monaco Grand Prix,R
+SAR,Williams,69.0,4.0,INTERMEDIATE,17.0,True,1,93.193,2023,Monaco Grand Prix,R
+SAR,Williams,70.0,4.0,INTERMEDIATE,18.0,True,1,118.263,2023,Monaco Grand Prix,R
+SAR,Williams,71.0,4.0,INTERMEDIATE,19.0,True,1,89.015,2023,Monaco Grand Prix,R
+SAR,Williams,72.0,4.0,INTERMEDIATE,20.0,True,1,92.354,2023,Monaco Grand Prix,R
+SAR,Williams,73.0,4.0,INTERMEDIATE,21.0,True,1,87.137,2023,Monaco Grand Prix,R
+SAR,Williams,74.0,4.0,INTERMEDIATE,22.0,True,1,87.954,2023,Monaco Grand Prix,R
+SAR,Williams,75.0,4.0,INTERMEDIATE,23.0,True,1,87.968,2023,Monaco Grand Prix,R
+SAR,Williams,76.0,4.0,INTERMEDIATE,24.0,True,1,89.076,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,2.0,1.0,HARD,2.0,True,1,80.175,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,3.0,1.0,HARD,3.0,True,1,79.929,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,4.0,1.0,HARD,4.0,True,1,80.407,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,5.0,1.0,HARD,5.0,True,1,80.224,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,6.0,1.0,HARD,6.0,True,1,79.352,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,7.0,1.0,HARD,7.0,True,1,79.512,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,8.0,1.0,HARD,8.0,True,1,79.052,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,78.914,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,79.929,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,11.0,1.0,HARD,11.0,True,12,79.824,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,12.0,1.0,HARD,12.0,True,21,80.487,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,13.0,1.0,HARD,13.0,True,1,80.886,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,14.0,1.0,HARD,14.0,True,12,80.328,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,15.0,1.0,HARD,15.0,True,1,80.287,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,16.0,1.0,HARD,16.0,True,1,80.464,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,17.0,1.0,HARD,17.0,True,1,79.206,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,18.0,1.0,HARD,18.0,True,1,78.727,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,19.0,1.0,HARD,19.0,True,1,78.445,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,20.0,1.0,HARD,20.0,True,1,78.354,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,21.0,1.0,HARD,21.0,True,1,78.8,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,22.0,1.0,HARD,22.0,True,1,78.767,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,23.0,1.0,HARD,23.0,True,1,78.926,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,24.0,1.0,HARD,24.0,True,1,78.497,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,25.0,1.0,HARD,25.0,True,1,78.694,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,26.0,1.0,HARD,26.0,True,1,79.023,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,27.0,1.0,HARD,27.0,True,1,79.849,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,28.0,1.0,HARD,28.0,True,1,79.768,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,29.0,1.0,HARD,29.0,True,1,79.91,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,30.0,1.0,HARD,30.0,True,1,79.753,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,31.0,1.0,HARD,31.0,True,1,79.276,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,32.0,1.0,HARD,32.0,True,1,81.543,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,33.0,1.0,HARD,33.0,True,1,80.882,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,34.0,1.0,HARD,34.0,True,1,78.747,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,35.0,1.0,HARD,35.0,True,1,79.274,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,36.0,1.0,HARD,36.0,True,1,80.942,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,37.0,1.0,HARD,37.0,True,1,78.849,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,38.0,1.0,HARD,38.0,True,1,78.498,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,39.0,1.0,HARD,39.0,True,1,78.634,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,40.0,1.0,HARD,40.0,True,1,78.508,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,41.0,1.0,HARD,41.0,True,1,78.351,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,42.0,1.0,HARD,42.0,True,1,78.63,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,43.0,1.0,HARD,43.0,True,1,78.522,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,44.0,1.0,HARD,44.0,True,1,78.447,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,45.0,1.0,HARD,45.0,True,1,78.92,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,46.0,1.0,HARD,46.0,True,1,78.384,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,47.0,1.0,HARD,47.0,True,1,78.685,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,48.0,1.0,HARD,48.0,True,1,78.745,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,49.0,1.0,HARD,49.0,True,1,78.854,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,50.0,1.0,HARD,50.0,True,1,80.301,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,51.0,1.0,HARD,51.0,True,1,85.595,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,52.0,1.0,HARD,52.0,True,1,90.696,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,53.0,1.0,HARD,53.0,True,1,98.955,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,54.0,1.0,HARD,54.0,True,12,110.776,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,55.0,1.0,HARD,55.0,True,21,127.055,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,58.0,2.0,WET,2.0,True,12,146.648,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,59.0,2.0,WET,3.0,True,12,103.755,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,60.0,2.0,WET,4.0,True,1,100.559,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,61.0,2.0,WET,5.0,True,1,101.219,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,62.0,2.0,WET,6.0,True,1,99.789,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,63.0,2.0,WET,7.0,True,1,100.016,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,64.0,2.0,WET,8.0,True,1,99.995,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,65.0,2.0,WET,9.0,True,1,100.703,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,66.0,2.0,WET,10.0,True,12,97.778,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,67.0,2.0,WET,11.0,True,1,100.088,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,68.0,2.0,WET,12.0,True,1,103.925,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,69.0,2.0,WET,13.0,True,1,99.407,2023,Monaco Grand Prix,R
+MAG,Haas F1 Team,70.0,2.0,WET,14.0,True,1,101.853,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,81.764,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,80.58,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,80.376,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,79.79,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,79.224,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,79.038,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,78.743,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,79.454,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,78.957,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,12,79.07,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,21,80.182,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,79.419,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,12,79.479,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,79.081,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,79.004,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,17.0,1.0,MEDIUM,17.0,True,1,79.182,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,18.0,1.0,MEDIUM,18.0,True,1,79.281,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,19.0,1.0,MEDIUM,19.0,True,1,79.234,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,20.0,1.0,MEDIUM,20.0,True,1,79.188,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,21.0,1.0,MEDIUM,21.0,True,1,79.398,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,22.0,1.0,MEDIUM,22.0,True,1,79.578,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,23.0,1.0,MEDIUM,23.0,True,1,79.699,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,24.0,1.0,MEDIUM,24.0,True,1,80.198,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,25.0,1.0,MEDIUM,25.0,True,1,80.132,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,26.0,1.0,MEDIUM,26.0,True,1,80.163,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,27.0,1.0,MEDIUM,27.0,True,1,80.154,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,28.0,1.0,MEDIUM,28.0,True,1,79.973,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,29.0,1.0,MEDIUM,29.0,True,1,80.009,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,30.0,1.0,MEDIUM,30.0,True,1,79.267,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,31.0,1.0,MEDIUM,31.0,True,1,79.067,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,32.0,1.0,MEDIUM,32.0,True,1,78.941,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,33.0,1.0,MEDIUM,33.0,True,1,79.071,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,34.0,1.0,MEDIUM,34.0,True,1,79.328,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,35.0,1.0,MEDIUM,35.0,True,1,80.911,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,36.0,1.0,MEDIUM,36.0,True,1,79.072,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,37.0,1.0,MEDIUM,37.0,True,1,79.096,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,38.0,1.0,MEDIUM,38.0,True,1,78.75,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,39.0,1.0,MEDIUM,39.0,True,1,80.38,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,40.0,1.0,MEDIUM,40.0,True,1,78.413,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,41.0,1.0,MEDIUM,41.0,True,1,78.207,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,42.0,1.0,MEDIUM,42.0,True,1,77.814,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,43.0,1.0,MEDIUM,43.0,True,1,77.561,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,44.0,1.0,MEDIUM,44.0,True,1,77.646,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,45.0,1.0,MEDIUM,45.0,True,1,77.746,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,46.0,1.0,MEDIUM,46.0,True,1,77.785,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,47.0,1.0,MEDIUM,47.0,True,1,77.579,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,48.0,1.0,MEDIUM,48.0,True,1,77.608,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,49.0,1.0,MEDIUM,49.0,True,1,78.016,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,50.0,1.0,MEDIUM,50.0,True,1,78.497,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,51.0,1.0,MEDIUM,51.0,True,1,84.546,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,52.0,1.0,MEDIUM,52.0,True,1,89.326,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,55.0,2.0,INTERMEDIATE,2.0,True,21,108.77,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,56.0,2.0,INTERMEDIATE,3.0,True,1,104.129,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,57.0,2.0,INTERMEDIATE,4.0,True,12,106.026,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,58.0,2.0,INTERMEDIATE,5.0,True,21,103.778,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,59.0,2.0,INTERMEDIATE,6.0,True,12,104.385,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,60.0,2.0,INTERMEDIATE,7.0,True,12,102.056,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,61.0,2.0,INTERMEDIATE,8.0,True,1,101.415,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,62.0,2.0,INTERMEDIATE,9.0,True,1,100.276,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,63.0,2.0,INTERMEDIATE,10.0,True,1,100.486,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,64.0,2.0,INTERMEDIATE,11.0,True,1,98.636,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,65.0,2.0,INTERMEDIATE,12.0,True,1,96.475,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,66.0,2.0,INTERMEDIATE,13.0,True,1,95.654,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,67.0,2.0,INTERMEDIATE,14.0,True,1,94.011,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,68.0,2.0,INTERMEDIATE,15.0,True,12,99.526,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,69.0,2.0,INTERMEDIATE,16.0,True,1,91.939,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,70.0,2.0,INTERMEDIATE,17.0,True,1,91.636,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,71.0,2.0,INTERMEDIATE,18.0,True,1,90.107,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,72.0,2.0,INTERMEDIATE,19.0,True,1,90.085,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,73.0,2.0,INTERMEDIATE,20.0,True,1,87.595,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,74.0,2.0,INTERMEDIATE,21.0,True,1,86.478,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,75.0,2.0,INTERMEDIATE,22.0,True,1,86.435,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,76.0,2.0,INTERMEDIATE,23.0,True,1,86.282,2023,Monaco Grand Prix,R
+DEV,AlphaTauri,77.0,2.0,INTERMEDIATE,24.0,True,1,88.038,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,81.288,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,80.281,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,80.032,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,79.296,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,78.73,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,78.712,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,78.951,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,78.859,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,78.697,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,79.297,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,12,79.627,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,78.8,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,12,78.481,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,78.439,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,78.246,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,17.0,1.0,MEDIUM,17.0,True,1,78.368,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,18.0,1.0,MEDIUM,18.0,True,1,79.026,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,19.0,1.0,MEDIUM,19.0,True,1,78.567,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,20.0,1.0,MEDIUM,20.0,True,1,79.131,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,21.0,1.0,MEDIUM,21.0,True,1,79.26,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,22.0,1.0,MEDIUM,22.0,True,1,79.152,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,23.0,1.0,MEDIUM,23.0,True,1,79.239,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,24.0,1.0,MEDIUM,24.0,True,1,79.314,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,25.0,1.0,MEDIUM,25.0,True,1,79.335,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,26.0,1.0,MEDIUM,26.0,True,1,79.272,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,27.0,1.0,MEDIUM,27.0,True,1,78.465,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,28.0,1.0,MEDIUM,28.0,True,1,78.369,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,29.0,1.0,MEDIUM,29.0,True,1,78.2,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,30.0,1.0,MEDIUM,30.0,True,1,78.335,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,31.0,1.0,MEDIUM,31.0,True,1,78.463,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,32.0,1.0,MEDIUM,32.0,True,1,78.519,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,33.0,1.0,MEDIUM,33.0,True,1,78.457,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,34.0,1.0,MEDIUM,34.0,True,1,78.039,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,35.0,1.0,MEDIUM,35.0,True,1,77.75,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,36.0,1.0,MEDIUM,36.0,True,1,77.68,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,37.0,1.0,MEDIUM,37.0,True,1,77.992,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,38.0,1.0,MEDIUM,38.0,True,1,78.195,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,39.0,1.0,MEDIUM,39.0,True,1,78.338,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,40.0,1.0,MEDIUM,40.0,True,1,78.328,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,41.0,1.0,MEDIUM,41.0,True,1,78.074,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,42.0,1.0,MEDIUM,42.0,True,1,78.189,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,43.0,1.0,MEDIUM,43.0,True,1,78.046,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,44.0,1.0,MEDIUM,44.0,True,1,78.0,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,45.0,1.0,MEDIUM,45.0,True,1,77.879,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,46.0,1.0,MEDIUM,46.0,True,1,77.956,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,47.0,1.0,MEDIUM,47.0,True,1,78.169,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,48.0,1.0,MEDIUM,48.0,True,1,78.098,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,49.0,1.0,MEDIUM,49.0,True,1,78.32,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,50.0,1.0,MEDIUM,50.0,True,1,78.64,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,51.0,1.0,MEDIUM,51.0,True,1,83.804,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,52.0,1.0,MEDIUM,52.0,True,1,92.268,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,55.0,2.0,INTERMEDIATE,2.0,True,12,101.834,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,56.0,2.0,INTERMEDIATE,3.0,True,1,102.479,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,57.0,2.0,INTERMEDIATE,4.0,True,12,102.945,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,58.0,2.0,INTERMEDIATE,5.0,True,12,105.898,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,59.0,2.0,INTERMEDIATE,6.0,True,12,102.608,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,60.0,2.0,INTERMEDIATE,7.0,True,12,103.593,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,61.0,2.0,INTERMEDIATE,8.0,True,1,102.234,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,62.0,2.0,INTERMEDIATE,9.0,True,1,100.84,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,63.0,2.0,INTERMEDIATE,10.0,True,1,99.932,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,64.0,2.0,INTERMEDIATE,11.0,True,1,103.104,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,65.0,2.0,INTERMEDIATE,12.0,True,1,98.497,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,66.0,2.0,INTERMEDIATE,13.0,True,1,97.427,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,67.0,2.0,INTERMEDIATE,14.0,True,1,97.623,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,68.0,2.0,INTERMEDIATE,15.0,True,12,137.012,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,69.0,2.0,INTERMEDIATE,16.0,True,1,100.44,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,70.0,2.0,INTERMEDIATE,17.0,True,1,93.923,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,71.0,2.0,INTERMEDIATE,18.0,True,1,91.757,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,72.0,2.0,INTERMEDIATE,19.0,True,1,89.958,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,73.0,2.0,INTERMEDIATE,20.0,True,1,88.138,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,74.0,2.0,INTERMEDIATE,21.0,True,1,88.759,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,75.0,2.0,INTERMEDIATE,22.0,True,1,87.332,2023,Monaco Grand Prix,R
+TSU,AlphaTauri,76.0,2.0,INTERMEDIATE,23.0,True,1,94.205,2023,Monaco Grand Prix,R
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,80.977,2023,Monaco Grand Prix,R
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,80.703,2023,Monaco Grand Prix,R
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,80.276,2023,Monaco Grand Prix,R
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,79.967,2023,Monaco Grand Prix,R
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,79.165,2023,Monaco Grand Prix,R
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,79.055,2023,Monaco Grand Prix,R
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,78.796,2023,Monaco Grand Prix,R
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,79.293,2023,Monaco Grand Prix,R
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,79.338,2023,Monaco Grand Prix,R
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,12,79.278,2023,Monaco Grand Prix,R
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,21,80.31,2023,Monaco Grand Prix,R
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,79.885,2023,Monaco Grand Prix,R
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,12,80.259,2023,Monaco Grand Prix,R
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,80.892,2023,Monaco Grand Prix,R
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,80.443,2023,Monaco Grand Prix,R
+ALB,Williams,17.0,1.0,MEDIUM,17.0,True,1,80.624,2023,Monaco Grand Prix,R
+ALB,Williams,20.0,2.0,HARD,2.0,True,1,78.47,2023,Monaco Grand Prix,R
+ALB,Williams,21.0,2.0,HARD,3.0,True,1,77.131,2023,Monaco Grand Prix,R
+ALB,Williams,22.0,2.0,HARD,4.0,True,1,77.105,2023,Monaco Grand Prix,R
+ALB,Williams,23.0,2.0,HARD,5.0,True,1,77.064,2023,Monaco Grand Prix,R
+ALB,Williams,24.0,2.0,HARD,6.0,True,1,76.672,2023,Monaco Grand Prix,R
+ALB,Williams,25.0,2.0,HARD,7.0,True,1,76.793,2023,Monaco Grand Prix,R
+ALB,Williams,26.0,2.0,HARD,8.0,True,1,76.962,2023,Monaco Grand Prix,R
+ALB,Williams,27.0,2.0,HARD,9.0,True,1,77.36,2023,Monaco Grand Prix,R
+ALB,Williams,28.0,2.0,HARD,10.0,True,1,78.528,2023,Monaco Grand Prix,R
+ALB,Williams,29.0,2.0,HARD,11.0,True,1,78.952,2023,Monaco Grand Prix,R
+ALB,Williams,30.0,2.0,HARD,12.0,True,1,79.457,2023,Monaco Grand Prix,R
+ALB,Williams,31.0,2.0,HARD,13.0,True,1,79.152,2023,Monaco Grand Prix,R
+ALB,Williams,32.0,2.0,HARD,14.0,True,1,79.589,2023,Monaco Grand Prix,R
+ALB,Williams,33.0,2.0,HARD,15.0,True,1,81.559,2023,Monaco Grand Prix,R
+ALB,Williams,34.0,2.0,HARD,16.0,True,1,80.731,2023,Monaco Grand Prix,R
+ALB,Williams,35.0,2.0,HARD,17.0,True,1,78.619,2023,Monaco Grand Prix,R
+ALB,Williams,36.0,2.0,HARD,18.0,True,1,78.804,2023,Monaco Grand Prix,R
+ALB,Williams,37.0,2.0,HARD,19.0,True,1,79.143,2023,Monaco Grand Prix,R
+ALB,Williams,38.0,2.0,HARD,20.0,True,1,78.633,2023,Monaco Grand Prix,R
+ALB,Williams,39.0,2.0,HARD,21.0,True,1,78.774,2023,Monaco Grand Prix,R
+ALB,Williams,40.0,2.0,HARD,22.0,True,1,78.476,2023,Monaco Grand Prix,R
+ALB,Williams,41.0,2.0,HARD,23.0,True,1,78.825,2023,Monaco Grand Prix,R
+ALB,Williams,42.0,2.0,HARD,24.0,True,1,78.93,2023,Monaco Grand Prix,R
+ALB,Williams,43.0,2.0,HARD,25.0,True,1,78.486,2023,Monaco Grand Prix,R
+ALB,Williams,44.0,2.0,HARD,26.0,True,1,78.767,2023,Monaco Grand Prix,R
+ALB,Williams,45.0,2.0,HARD,27.0,True,1,78.829,2023,Monaco Grand Prix,R
+ALB,Williams,46.0,2.0,HARD,28.0,True,1,78.9,2023,Monaco Grand Prix,R
+ALB,Williams,47.0,2.0,HARD,29.0,True,1,78.528,2023,Monaco Grand Prix,R
+ALB,Williams,48.0,2.0,HARD,30.0,True,1,78.882,2023,Monaco Grand Prix,R
+ALB,Williams,49.0,2.0,HARD,31.0,True,1,80.597,2023,Monaco Grand Prix,R
+ALB,Williams,50.0,2.0,HARD,32.0,True,1,80.166,2023,Monaco Grand Prix,R
+ALB,Williams,51.0,2.0,HARD,33.0,True,1,89.941,2023,Monaco Grand Prix,R
+ALB,Williams,54.0,3.0,INTERMEDIATE,2.0,True,12,98.297,2023,Monaco Grand Prix,R
+ALB,Williams,55.0,3.0,INTERMEDIATE,3.0,True,21,105.721,2023,Monaco Grand Prix,R
+ALB,Williams,56.0,3.0,INTERMEDIATE,4.0,True,1,104.909,2023,Monaco Grand Prix,R
+ALB,Williams,57.0,3.0,INTERMEDIATE,5.0,True,12,102.2,2023,Monaco Grand Prix,R
+ALB,Williams,58.0,3.0,INTERMEDIATE,6.0,True,12,106.101,2023,Monaco Grand Prix,R
+ALB,Williams,59.0,3.0,INTERMEDIATE,7.0,True,21,103.133,2023,Monaco Grand Prix,R
+ALB,Williams,60.0,3.0,INTERMEDIATE,8.0,True,12,115.401,2023,Monaco Grand Prix,R
+ALB,Williams,61.0,3.0,INTERMEDIATE,9.0,True,1,101.209,2023,Monaco Grand Prix,R
+ALB,Williams,62.0,3.0,INTERMEDIATE,10.0,True,1,99.897,2023,Monaco Grand Prix,R
+ALB,Williams,63.0,3.0,INTERMEDIATE,11.0,True,1,98.649,2023,Monaco Grand Prix,R
+ALB,Williams,64.0,3.0,INTERMEDIATE,12.0,True,1,97.428,2023,Monaco Grand Prix,R
+ALB,Williams,65.0,3.0,INTERMEDIATE,13.0,True,1,95.42,2023,Monaco Grand Prix,R
+ALB,Williams,66.0,3.0,INTERMEDIATE,14.0,True,1,94.016,2023,Monaco Grand Prix,R
+ALB,Williams,67.0,3.0,INTERMEDIATE,15.0,True,12,93.223,2023,Monaco Grand Prix,R
+ALB,Williams,68.0,3.0,INTERMEDIATE,16.0,True,21,93.322,2023,Monaco Grand Prix,R
+ALB,Williams,69.0,3.0,INTERMEDIATE,17.0,True,1,94.087,2023,Monaco Grand Prix,R
+ALB,Williams,70.0,3.0,INTERMEDIATE,18.0,True,1,90.63,2023,Monaco Grand Prix,R
+ALB,Williams,71.0,3.0,INTERMEDIATE,19.0,True,1,89.729,2023,Monaco Grand Prix,R
+ALB,Williams,72.0,3.0,INTERMEDIATE,20.0,True,1,89.217,2023,Monaco Grand Prix,R
+ALB,Williams,73.0,3.0,INTERMEDIATE,21.0,True,1,92.141,2023,Monaco Grand Prix,R
+ALB,Williams,74.0,3.0,INTERMEDIATE,22.0,True,1,88.241,2023,Monaco Grand Prix,R
+ALB,Williams,75.0,3.0,INTERMEDIATE,23.0,True,1,87.197,2023,Monaco Grand Prix,R
+ALB,Williams,76.0,3.0,INTERMEDIATE,24.0,True,1,86.764,2023,Monaco Grand Prix,R
+ALB,Williams,77.0,3.0,INTERMEDIATE,25.0,True,1,87.816,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,3.0,2.0,HARD,2.0,True,1,77.003,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,4.0,2.0,HARD,3.0,True,1,76.946,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,5.0,2.0,HARD,4.0,True,1,76.926,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,6.0,2.0,HARD,5.0,True,1,77.205,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,7.0,2.0,HARD,6.0,True,1,77.408,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,8.0,2.0,HARD,7.0,True,1,77.254,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,9.0,2.0,HARD,8.0,True,1,77.523,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,10.0,2.0,HARD,9.0,True,1,78.449,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,11.0,2.0,HARD,10.0,True,12,79.602,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,12.0,2.0,HARD,11.0,True,21,80.319,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,13.0,2.0,HARD,12.0,True,1,80.561,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,14.0,2.0,HARD,13.0,True,12,80.653,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,15.0,2.0,HARD,14.0,True,1,80.398,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,16.0,2.0,HARD,15.0,True,1,80.727,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,17.0,2.0,HARD,16.0,True,1,80.669,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,18.0,2.0,HARD,17.0,True,1,81.524,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,19.0,2.0,HARD,18.0,True,1,82.387,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,20.0,2.0,HARD,19.0,True,1,80.574,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,21.0,2.0,HARD,20.0,True,1,78.245,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,22.0,2.0,HARD,21.0,True,1,77.588,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,23.0,2.0,HARD,22.0,True,1,77.45,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,24.0,2.0,HARD,23.0,True,1,77.465,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,25.0,2.0,HARD,24.0,True,1,77.771,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,26.0,2.0,HARD,25.0,True,1,78.161,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,27.0,2.0,HARD,26.0,True,1,78.097,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,28.0,2.0,HARD,27.0,True,1,80.78,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,29.0,2.0,HARD,28.0,True,1,78.863,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,30.0,2.0,HARD,29.0,True,1,79.5,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,31.0,2.0,HARD,30.0,True,1,79.192,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,32.0,2.0,HARD,31.0,True,1,79.626,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,33.0,2.0,HARD,32.0,True,1,81.602,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,34.0,2.0,HARD,33.0,True,1,80.587,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,35.0,2.0,HARD,34.0,True,1,78.586,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,36.0,2.0,HARD,35.0,True,1,78.846,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,37.0,2.0,HARD,36.0,True,1,79.099,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,38.0,2.0,HARD,37.0,True,1,78.681,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,39.0,2.0,HARD,38.0,True,1,78.659,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,40.0,2.0,HARD,39.0,True,1,78.607,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,41.0,2.0,HARD,40.0,True,1,78.831,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,42.0,2.0,HARD,41.0,True,1,78.666,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,43.0,2.0,HARD,42.0,True,1,78.701,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,44.0,2.0,HARD,43.0,True,1,78.721,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,45.0,2.0,HARD,44.0,True,1,78.762,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,46.0,2.0,HARD,45.0,True,1,78.66,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,47.0,2.0,HARD,46.0,True,1,78.809,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,48.0,2.0,HARD,47.0,True,1,78.947,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,49.0,2.0,HARD,48.0,True,1,79.065,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,50.0,2.0,HARD,49.0,True,1,81.664,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,51.0,2.0,HARD,50.0,True,1,90.253,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,54.0,3.0,INTERMEDIATE,2.0,True,12,100.446,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,55.0,3.0,INTERMEDIATE,3.0,True,21,106.545,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,56.0,3.0,INTERMEDIATE,4.0,True,1,101.908,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,57.0,3.0,INTERMEDIATE,5.0,True,12,104.702,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,58.0,3.0,INTERMEDIATE,6.0,True,12,105.564,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,59.0,3.0,INTERMEDIATE,7.0,True,21,103.592,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,60.0,3.0,INTERMEDIATE,8.0,True,12,101.62,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,61.0,3.0,INTERMEDIATE,9.0,True,1,101.501,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,62.0,3.0,INTERMEDIATE,10.0,True,1,100.987,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,63.0,3.0,INTERMEDIATE,11.0,True,1,100.738,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,64.0,3.0,INTERMEDIATE,12.0,True,1,102.573,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,65.0,3.0,INTERMEDIATE,13.0,True,1,99.444,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,66.0,3.0,INTERMEDIATE,14.0,True,1,94.287,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,67.0,3.0,INTERMEDIATE,15.0,True,12,93.464,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,68.0,3.0,INTERMEDIATE,16.0,True,21,94.679,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,69.0,3.0,INTERMEDIATE,17.0,True,1,93.879,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,70.0,3.0,INTERMEDIATE,18.0,True,1,90.405,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,71.0,3.0,INTERMEDIATE,19.0,True,1,89.336,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,72.0,3.0,INTERMEDIATE,20.0,True,1,87.964,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,73.0,3.0,INTERMEDIATE,21.0,True,1,90.119,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,74.0,3.0,INTERMEDIATE,22.0,True,1,88.049,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,75.0,3.0,INTERMEDIATE,23.0,True,1,86.612,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,76.0,3.0,INTERMEDIATE,24.0,True,1,85.717,2023,Monaco Grand Prix,R
+ZHO,Alfa Romeo,77.0,3.0,INTERMEDIATE,25.0,True,1,86.615,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,3.0,2.0,HARD,2.0,True,1,77.221,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,4.0,2.0,HARD,3.0,True,1,77.148,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,5.0,2.0,HARD,4.0,True,1,77.045,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,6.0,2.0,HARD,5.0,True,1,76.991,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,7.0,2.0,HARD,6.0,True,1,77.333,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,8.0,2.0,HARD,7.0,True,1,77.237,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,9.0,2.0,HARD,8.0,True,1,77.433,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,10.0,2.0,HARD,9.0,True,1,78.028,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,11.0,2.0,HARD,10.0,True,12,79.596,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,12.0,2.0,HARD,11.0,True,21,80.164,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,13.0,2.0,HARD,12.0,True,1,80.824,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,14.0,2.0,HARD,13.0,True,12,81.254,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,15.0,2.0,HARD,14.0,True,1,80.972,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,16.0,2.0,HARD,15.0,True,1,80.281,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,17.0,2.0,HARD,16.0,True,1,80.171,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,18.0,2.0,HARD,17.0,True,1,81.166,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,19.0,2.0,HARD,18.0,True,1,79.836,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,20.0,2.0,HARD,19.0,True,1,77.642,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,21.0,2.0,HARD,20.0,True,1,77.201,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,22.0,2.0,HARD,21.0,True,1,77.845,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,23.0,2.0,HARD,22.0,True,1,78.009,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,24.0,2.0,HARD,23.0,True,1,78.363,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,25.0,2.0,HARD,24.0,True,1,78.23,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,26.0,2.0,HARD,25.0,True,1,78.664,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,27.0,2.0,HARD,26.0,True,1,78.956,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,28.0,2.0,HARD,27.0,True,1,79.589,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,29.0,2.0,HARD,28.0,True,1,81.412,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,30.0,2.0,HARD,29.0,True,1,78.92,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,31.0,2.0,HARD,30.0,True,1,79.756,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,32.0,2.0,HARD,31.0,True,1,79.708,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,33.0,2.0,HARD,32.0,True,1,81.348,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,34.0,2.0,HARD,33.0,True,1,80.956,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,35.0,2.0,HARD,34.0,True,1,78.327,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,36.0,2.0,HARD,35.0,True,1,79.148,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,37.0,2.0,HARD,36.0,True,1,79.009,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,38.0,2.0,HARD,37.0,True,1,78.602,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,39.0,2.0,HARD,38.0,True,1,78.557,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,40.0,2.0,HARD,39.0,True,1,78.692,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,41.0,2.0,HARD,40.0,True,1,78.606,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,42.0,2.0,HARD,41.0,True,1,78.838,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,43.0,2.0,HARD,42.0,True,1,78.991,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,44.0,2.0,HARD,43.0,True,1,78.467,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,45.0,2.0,HARD,44.0,True,1,78.751,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,46.0,2.0,HARD,45.0,True,1,78.608,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,47.0,2.0,HARD,46.0,True,1,78.857,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,48.0,2.0,HARD,47.0,True,1,78.789,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,49.0,2.0,HARD,48.0,True,1,79.036,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,50.0,2.0,HARD,49.0,True,1,80.238,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,51.0,2.0,HARD,50.0,True,1,88.292,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,52.0,2.0,HARD,51.0,True,1,91.149,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,53.0,2.0,HARD,52.0,True,1,100.881,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,56.0,3.0,INTERMEDIATE,2.0,True,1,103.79,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,57.0,3.0,INTERMEDIATE,3.0,True,12,102.598,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,58.0,3.0,INTERMEDIATE,4.0,True,12,102.188,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,61.0,4.0,WET,2.0,True,1,99.565,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,62.0,4.0,WET,3.0,True,1,98.291,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,63.0,4.0,WET,4.0,True,1,97.973,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,64.0,4.0,WET,5.0,True,1,97.628,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,65.0,4.0,WET,6.0,True,1,96.647,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,66.0,4.0,WET,7.0,True,1,96.301,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,67.0,4.0,WET,8.0,True,12,95.656,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,68.0,4.0,WET,9.0,True,21,96.655,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,69.0,4.0,WET,10.0,True,1,95.297,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,70.0,4.0,WET,11.0,True,1,100.947,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,71.0,4.0,WET,12.0,True,1,93.744,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,72.0,4.0,WET,13.0,True,1,92.994,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,73.0,4.0,WET,14.0,True,1,93.111,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,74.0,4.0,WET,15.0,True,1,94.924,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,75.0,4.0,WET,16.0,True,1,94.146,2023,Monaco Grand Prix,R
+HUL,Haas F1 Team,76.0,4.0,WET,17.0,True,1,90.26,2023,Monaco Grand Prix,R
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,1,80.301,2023,Monaco Grand Prix,R
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,1,79.704,2023,Monaco Grand Prix,R
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,1,79.314,2023,Monaco Grand Prix,R
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,1,79.041,2023,Monaco Grand Prix,R
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,78.731,2023,Monaco Grand Prix,R
+OCO,Alpine,7.0,1.0,MEDIUM,7.0,True,1,78.782,2023,Monaco Grand Prix,R
+OCO,Alpine,8.0,1.0,MEDIUM,8.0,True,1,78.533,2023,Monaco Grand Prix,R
+OCO,Alpine,9.0,1.0,MEDIUM,9.0,True,1,78.594,2023,Monaco Grand Prix,R
+OCO,Alpine,10.0,1.0,MEDIUM,10.0,True,1,78.46,2023,Monaco Grand Prix,R
+OCO,Alpine,11.0,1.0,MEDIUM,11.0,True,1,78.271,2023,Monaco Grand Prix,R
+OCO,Alpine,12.0,1.0,MEDIUM,12.0,True,12,78.515,2023,Monaco Grand Prix,R
+OCO,Alpine,13.0,1.0,MEDIUM,13.0,True,1,78.025,2023,Monaco Grand Prix,R
+OCO,Alpine,14.0,1.0,MEDIUM,14.0,True,12,78.055,2023,Monaco Grand Prix,R
+OCO,Alpine,15.0,1.0,MEDIUM,15.0,True,1,78.018,2023,Monaco Grand Prix,R
+OCO,Alpine,16.0,1.0,MEDIUM,16.0,True,1,77.948,2023,Monaco Grand Prix,R
+OCO,Alpine,17.0,1.0,MEDIUM,17.0,True,1,78.372,2023,Monaco Grand Prix,R
+OCO,Alpine,18.0,1.0,MEDIUM,18.0,True,1,78.22,2023,Monaco Grand Prix,R
+OCO,Alpine,19.0,1.0,MEDIUM,19.0,True,1,78.074,2023,Monaco Grand Prix,R
+OCO,Alpine,20.0,1.0,MEDIUM,20.0,True,1,78.087,2023,Monaco Grand Prix,R
+OCO,Alpine,21.0,1.0,MEDIUM,21.0,True,1,78.161,2023,Monaco Grand Prix,R
+OCO,Alpine,22.0,1.0,MEDIUM,22.0,True,1,78.057,2023,Monaco Grand Prix,R
+OCO,Alpine,23.0,1.0,MEDIUM,23.0,True,1,77.873,2023,Monaco Grand Prix,R
+OCO,Alpine,24.0,1.0,MEDIUM,24.0,True,1,77.498,2023,Monaco Grand Prix,R
+OCO,Alpine,25.0,1.0,MEDIUM,25.0,True,1,77.451,2023,Monaco Grand Prix,R
+OCO,Alpine,26.0,1.0,MEDIUM,26.0,True,1,77.433,2023,Monaco Grand Prix,R
+OCO,Alpine,27.0,1.0,MEDIUM,27.0,True,1,77.145,2023,Monaco Grand Prix,R
+OCO,Alpine,28.0,1.0,MEDIUM,28.0,True,1,76.938,2023,Monaco Grand Prix,R
+OCO,Alpine,29.0,1.0,MEDIUM,29.0,True,1,77.179,2023,Monaco Grand Prix,R
+OCO,Alpine,30.0,1.0,MEDIUM,30.0,True,1,77.334,2023,Monaco Grand Prix,R
+OCO,Alpine,31.0,1.0,MEDIUM,31.0,True,1,77.331,2023,Monaco Grand Prix,R
+OCO,Alpine,34.0,2.0,HARD,2.0,True,1,76.95,2023,Monaco Grand Prix,R
+OCO,Alpine,35.0,2.0,HARD,3.0,True,1,77.095,2023,Monaco Grand Prix,R
+OCO,Alpine,36.0,2.0,HARD,4.0,True,1,77.304,2023,Monaco Grand Prix,R
+OCO,Alpine,37.0,2.0,HARD,5.0,True,1,77.14,2023,Monaco Grand Prix,R
+OCO,Alpine,38.0,2.0,HARD,6.0,True,1,77.048,2023,Monaco Grand Prix,R
+OCO,Alpine,39.0,2.0,HARD,7.0,True,1,77.169,2023,Monaco Grand Prix,R
+OCO,Alpine,40.0,2.0,HARD,8.0,True,1,77.025,2023,Monaco Grand Prix,R
+OCO,Alpine,41.0,2.0,HARD,9.0,True,1,76.528,2023,Monaco Grand Prix,R
+OCO,Alpine,42.0,2.0,HARD,10.0,True,1,77.01,2023,Monaco Grand Prix,R
+OCO,Alpine,43.0,2.0,HARD,11.0,True,1,77.002,2023,Monaco Grand Prix,R
+OCO,Alpine,44.0,2.0,HARD,12.0,True,1,77.033,2023,Monaco Grand Prix,R
+OCO,Alpine,45.0,2.0,HARD,13.0,True,1,77.271,2023,Monaco Grand Prix,R
+OCO,Alpine,46.0,2.0,HARD,14.0,True,1,76.775,2023,Monaco Grand Prix,R
+OCO,Alpine,47.0,2.0,HARD,15.0,True,1,76.962,2023,Monaco Grand Prix,R
+OCO,Alpine,48.0,2.0,HARD,16.0,True,1,76.968,2023,Monaco Grand Prix,R
+OCO,Alpine,49.0,2.0,HARD,17.0,True,1,77.09,2023,Monaco Grand Prix,R
+OCO,Alpine,50.0,2.0,HARD,18.0,True,1,77.836,2023,Monaco Grand Prix,R
+OCO,Alpine,51.0,2.0,HARD,19.0,True,1,79.453,2023,Monaco Grand Prix,R
+OCO,Alpine,52.0,2.0,HARD,20.0,True,1,86.99,2023,Monaco Grand Prix,R
+OCO,Alpine,53.0,2.0,HARD,21.0,True,1,89.909,2023,Monaco Grand Prix,R
+OCO,Alpine,56.0,3.0,INTERMEDIATE,2.0,True,21,101.755,2023,Monaco Grand Prix,R
+OCO,Alpine,57.0,3.0,INTERMEDIATE,3.0,True,1,102.554,2023,Monaco Grand Prix,R
+OCO,Alpine,58.0,3.0,INTERMEDIATE,4.0,True,12,103.729,2023,Monaco Grand Prix,R
+OCO,Alpine,59.0,3.0,INTERMEDIATE,5.0,True,21,105.002,2023,Monaco Grand Prix,R
+OCO,Alpine,60.0,3.0,INTERMEDIATE,6.0,True,12,102.527,2023,Monaco Grand Prix,R
+OCO,Alpine,61.0,3.0,INTERMEDIATE,7.0,True,12,102.63,2023,Monaco Grand Prix,R
+OCO,Alpine,62.0,3.0,INTERMEDIATE,8.0,True,1,102.139,2023,Monaco Grand Prix,R
+OCO,Alpine,63.0,3.0,INTERMEDIATE,9.0,True,1,101.123,2023,Monaco Grand Prix,R
+OCO,Alpine,64.0,3.0,INTERMEDIATE,10.0,True,1,100.375,2023,Monaco Grand Prix,R
+OCO,Alpine,65.0,3.0,INTERMEDIATE,11.0,True,1,97.029,2023,Monaco Grand Prix,R
+OCO,Alpine,66.0,3.0,INTERMEDIATE,12.0,True,1,95.456,2023,Monaco Grand Prix,R
+OCO,Alpine,67.0,3.0,INTERMEDIATE,13.0,True,1,94.457,2023,Monaco Grand Prix,R
+OCO,Alpine,68.0,3.0,INTERMEDIATE,14.0,True,1,93.484,2023,Monaco Grand Prix,R
+OCO,Alpine,69.0,3.0,INTERMEDIATE,15.0,True,12,92.501,2023,Monaco Grand Prix,R
+OCO,Alpine,70.0,3.0,INTERMEDIATE,16.0,True,1,90.3,2023,Monaco Grand Prix,R
+OCO,Alpine,71.0,3.0,INTERMEDIATE,17.0,True,1,90.027,2023,Monaco Grand Prix,R
+OCO,Alpine,72.0,3.0,INTERMEDIATE,18.0,True,1,89.541,2023,Monaco Grand Prix,R
+OCO,Alpine,73.0,3.0,INTERMEDIATE,19.0,True,1,87.666,2023,Monaco Grand Prix,R
+OCO,Alpine,74.0,3.0,INTERMEDIATE,20.0,True,1,86.712,2023,Monaco Grand Prix,R
+OCO,Alpine,75.0,3.0,INTERMEDIATE,21.0,True,1,85.133,2023,Monaco Grand Prix,R
+OCO,Alpine,76.0,3.0,INTERMEDIATE,22.0,True,1,84.834,2023,Monaco Grand Prix,R
+OCO,Alpine,77.0,3.0,INTERMEDIATE,23.0,True,1,86.24,2023,Monaco Grand Prix,R
+OCO,Alpine,78.0,3.0,INTERMEDIATE,24.0,True,1,84.231,2023,Monaco Grand Prix,R
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,81.61,2023,Monaco Grand Prix,R
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,80.396,2023,Monaco Grand Prix,R
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,80.209,2023,Monaco Grand Prix,R
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,79.502,2023,Monaco Grand Prix,R
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,79.045,2023,Monaco Grand Prix,R
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,78.652,2023,Monaco Grand Prix,R
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,78.651,2023,Monaco Grand Prix,R
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,79.065,2023,Monaco Grand Prix,R
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,79.053,2023,Monaco Grand Prix,R
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,79.148,2023,Monaco Grand Prix,R
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,12,80.277,2023,Monaco Grand Prix,R
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,78.978,2023,Monaco Grand Prix,R
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,12,78.856,2023,Monaco Grand Prix,R
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,78.855,2023,Monaco Grand Prix,R
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,78.988,2023,Monaco Grand Prix,R
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,78.937,2023,Monaco Grand Prix,R
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,79.01,2023,Monaco Grand Prix,R
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,79.504,2023,Monaco Grand Prix,R
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,78.985,2023,Monaco Grand Prix,R
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,79.074,2023,Monaco Grand Prix,R
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,1,78.882,2023,Monaco Grand Prix,R
+NOR,McLaren,23.0,1.0,MEDIUM,23.0,True,1,78.657,2023,Monaco Grand Prix,R
+NOR,McLaren,24.0,1.0,MEDIUM,24.0,True,1,78.681,2023,Monaco Grand Prix,R
+NOR,McLaren,25.0,1.0,MEDIUM,25.0,True,1,78.78,2023,Monaco Grand Prix,R
+NOR,McLaren,26.0,1.0,MEDIUM,26.0,True,1,79.067,2023,Monaco Grand Prix,R
+NOR,McLaren,27.0,1.0,MEDIUM,27.0,True,1,79.109,2023,Monaco Grand Prix,R
+NOR,McLaren,28.0,1.0,MEDIUM,28.0,True,1,78.771,2023,Monaco Grand Prix,R
+NOR,McLaren,29.0,1.0,MEDIUM,29.0,True,1,78.906,2023,Monaco Grand Prix,R
+NOR,McLaren,30.0,1.0,MEDIUM,30.0,True,1,78.568,2023,Monaco Grand Prix,R
+NOR,McLaren,31.0,1.0,MEDIUM,31.0,True,1,78.454,2023,Monaco Grand Prix,R
+NOR,McLaren,32.0,1.0,MEDIUM,32.0,True,1,77.914,2023,Monaco Grand Prix,R
+NOR,McLaren,33.0,1.0,MEDIUM,33.0,True,1,78.042,2023,Monaco Grand Prix,R
+NOR,McLaren,34.0,1.0,MEDIUM,34.0,True,1,78.026,2023,Monaco Grand Prix,R
+NOR,McLaren,35.0,1.0,MEDIUM,35.0,True,1,78.192,2023,Monaco Grand Prix,R
+NOR,McLaren,36.0,1.0,MEDIUM,36.0,True,1,78.05,2023,Monaco Grand Prix,R
+NOR,McLaren,37.0,1.0,MEDIUM,37.0,True,1,78.303,2023,Monaco Grand Prix,R
+NOR,McLaren,38.0,1.0,MEDIUM,38.0,True,1,78.214,2023,Monaco Grand Prix,R
+NOR,McLaren,39.0,1.0,MEDIUM,39.0,True,1,78.151,2023,Monaco Grand Prix,R
+NOR,McLaren,40.0,1.0,MEDIUM,40.0,True,1,78.529,2023,Monaco Grand Prix,R
+NOR,McLaren,41.0,1.0,MEDIUM,41.0,True,1,78.409,2023,Monaco Grand Prix,R
+NOR,McLaren,42.0,1.0,MEDIUM,42.0,True,1,78.149,2023,Monaco Grand Prix,R
+NOR,McLaren,43.0,1.0,MEDIUM,43.0,True,1,78.045,2023,Monaco Grand Prix,R
+NOR,McLaren,44.0,1.0,MEDIUM,44.0,True,1,77.991,2023,Monaco Grand Prix,R
+NOR,McLaren,45.0,1.0,MEDIUM,45.0,True,1,77.862,2023,Monaco Grand Prix,R
+NOR,McLaren,46.0,1.0,MEDIUM,46.0,True,1,77.844,2023,Monaco Grand Prix,R
+NOR,McLaren,47.0,1.0,MEDIUM,47.0,True,1,78.234,2023,Monaco Grand Prix,R
+NOR,McLaren,48.0,1.0,MEDIUM,48.0,True,1,78.297,2023,Monaco Grand Prix,R
+NOR,McLaren,49.0,1.0,MEDIUM,49.0,True,1,78.152,2023,Monaco Grand Prix,R
+NOR,McLaren,52.0,2.0,HARD,2.0,True,1,88.675,2023,Monaco Grand Prix,R
+NOR,McLaren,53.0,2.0,HARD,3.0,True,1,92.162,2023,Monaco Grand Prix,R
+NOR,McLaren,56.0,3.0,INTERMEDIATE,2.0,True,1,100.384,2023,Monaco Grand Prix,R
+NOR,McLaren,57.0,3.0,INTERMEDIATE,3.0,True,12,100.421,2023,Monaco Grand Prix,R
+NOR,McLaren,58.0,3.0,INTERMEDIATE,4.0,True,12,102.13,2023,Monaco Grand Prix,R
+NOR,McLaren,59.0,3.0,INTERMEDIATE,5.0,True,12,101.216,2023,Monaco Grand Prix,R
+NOR,McLaren,60.0,3.0,INTERMEDIATE,6.0,True,12,101.789,2023,Monaco Grand Prix,R
+NOR,McLaren,61.0,3.0,INTERMEDIATE,7.0,True,1,99.545,2023,Monaco Grand Prix,R
+NOR,McLaren,62.0,3.0,INTERMEDIATE,8.0,True,1,98.893,2023,Monaco Grand Prix,R
+NOR,McLaren,63.0,3.0,INTERMEDIATE,9.0,True,1,98.511,2023,Monaco Grand Prix,R
+NOR,McLaren,64.0,3.0,INTERMEDIATE,10.0,True,1,98.75,2023,Monaco Grand Prix,R
+NOR,McLaren,65.0,3.0,INTERMEDIATE,11.0,True,1,98.818,2023,Monaco Grand Prix,R
+NOR,McLaren,66.0,3.0,INTERMEDIATE,12.0,True,1,96.981,2023,Monaco Grand Prix,R
+NOR,McLaren,67.0,3.0,INTERMEDIATE,13.0,True,1,92.417,2023,Monaco Grand Prix,R
+NOR,McLaren,68.0,3.0,INTERMEDIATE,14.0,True,12,91.037,2023,Monaco Grand Prix,R
+NOR,McLaren,69.0,3.0,INTERMEDIATE,15.0,True,1,90.126,2023,Monaco Grand Prix,R
+NOR,McLaren,70.0,3.0,INTERMEDIATE,16.0,True,1,88.512,2023,Monaco Grand Prix,R
+NOR,McLaren,71.0,3.0,INTERMEDIATE,17.0,True,1,88.373,2023,Monaco Grand Prix,R
+NOR,McLaren,72.0,3.0,INTERMEDIATE,18.0,True,1,85.959,2023,Monaco Grand Prix,R
+NOR,McLaren,73.0,3.0,INTERMEDIATE,19.0,True,1,85.767,2023,Monaco Grand Prix,R
+NOR,McLaren,74.0,3.0,INTERMEDIATE,20.0,True,1,85.471,2023,Monaco Grand Prix,R
+NOR,McLaren,75.0,3.0,INTERMEDIATE,21.0,True,1,85.278,2023,Monaco Grand Prix,R
+NOR,McLaren,76.0,3.0,INTERMEDIATE,22.0,True,1,85.767,2023,Monaco Grand Prix,R
+NOR,McLaren,77.0,3.0,INTERMEDIATE,23.0,True,1,86.888,2023,Monaco Grand Prix,R
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,80.527,2023,Monaco Grand Prix,R
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,80.105,2023,Monaco Grand Prix,R
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,79.356,2023,Monaco Grand Prix,R
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,78.736,2023,Monaco Grand Prix,R
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,78.958,2023,Monaco Grand Prix,R
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,78.651,2023,Monaco Grand Prix,R
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,79.051,2023,Monaco Grand Prix,R
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,78.829,2023,Monaco Grand Prix,R
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,78.173,2023,Monaco Grand Prix,R
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,77.926,2023,Monaco Grand Prix,R
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,12,78.23,2023,Monaco Grand Prix,R
+HAM,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,78.084,2023,Monaco Grand Prix,R
+HAM,Mercedes,14.0,1.0,MEDIUM,14.0,True,12,78.422,2023,Monaco Grand Prix,R
+HAM,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,78.189,2023,Monaco Grand Prix,R
+HAM,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,78.31,2023,Monaco Grand Prix,R
+HAM,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,78.254,2023,Monaco Grand Prix,R
+HAM,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,78.37,2023,Monaco Grand Prix,R
+HAM,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,78.207,2023,Monaco Grand Prix,R
+HAM,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,78.121,2023,Monaco Grand Prix,R
+HAM,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,78.311,2023,Monaco Grand Prix,R
+HAM,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,77.393,2023,Monaco Grand Prix,R
+HAM,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,78.053,2023,Monaco Grand Prix,R
+HAM,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,77.431,2023,Monaco Grand Prix,R
+HAM,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,77.643,2023,Monaco Grand Prix,R
+HAM,Mercedes,26.0,1.0,MEDIUM,26.0,True,1,77.716,2023,Monaco Grand Prix,R
+HAM,Mercedes,27.0,1.0,MEDIUM,27.0,True,1,77.322,2023,Monaco Grand Prix,R
+HAM,Mercedes,28.0,1.0,MEDIUM,28.0,True,1,77.334,2023,Monaco Grand Prix,R
+HAM,Mercedes,29.0,1.0,MEDIUM,29.0,True,1,77.372,2023,Monaco Grand Prix,R
+HAM,Mercedes,30.0,1.0,MEDIUM,30.0,True,1,77.742,2023,Monaco Grand Prix,R
+HAM,Mercedes,33.0,2.0,HARD,2.0,True,1,75.65,2023,Monaco Grand Prix,R
+HAM,Mercedes,34.0,2.0,HARD,3.0,True,1,78.357,2023,Monaco Grand Prix,R
+HAM,Mercedes,35.0,2.0,HARD,4.0,True,1,77.159,2023,Monaco Grand Prix,R
+HAM,Mercedes,36.0,2.0,HARD,5.0,True,1,77.688,2023,Monaco Grand Prix,R
+HAM,Mercedes,37.0,2.0,HARD,6.0,True,1,77.711,2023,Monaco Grand Prix,R
+HAM,Mercedes,38.0,2.0,HARD,7.0,True,1,77.167,2023,Monaco Grand Prix,R
+HAM,Mercedes,39.0,2.0,HARD,8.0,True,1,77.293,2023,Monaco Grand Prix,R
+HAM,Mercedes,40.0,2.0,HARD,9.0,True,1,76.962,2023,Monaco Grand Prix,R
+HAM,Mercedes,41.0,2.0,HARD,10.0,True,1,76.588,2023,Monaco Grand Prix,R
+HAM,Mercedes,42.0,2.0,HARD,11.0,True,1,76.58,2023,Monaco Grand Prix,R
+HAM,Mercedes,43.0,2.0,HARD,12.0,True,1,76.529,2023,Monaco Grand Prix,R
+HAM,Mercedes,44.0,2.0,HARD,13.0,True,1,76.88,2023,Monaco Grand Prix,R
+HAM,Mercedes,45.0,2.0,HARD,14.0,True,1,78.833,2023,Monaco Grand Prix,R
+HAM,Mercedes,46.0,2.0,HARD,15.0,True,1,76.85,2023,Monaco Grand Prix,R
+HAM,Mercedes,47.0,2.0,HARD,16.0,True,1,76.257,2023,Monaco Grand Prix,R
+HAM,Mercedes,48.0,2.0,HARD,17.0,True,1,76.86,2023,Monaco Grand Prix,R
+HAM,Mercedes,49.0,2.0,HARD,18.0,True,1,76.781,2023,Monaco Grand Prix,R
+HAM,Mercedes,50.0,2.0,HARD,19.0,True,1,77.11,2023,Monaco Grand Prix,R
+HAM,Mercedes,51.0,2.0,HARD,20.0,True,1,78.294,2023,Monaco Grand Prix,R
+HAM,Mercedes,52.0,2.0,HARD,21.0,True,1,86.237,2023,Monaco Grand Prix,R
+HAM,Mercedes,53.0,2.0,HARD,22.0,True,1,91.341,2023,Monaco Grand Prix,R
+HAM,Mercedes,56.0,3.0,INTERMEDIATE,2.0,True,21,101.277,2023,Monaco Grand Prix,R
+HAM,Mercedes,57.0,3.0,INTERMEDIATE,3.0,True,1,103.278,2023,Monaco Grand Prix,R
+HAM,Mercedes,58.0,3.0,INTERMEDIATE,4.0,True,12,103.378,2023,Monaco Grand Prix,R
+HAM,Mercedes,59.0,3.0,INTERMEDIATE,5.0,True,21,105.199,2023,Monaco Grand Prix,R
+HAM,Mercedes,60.0,3.0,INTERMEDIATE,6.0,True,12,103.041,2023,Monaco Grand Prix,R
+HAM,Mercedes,61.0,3.0,INTERMEDIATE,7.0,True,12,102.396,2023,Monaco Grand Prix,R
+HAM,Mercedes,62.0,3.0,INTERMEDIATE,8.0,True,1,102.287,2023,Monaco Grand Prix,R
+HAM,Mercedes,63.0,3.0,INTERMEDIATE,9.0,True,1,101.315,2023,Monaco Grand Prix,R
+HAM,Mercedes,64.0,3.0,INTERMEDIATE,10.0,True,1,98.957,2023,Monaco Grand Prix,R
+HAM,Mercedes,65.0,3.0,INTERMEDIATE,11.0,True,1,97.636,2023,Monaco Grand Prix,R
+HAM,Mercedes,66.0,3.0,INTERMEDIATE,12.0,True,1,96.203,2023,Monaco Grand Prix,R
+HAM,Mercedes,67.0,3.0,INTERMEDIATE,13.0,True,1,94.539,2023,Monaco Grand Prix,R
+HAM,Mercedes,68.0,3.0,INTERMEDIATE,14.0,True,1,92.866,2023,Monaco Grand Prix,R
+HAM,Mercedes,69.0,3.0,INTERMEDIATE,15.0,True,12,93.757,2023,Monaco Grand Prix,R
+HAM,Mercedes,70.0,3.0,INTERMEDIATE,16.0,True,1,89.68,2023,Monaco Grand Prix,R
+HAM,Mercedes,71.0,3.0,INTERMEDIATE,17.0,True,1,89.667,2023,Monaco Grand Prix,R
+HAM,Mercedes,72.0,3.0,INTERMEDIATE,18.0,True,1,89.415,2023,Monaco Grand Prix,R
+HAM,Mercedes,73.0,3.0,INTERMEDIATE,19.0,True,1,87.735,2023,Monaco Grand Prix,R
+HAM,Mercedes,74.0,3.0,INTERMEDIATE,20.0,True,1,86.304,2023,Monaco Grand Prix,R
+HAM,Mercedes,75.0,3.0,INTERMEDIATE,21.0,True,1,85.242,2023,Monaco Grand Prix,R
+HAM,Mercedes,76.0,3.0,INTERMEDIATE,22.0,True,1,84.651,2023,Monaco Grand Prix,R
+HAM,Mercedes,77.0,3.0,INTERMEDIATE,23.0,True,1,86.21,2023,Monaco Grand Prix,R
+HAM,Mercedes,78.0,3.0,INTERMEDIATE,24.0,True,1,85.105,2023,Monaco Grand Prix,R
+SAI,Ferrari,2.0,1.0,HARD,2.0,True,1,80.593,2023,Monaco Grand Prix,R
+SAI,Ferrari,3.0,1.0,HARD,3.0,True,1,79.958,2023,Monaco Grand Prix,R
+SAI,Ferrari,4.0,1.0,HARD,4.0,True,1,79.482,2023,Monaco Grand Prix,R
+SAI,Ferrari,5.0,1.0,HARD,5.0,True,1,78.723,2023,Monaco Grand Prix,R
+SAI,Ferrari,6.0,1.0,HARD,6.0,True,1,78.764,2023,Monaco Grand Prix,R
+SAI,Ferrari,7.0,1.0,HARD,7.0,True,1,78.697,2023,Monaco Grand Prix,R
+SAI,Ferrari,8.0,1.0,HARD,8.0,True,1,78.637,2023,Monaco Grand Prix,R
+SAI,Ferrari,9.0,1.0,HARD,9.0,True,1,78.306,2023,Monaco Grand Prix,R
+SAI,Ferrari,10.0,1.0,HARD,10.0,True,1,78.07,2023,Monaco Grand Prix,R
+SAI,Ferrari,11.0,1.0,HARD,11.0,True,1,78.265,2023,Monaco Grand Prix,R
+SAI,Ferrari,12.0,1.0,HARD,12.0,True,12,78.947,2023,Monaco Grand Prix,R
+SAI,Ferrari,13.0,1.0,HARD,13.0,True,1,78.286,2023,Monaco Grand Prix,R
+SAI,Ferrari,14.0,1.0,HARD,14.0,True,12,78.107,2023,Monaco Grand Prix,R
+SAI,Ferrari,15.0,1.0,HARD,15.0,True,1,77.883,2023,Monaco Grand Prix,R
+SAI,Ferrari,16.0,1.0,HARD,16.0,True,1,78.239,2023,Monaco Grand Prix,R
+SAI,Ferrari,17.0,1.0,HARD,17.0,True,1,78.36,2023,Monaco Grand Prix,R
+SAI,Ferrari,18.0,1.0,HARD,18.0,True,1,78.178,2023,Monaco Grand Prix,R
+SAI,Ferrari,19.0,1.0,HARD,19.0,True,1,77.999,2023,Monaco Grand Prix,R
+SAI,Ferrari,20.0,1.0,HARD,20.0,True,1,78.032,2023,Monaco Grand Prix,R
+SAI,Ferrari,21.0,1.0,HARD,21.0,True,1,78.006,2023,Monaco Grand Prix,R
+SAI,Ferrari,22.0,1.0,HARD,22.0,True,1,78.007,2023,Monaco Grand Prix,R
+SAI,Ferrari,23.0,1.0,HARD,23.0,True,1,78.006,2023,Monaco Grand Prix,R
+SAI,Ferrari,24.0,1.0,HARD,24.0,True,1,77.912,2023,Monaco Grand Prix,R
+SAI,Ferrari,25.0,1.0,HARD,25.0,True,1,77.464,2023,Monaco Grand Prix,R
+SAI,Ferrari,26.0,1.0,HARD,26.0,True,1,77.366,2023,Monaco Grand Prix,R
+SAI,Ferrari,27.0,1.0,HARD,27.0,True,1,77.318,2023,Monaco Grand Prix,R
+SAI,Ferrari,28.0,1.0,HARD,28.0,True,1,77.316,2023,Monaco Grand Prix,R
+SAI,Ferrari,29.0,1.0,HARD,29.0,True,1,77.171,2023,Monaco Grand Prix,R
+SAI,Ferrari,30.0,1.0,HARD,30.0,True,1,77.22,2023,Monaco Grand Prix,R
+SAI,Ferrari,31.0,1.0,HARD,31.0,True,1,77.465,2023,Monaco Grand Prix,R
+SAI,Ferrari,32.0,1.0,HARD,32.0,True,1,77.18,2023,Monaco Grand Prix,R
+SAI,Ferrari,35.0,2.0,MEDIUM,2.0,True,1,76.628,2023,Monaco Grand Prix,R
+SAI,Ferrari,36.0,2.0,MEDIUM,3.0,True,1,77.979,2023,Monaco Grand Prix,R
+SAI,Ferrari,37.0,2.0,MEDIUM,4.0,True,1,77.565,2023,Monaco Grand Prix,R
+SAI,Ferrari,38.0,2.0,MEDIUM,5.0,True,1,76.786,2023,Monaco Grand Prix,R
+SAI,Ferrari,39.0,2.0,MEDIUM,6.0,True,1,77.175,2023,Monaco Grand Prix,R
+SAI,Ferrari,40.0,2.0,MEDIUM,7.0,True,1,77.023,2023,Monaco Grand Prix,R
+SAI,Ferrari,41.0,2.0,MEDIUM,8.0,True,1,76.651,2023,Monaco Grand Prix,R
+SAI,Ferrari,42.0,2.0,MEDIUM,9.0,True,1,76.467,2023,Monaco Grand Prix,R
+SAI,Ferrari,43.0,2.0,MEDIUM,10.0,True,1,76.449,2023,Monaco Grand Prix,R
+SAI,Ferrari,44.0,2.0,MEDIUM,11.0,True,1,77.76,2023,Monaco Grand Prix,R
+SAI,Ferrari,45.0,2.0,MEDIUM,12.0,True,1,77.146,2023,Monaco Grand Prix,R
+SAI,Ferrari,46.0,2.0,MEDIUM,13.0,True,1,77.22,2023,Monaco Grand Prix,R
+SAI,Ferrari,47.0,2.0,MEDIUM,14.0,True,1,76.732,2023,Monaco Grand Prix,R
+SAI,Ferrari,48.0,2.0,MEDIUM,15.0,True,1,76.561,2023,Monaco Grand Prix,R
+SAI,Ferrari,49.0,2.0,MEDIUM,16.0,True,1,77.014,2023,Monaco Grand Prix,R
+SAI,Ferrari,50.0,2.0,MEDIUM,17.0,True,1,76.917,2023,Monaco Grand Prix,R
+SAI,Ferrari,51.0,2.0,MEDIUM,18.0,True,1,79.013,2023,Monaco Grand Prix,R
+SAI,Ferrari,52.0,2.0,MEDIUM,19.0,True,1,86.201,2023,Monaco Grand Prix,R
+SAI,Ferrari,53.0,2.0,MEDIUM,20.0,True,1,90.068,2023,Monaco Grand Prix,R
+SAI,Ferrari,54.0,2.0,MEDIUM,21.0,True,1,97.315,2023,Monaco Grand Prix,R
+SAI,Ferrari,57.0,3.0,INTERMEDIATE,2.0,True,1,101.192,2023,Monaco Grand Prix,R
+SAI,Ferrari,58.0,3.0,INTERMEDIATE,3.0,True,12,103.462,2023,Monaco Grand Prix,R
+SAI,Ferrari,59.0,3.0,INTERMEDIATE,4.0,True,12,102.82,2023,Monaco Grand Prix,R
+SAI,Ferrari,60.0,3.0,INTERMEDIATE,5.0,True,21,103.041,2023,Monaco Grand Prix,R
+SAI,Ferrari,61.0,3.0,INTERMEDIATE,6.0,True,12,102.633,2023,Monaco Grand Prix,R
+SAI,Ferrari,62.0,3.0,INTERMEDIATE,7.0,True,1,100.78,2023,Monaco Grand Prix,R
+SAI,Ferrari,63.0,3.0,INTERMEDIATE,8.0,True,1,99.899,2023,Monaco Grand Prix,R
+SAI,Ferrari,64.0,3.0,INTERMEDIATE,9.0,True,1,99.306,2023,Monaco Grand Prix,R
+SAI,Ferrari,65.0,3.0,INTERMEDIATE,10.0,True,1,97.838,2023,Monaco Grand Prix,R
+SAI,Ferrari,66.0,3.0,INTERMEDIATE,11.0,True,1,96.238,2023,Monaco Grand Prix,R
+SAI,Ferrari,67.0,3.0,INTERMEDIATE,12.0,True,1,94.999,2023,Monaco Grand Prix,R
+SAI,Ferrari,68.0,3.0,INTERMEDIATE,13.0,True,12,93.322,2023,Monaco Grand Prix,R
+SAI,Ferrari,69.0,3.0,INTERMEDIATE,14.0,True,21,95.394,2023,Monaco Grand Prix,R
+SAI,Ferrari,70.0,3.0,INTERMEDIATE,15.0,True,1,92.13,2023,Monaco Grand Prix,R
+SAI,Ferrari,71.0,3.0,INTERMEDIATE,16.0,True,1,89.92,2023,Monaco Grand Prix,R
+SAI,Ferrari,72.0,3.0,INTERMEDIATE,17.0,True,1,89.849,2023,Monaco Grand Prix,R
+SAI,Ferrari,73.0,3.0,INTERMEDIATE,18.0,True,1,87.84,2023,Monaco Grand Prix,R
+SAI,Ferrari,74.0,3.0,INTERMEDIATE,19.0,True,1,88.585,2023,Monaco Grand Prix,R
+SAI,Ferrari,75.0,3.0,INTERMEDIATE,20.0,True,1,86.388,2023,Monaco Grand Prix,R
+SAI,Ferrari,76.0,3.0,INTERMEDIATE,21.0,True,1,85.776,2023,Monaco Grand Prix,R
+SAI,Ferrari,77.0,3.0,INTERMEDIATE,22.0,True,1,85.579,2023,Monaco Grand Prix,R
+SAI,Ferrari,78.0,3.0,INTERMEDIATE,23.0,True,1,86.283,2023,Monaco Grand Prix,R
+RUS,Mercedes,2.0,1.0,HARD,2.0,True,1,81.155,2023,Monaco Grand Prix,R
+RUS,Mercedes,3.0,1.0,HARD,3.0,True,1,80.291,2023,Monaco Grand Prix,R
+RUS,Mercedes,4.0,1.0,HARD,4.0,True,1,80.03,2023,Monaco Grand Prix,R
+RUS,Mercedes,5.0,1.0,HARD,5.0,True,1,78.84,2023,Monaco Grand Prix,R
+RUS,Mercedes,6.0,1.0,HARD,6.0,True,1,78.945,2023,Monaco Grand Prix,R
+RUS,Mercedes,7.0,1.0,HARD,7.0,True,1,78.583,2023,Monaco Grand Prix,R
+RUS,Mercedes,8.0,1.0,HARD,8.0,True,1,78.99,2023,Monaco Grand Prix,R
+RUS,Mercedes,9.0,1.0,HARD,9.0,True,1,79.025,2023,Monaco Grand Prix,R
+RUS,Mercedes,10.0,1.0,HARD,10.0,True,1,78.566,2023,Monaco Grand Prix,R
+RUS,Mercedes,11.0,1.0,HARD,11.0,True,1,78.483,2023,Monaco Grand Prix,R
+RUS,Mercedes,12.0,1.0,HARD,12.0,True,12,78.459,2023,Monaco Grand Prix,R
+RUS,Mercedes,13.0,1.0,HARD,13.0,True,1,77.787,2023,Monaco Grand Prix,R
+RUS,Mercedes,14.0,1.0,HARD,14.0,True,12,78.286,2023,Monaco Grand Prix,R
+RUS,Mercedes,15.0,1.0,HARD,15.0,True,1,78.531,2023,Monaco Grand Prix,R
+RUS,Mercedes,16.0,1.0,HARD,16.0,True,1,78.502,2023,Monaco Grand Prix,R
+RUS,Mercedes,17.0,1.0,HARD,17.0,True,1,78.244,2023,Monaco Grand Prix,R
+RUS,Mercedes,18.0,1.0,HARD,18.0,True,1,78.229,2023,Monaco Grand Prix,R
+RUS,Mercedes,19.0,1.0,HARD,19.0,True,1,78.299,2023,Monaco Grand Prix,R
+RUS,Mercedes,20.0,1.0,HARD,20.0,True,1,78.32,2023,Monaco Grand Prix,R
+RUS,Mercedes,21.0,1.0,HARD,21.0,True,1,78.086,2023,Monaco Grand Prix,R
+RUS,Mercedes,22.0,1.0,HARD,22.0,True,1,77.879,2023,Monaco Grand Prix,R
+RUS,Mercedes,23.0,1.0,HARD,23.0,True,1,78.111,2023,Monaco Grand Prix,R
+RUS,Mercedes,24.0,1.0,HARD,24.0,True,1,77.709,2023,Monaco Grand Prix,R
+RUS,Mercedes,25.0,1.0,HARD,25.0,True,1,77.648,2023,Monaco Grand Prix,R
+RUS,Mercedes,26.0,1.0,HARD,26.0,True,1,77.9,2023,Monaco Grand Prix,R
+RUS,Mercedes,27.0,1.0,HARD,27.0,True,1,77.837,2023,Monaco Grand Prix,R
+RUS,Mercedes,28.0,1.0,HARD,28.0,True,1,77.353,2023,Monaco Grand Prix,R
+RUS,Mercedes,29.0,1.0,HARD,29.0,True,1,77.332,2023,Monaco Grand Prix,R
+RUS,Mercedes,30.0,1.0,HARD,30.0,True,1,77.3,2023,Monaco Grand Prix,R
+RUS,Mercedes,31.0,1.0,HARD,31.0,True,1,77.404,2023,Monaco Grand Prix,R
+RUS,Mercedes,32.0,1.0,HARD,32.0,True,1,77.474,2023,Monaco Grand Prix,R
+RUS,Mercedes,33.0,1.0,HARD,33.0,True,1,77.556,2023,Monaco Grand Prix,R
+RUS,Mercedes,34.0,1.0,HARD,34.0,True,1,77.569,2023,Monaco Grand Prix,R
+RUS,Mercedes,35.0,1.0,HARD,35.0,True,1,77.568,2023,Monaco Grand Prix,R
+RUS,Mercedes,36.0,1.0,HARD,36.0,True,1,77.111,2023,Monaco Grand Prix,R
+RUS,Mercedes,37.0,1.0,HARD,37.0,True,1,77.335,2023,Monaco Grand Prix,R
+RUS,Mercedes,38.0,1.0,HARD,38.0,True,1,77.195,2023,Monaco Grand Prix,R
+RUS,Mercedes,39.0,1.0,HARD,39.0,True,1,77.339,2023,Monaco Grand Prix,R
+RUS,Mercedes,40.0,1.0,HARD,40.0,True,1,77.215,2023,Monaco Grand Prix,R
+RUS,Mercedes,41.0,1.0,HARD,41.0,True,1,77.323,2023,Monaco Grand Prix,R
+RUS,Mercedes,42.0,1.0,HARD,42.0,True,1,77.979,2023,Monaco Grand Prix,R
+RUS,Mercedes,43.0,1.0,HARD,43.0,True,1,77.847,2023,Monaco Grand Prix,R
+RUS,Mercedes,44.0,1.0,HARD,44.0,True,1,77.967,2023,Monaco Grand Prix,R
+RUS,Mercedes,45.0,1.0,HARD,45.0,True,1,77.545,2023,Monaco Grand Prix,R
+RUS,Mercedes,46.0,1.0,HARD,46.0,True,1,77.068,2023,Monaco Grand Prix,R
+RUS,Mercedes,47.0,1.0,HARD,47.0,True,1,77.06,2023,Monaco Grand Prix,R
+RUS,Mercedes,48.0,1.0,HARD,48.0,True,1,76.798,2023,Monaco Grand Prix,R
+RUS,Mercedes,49.0,1.0,HARD,49.0,True,1,77.223,2023,Monaco Grand Prix,R
+RUS,Mercedes,50.0,1.0,HARD,50.0,True,1,77.635,2023,Monaco Grand Prix,R
+RUS,Mercedes,51.0,1.0,HARD,51.0,True,1,79.64,2023,Monaco Grand Prix,R
+RUS,Mercedes,52.0,1.0,HARD,52.0,True,1,84.754,2023,Monaco Grand Prix,R
+RUS,Mercedes,53.0,1.0,HARD,53.0,True,1,88.625,2023,Monaco Grand Prix,R
+RUS,Mercedes,56.0,2.0,INTERMEDIATE,2.0,True,21,101.302,2023,Monaco Grand Prix,R
+RUS,Mercedes,57.0,2.0,INTERMEDIATE,3.0,True,1,103.554,2023,Monaco Grand Prix,R
+RUS,Mercedes,58.0,2.0,INTERMEDIATE,4.0,True,12,102.155,2023,Monaco Grand Prix,R
+RUS,Mercedes,59.0,2.0,INTERMEDIATE,5.0,True,12,103.463,2023,Monaco Grand Prix,R
+RUS,Mercedes,60.0,2.0,INTERMEDIATE,6.0,True,21,103.53,2023,Monaco Grand Prix,R
+RUS,Mercedes,61.0,2.0,INTERMEDIATE,7.0,True,12,101.329,2023,Monaco Grand Prix,R
+RUS,Mercedes,62.0,2.0,INTERMEDIATE,8.0,True,1,101.104,2023,Monaco Grand Prix,R
+RUS,Mercedes,63.0,2.0,INTERMEDIATE,9.0,True,1,99.713,2023,Monaco Grand Prix,R
+RUS,Mercedes,64.0,2.0,INTERMEDIATE,10.0,True,1,98.229,2023,Monaco Grand Prix,R
+RUS,Mercedes,65.0,2.0,INTERMEDIATE,11.0,True,1,96.696,2023,Monaco Grand Prix,R
+RUS,Mercedes,66.0,2.0,INTERMEDIATE,12.0,True,1,95.991,2023,Monaco Grand Prix,R
+RUS,Mercedes,67.0,2.0,INTERMEDIATE,13.0,True,1,94.751,2023,Monaco Grand Prix,R
+RUS,Mercedes,68.0,2.0,INTERMEDIATE,14.0,True,1,93.647,2023,Monaco Grand Prix,R
+RUS,Mercedes,69.0,2.0,INTERMEDIATE,15.0,True,12,93.734,2023,Monaco Grand Prix,R
+RUS,Mercedes,70.0,2.0,INTERMEDIATE,16.0,True,1,90.929,2023,Monaco Grand Prix,R
+RUS,Mercedes,71.0,2.0,INTERMEDIATE,17.0,True,1,90.709,2023,Monaco Grand Prix,R
+RUS,Mercedes,72.0,2.0,INTERMEDIATE,18.0,True,1,90.012,2023,Monaco Grand Prix,R
+RUS,Mercedes,73.0,2.0,INTERMEDIATE,19.0,True,1,88.921,2023,Monaco Grand Prix,R
+RUS,Mercedes,74.0,2.0,INTERMEDIATE,20.0,True,1,87.787,2023,Monaco Grand Prix,R
+RUS,Mercedes,75.0,2.0,INTERMEDIATE,21.0,True,1,86.399,2023,Monaco Grand Prix,R
+RUS,Mercedes,76.0,2.0,INTERMEDIATE,22.0,True,1,85.436,2023,Monaco Grand Prix,R
+RUS,Mercedes,77.0,2.0,INTERMEDIATE,23.0,True,1,86.978,2023,Monaco Grand Prix,R
+RUS,Mercedes,78.0,2.0,INTERMEDIATE,24.0,True,1,87.209,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,2.0,1.0,HARD,2.0,True,1,80.021,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,3.0,1.0,HARD,3.0,True,1,80.142,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,4.0,1.0,HARD,4.0,True,1,80.341,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,5.0,1.0,HARD,5.0,True,1,80.022,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,6.0,1.0,HARD,6.0,True,1,79.165,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,7.0,1.0,HARD,7.0,True,1,79.167,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,8.0,1.0,HARD,8.0,True,1,78.774,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,9.0,1.0,HARD,9.0,True,1,79.007,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,10.0,1.0,HARD,10.0,True,1,79.527,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,11.0,1.0,HARD,11.0,True,12,79.38,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,12.0,1.0,HARD,12.0,True,21,80.206,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,13.0,1.0,HARD,13.0,True,1,79.511,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,14.0,1.0,HARD,14.0,True,12,80.067,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,15.0,1.0,HARD,15.0,True,1,80.912,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,16.0,1.0,HARD,16.0,True,1,80.48,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,17.0,1.0,HARD,17.0,True,1,80.577,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,18.0,1.0,HARD,18.0,True,1,78.764,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,19.0,1.0,HARD,19.0,True,1,77.824,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,20.0,1.0,HARD,20.0,True,1,78.024,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,21.0,1.0,HARD,21.0,True,1,78.024,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,22.0,1.0,HARD,22.0,True,1,78.26,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,23.0,1.0,HARD,23.0,True,1,78.737,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,24.0,1.0,HARD,24.0,True,1,80.068,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,25.0,1.0,HARD,25.0,True,1,80.203,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,26.0,1.0,HARD,26.0,True,1,80.222,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,27.0,1.0,HARD,27.0,True,1,80.162,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,28.0,1.0,HARD,28.0,True,1,79.853,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,29.0,1.0,HARD,29.0,True,1,80.208,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,30.0,1.0,HARD,30.0,True,1,79.393,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,31.0,1.0,HARD,31.0,True,1,79.021,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,32.0,1.0,HARD,32.0,True,1,79.47,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,33.0,1.0,HARD,33.0,True,1,78.655,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,34.0,1.0,HARD,34.0,True,1,80.226,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,35.0,1.0,HARD,35.0,True,1,79.889,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,36.0,1.0,HARD,36.0,True,1,79.139,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,37.0,1.0,HARD,37.0,True,1,79.112,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,38.0,1.0,HARD,38.0,True,1,80.07,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,39.0,1.0,HARD,39.0,True,1,78.876,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,40.0,1.0,HARD,40.0,True,1,78.968,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,41.0,1.0,HARD,41.0,True,1,78.706,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,42.0,1.0,HARD,42.0,True,1,78.435,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,43.0,1.0,HARD,43.0,True,1,78.685,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,44.0,1.0,HARD,44.0,True,1,78.606,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,45.0,1.0,HARD,45.0,True,1,78.202,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,46.0,1.0,HARD,46.0,True,1,78.153,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,47.0,1.0,HARD,47.0,True,1,78.343,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,48.0,1.0,HARD,48.0,True,1,78.151,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,49.0,1.0,HARD,49.0,True,1,78.383,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,50.0,1.0,HARD,50.0,True,1,79.704,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,53.0,2.0,INTERMEDIATE,2.0,True,1,92.72,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,54.0,2.0,INTERMEDIATE,3.0,True,12,98.747,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,55.0,2.0,INTERMEDIATE,4.0,True,21,103.627,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,56.0,2.0,INTERMEDIATE,5.0,True,1,100.028,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,57.0,2.0,INTERMEDIATE,6.0,True,12,100.402,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,58.0,2.0,INTERMEDIATE,7.0,True,12,102.952,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,59.0,2.0,INTERMEDIATE,8.0,True,12,102.622,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,60.0,2.0,INTERMEDIATE,9.0,True,12,101.926,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,61.0,2.0,INTERMEDIATE,10.0,True,1,100.096,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,62.0,2.0,INTERMEDIATE,11.0,True,1,99.577,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,63.0,2.0,INTERMEDIATE,12.0,True,1,99.237,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,64.0,2.0,INTERMEDIATE,13.0,True,1,97.459,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,65.0,2.0,INTERMEDIATE,14.0,True,1,96.44,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,66.0,2.0,INTERMEDIATE,15.0,True,1,95.048,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,67.0,2.0,INTERMEDIATE,16.0,True,1,95.077,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,68.0,2.0,INTERMEDIATE,17.0,True,12,94.038,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,69.0,2.0,INTERMEDIATE,18.0,True,1,90.766,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,70.0,2.0,INTERMEDIATE,19.0,True,1,92.495,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,71.0,2.0,INTERMEDIATE,20.0,True,1,91.967,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,72.0,2.0,INTERMEDIATE,21.0,True,1,92.025,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,73.0,2.0,INTERMEDIATE,22.0,True,1,87.23,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,74.0,2.0,INTERMEDIATE,23.0,True,1,86.646,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,75.0,2.0,INTERMEDIATE,24.0,True,1,86.553,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,76.0,2.0,INTERMEDIATE,25.0,True,1,84.637,2023,Monaco Grand Prix,R
+BOT,Alfa Romeo,77.0,2.0,INTERMEDIATE,26.0,True,1,84.139,2023,Monaco Grand Prix,R
+PIA,McLaren,2.0,1.0,HARD,2.0,True,1,81.804,2023,Monaco Grand Prix,R
+PIA,McLaren,3.0,1.0,HARD,3.0,True,1,80.532,2023,Monaco Grand Prix,R
+PIA,McLaren,4.0,1.0,HARD,4.0,True,1,80.408,2023,Monaco Grand Prix,R
+PIA,McLaren,5.0,1.0,HARD,5.0,True,1,79.707,2023,Monaco Grand Prix,R
+PIA,McLaren,6.0,1.0,HARD,6.0,True,1,79.247,2023,Monaco Grand Prix,R
+PIA,McLaren,7.0,1.0,HARD,7.0,True,1,78.869,2023,Monaco Grand Prix,R
+PIA,McLaren,8.0,1.0,HARD,8.0,True,1,78.828,2023,Monaco Grand Prix,R
+PIA,McLaren,9.0,1.0,HARD,9.0,True,1,79.346,2023,Monaco Grand Prix,R
+PIA,McLaren,10.0,1.0,HARD,10.0,True,1,79.015,2023,Monaco Grand Prix,R
+PIA,McLaren,11.0,1.0,HARD,11.0,True,1,78.9,2023,Monaco Grand Prix,R
+PIA,McLaren,12.0,1.0,HARD,12.0,True,12,80.302,2023,Monaco Grand Prix,R
+PIA,McLaren,13.0,1.0,HARD,13.0,True,1,79.265,2023,Monaco Grand Prix,R
+PIA,McLaren,14.0,1.0,HARD,14.0,True,12,79.285,2023,Monaco Grand Prix,R
+PIA,McLaren,15.0,1.0,HARD,15.0,True,1,79.134,2023,Monaco Grand Prix,R
+PIA,McLaren,16.0,1.0,HARD,16.0,True,1,78.718,2023,Monaco Grand Prix,R
+PIA,McLaren,17.0,1.0,HARD,17.0,True,1,79.053,2023,Monaco Grand Prix,R
+PIA,McLaren,18.0,1.0,HARD,18.0,True,1,78.765,2023,Monaco Grand Prix,R
+PIA,McLaren,19.0,1.0,HARD,19.0,True,1,79.416,2023,Monaco Grand Prix,R
+PIA,McLaren,20.0,1.0,HARD,20.0,True,1,79.281,2023,Monaco Grand Prix,R
+PIA,McLaren,21.0,1.0,HARD,21.0,True,1,79.065,2023,Monaco Grand Prix,R
+PIA,McLaren,22.0,1.0,HARD,22.0,True,1,79.025,2023,Monaco Grand Prix,R
+PIA,McLaren,23.0,1.0,HARD,23.0,True,1,79.52,2023,Monaco Grand Prix,R
+PIA,McLaren,24.0,1.0,HARD,24.0,True,1,79.359,2023,Monaco Grand Prix,R
+PIA,McLaren,25.0,1.0,HARD,25.0,True,1,79.382,2023,Monaco Grand Prix,R
+PIA,McLaren,26.0,1.0,HARD,26.0,True,1,80.198,2023,Monaco Grand Prix,R
+PIA,McLaren,27.0,1.0,HARD,27.0,True,1,79.524,2023,Monaco Grand Prix,R
+PIA,McLaren,28.0,1.0,HARD,28.0,True,1,78.485,2023,Monaco Grand Prix,R
+PIA,McLaren,29.0,1.0,HARD,29.0,True,1,78.335,2023,Monaco Grand Prix,R
+PIA,McLaren,30.0,1.0,HARD,30.0,True,1,78.363,2023,Monaco Grand Prix,R
+PIA,McLaren,31.0,1.0,HARD,31.0,True,1,78.115,2023,Monaco Grand Prix,R
+PIA,McLaren,32.0,1.0,HARD,32.0,True,1,78.39,2023,Monaco Grand Prix,R
+PIA,McLaren,33.0,1.0,HARD,33.0,True,1,78.259,2023,Monaco Grand Prix,R
+PIA,McLaren,34.0,1.0,HARD,34.0,True,1,78.311,2023,Monaco Grand Prix,R
+PIA,McLaren,35.0,1.0,HARD,35.0,True,1,78.328,2023,Monaco Grand Prix,R
+PIA,McLaren,36.0,1.0,HARD,36.0,True,1,77.701,2023,Monaco Grand Prix,R
+PIA,McLaren,37.0,1.0,HARD,37.0,True,1,77.842,2023,Monaco Grand Prix,R
+PIA,McLaren,38.0,1.0,HARD,38.0,True,1,77.73,2023,Monaco Grand Prix,R
+PIA,McLaren,39.0,1.0,HARD,39.0,True,1,77.873,2023,Monaco Grand Prix,R
+PIA,McLaren,40.0,1.0,HARD,40.0,True,1,78.184,2023,Monaco Grand Prix,R
+PIA,McLaren,41.0,1.0,HARD,41.0,True,1,78.555,2023,Monaco Grand Prix,R
+PIA,McLaren,42.0,1.0,HARD,42.0,True,1,78.065,2023,Monaco Grand Prix,R
+PIA,McLaren,43.0,1.0,HARD,43.0,True,1,78.148,2023,Monaco Grand Prix,R
+PIA,McLaren,44.0,1.0,HARD,44.0,True,1,78.041,2023,Monaco Grand Prix,R
+PIA,McLaren,45.0,1.0,HARD,45.0,True,1,77.846,2023,Monaco Grand Prix,R
+PIA,McLaren,46.0,1.0,HARD,46.0,True,1,77.516,2023,Monaco Grand Prix,R
+PIA,McLaren,47.0,1.0,HARD,47.0,True,1,77.513,2023,Monaco Grand Prix,R
+PIA,McLaren,48.0,1.0,HARD,48.0,True,1,78.001,2023,Monaco Grand Prix,R
+PIA,McLaren,49.0,1.0,HARD,49.0,True,1,81.248,2023,Monaco Grand Prix,R
+PIA,McLaren,50.0,1.0,HARD,50.0,True,1,78.201,2023,Monaco Grand Prix,R
+PIA,McLaren,51.0,1.0,HARD,51.0,True,1,83.586,2023,Monaco Grand Prix,R
+PIA,McLaren,52.0,1.0,HARD,52.0,True,1,89.897,2023,Monaco Grand Prix,R
+PIA,McLaren,53.0,1.0,HARD,53.0,True,1,96.843,2023,Monaco Grand Prix,R
+PIA,McLaren,56.0,2.0,INTERMEDIATE,2.0,True,1,103.482,2023,Monaco Grand Prix,R
+PIA,McLaren,57.0,2.0,INTERMEDIATE,3.0,True,12,103.431,2023,Monaco Grand Prix,R
+PIA,McLaren,58.0,2.0,INTERMEDIATE,4.0,True,12,103.803,2023,Monaco Grand Prix,R
+PIA,McLaren,59.0,2.0,INTERMEDIATE,5.0,True,12,102.379,2023,Monaco Grand Prix,R
+PIA,McLaren,60.0,2.0,INTERMEDIATE,6.0,True,12,101.431,2023,Monaco Grand Prix,R
+PIA,McLaren,61.0,2.0,INTERMEDIATE,7.0,True,1,101.089,2023,Monaco Grand Prix,R
+PIA,McLaren,62.0,2.0,INTERMEDIATE,8.0,True,1,99.78,2023,Monaco Grand Prix,R
+PIA,McLaren,63.0,2.0,INTERMEDIATE,9.0,True,1,98.882,2023,Monaco Grand Prix,R
+PIA,McLaren,64.0,2.0,INTERMEDIATE,10.0,True,1,98.53,2023,Monaco Grand Prix,R
+PIA,McLaren,65.0,2.0,INTERMEDIATE,11.0,True,1,97.419,2023,Monaco Grand Prix,R
+PIA,McLaren,66.0,2.0,INTERMEDIATE,12.0,True,1,94.942,2023,Monaco Grand Prix,R
+PIA,McLaren,67.0,2.0,INTERMEDIATE,13.0,True,1,96.653,2023,Monaco Grand Prix,R
+PIA,McLaren,68.0,2.0,INTERMEDIATE,14.0,True,12,91.909,2023,Monaco Grand Prix,R
+PIA,McLaren,69.0,2.0,INTERMEDIATE,15.0,True,1,91.253,2023,Monaco Grand Prix,R
+PIA,McLaren,70.0,2.0,INTERMEDIATE,16.0,True,1,88.82,2023,Monaco Grand Prix,R
+PIA,McLaren,71.0,2.0,INTERMEDIATE,17.0,True,1,87.67,2023,Monaco Grand Prix,R
+PIA,McLaren,72.0,2.0,INTERMEDIATE,18.0,True,1,88.016,2023,Monaco Grand Prix,R
+PIA,McLaren,73.0,2.0,INTERMEDIATE,19.0,True,1,87.443,2023,Monaco Grand Prix,R
+PIA,McLaren,74.0,2.0,INTERMEDIATE,20.0,True,1,86.185,2023,Monaco Grand Prix,R
+PIA,McLaren,75.0,2.0,INTERMEDIATE,21.0,True,1,86.143,2023,Monaco Grand Prix,R
+PIA,McLaren,76.0,2.0,INTERMEDIATE,22.0,True,1,85.615,2023,Monaco Grand Prix,R
+PIA,McLaren,77.0,2.0,INTERMEDIATE,23.0,True,1,84.785,2023,Monaco Grand Prix,R

@@ -1,0 +1,770 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,LapTime_s,Year,GrandPrix,SessionType
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,83.391,2023,Australian Grand Prix,R
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,83.104,2023,Australian Grand Prix,R
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,82.843,2023,Australian Grand Prix,R
+VER,Red Bull Racing,10.0,2.0,HARD,2.0,True,1,87.827,2023,Australian Grand Prix,R
+VER,Red Bull Racing,11.0,2.0,HARD,3.0,True,1,83.46,2023,Australian Grand Prix,R
+VER,Red Bull Racing,12.0,2.0,HARD,4.0,True,1,81.994,2023,Australian Grand Prix,R
+VER,Red Bull Racing,13.0,2.0,HARD,5.0,True,1,83.286,2023,Australian Grand Prix,R
+VER,Red Bull Racing,14.0,2.0,HARD,6.0,True,1,82.869,2023,Australian Grand Prix,R
+VER,Red Bull Racing,15.0,2.0,HARD,7.0,True,1,82.817,2023,Australian Grand Prix,R
+VER,Red Bull Racing,16.0,2.0,HARD,8.0,True,1,82.599,2023,Australian Grand Prix,R
+VER,Red Bull Racing,17.0,2.0,HARD,9.0,True,1,82.595,2023,Australian Grand Prix,R
+VER,Red Bull Racing,20.0,2.0,HARD,12.0,True,1,82.389,2023,Australian Grand Prix,R
+VER,Red Bull Racing,21.0,2.0,HARD,13.0,True,1,82.11,2023,Australian Grand Prix,R
+VER,Red Bull Racing,22.0,2.0,HARD,14.0,True,1,82.269,2023,Australian Grand Prix,R
+VER,Red Bull Racing,23.0,2.0,HARD,15.0,True,1,82.193,2023,Australian Grand Prix,R
+VER,Red Bull Racing,24.0,2.0,HARD,16.0,True,1,81.843,2023,Australian Grand Prix,R
+VER,Red Bull Racing,25.0,2.0,HARD,17.0,True,1,82.104,2023,Australian Grand Prix,R
+VER,Red Bull Racing,26.0,2.0,HARD,18.0,True,1,81.972,2023,Australian Grand Prix,R
+VER,Red Bull Racing,27.0,2.0,HARD,19.0,True,1,81.924,2023,Australian Grand Prix,R
+VER,Red Bull Racing,28.0,2.0,HARD,20.0,True,1,81.926,2023,Australian Grand Prix,R
+VER,Red Bull Racing,29.0,2.0,HARD,21.0,True,1,81.772,2023,Australian Grand Prix,R
+VER,Red Bull Racing,30.0,2.0,HARD,22.0,True,1,82.002,2023,Australian Grand Prix,R
+VER,Red Bull Racing,31.0,2.0,HARD,23.0,True,1,82.024,2023,Australian Grand Prix,R
+VER,Red Bull Racing,32.0,2.0,HARD,24.0,True,1,82.012,2023,Australian Grand Prix,R
+VER,Red Bull Racing,33.0,2.0,HARD,25.0,True,1,81.819,2023,Australian Grand Prix,R
+VER,Red Bull Racing,34.0,2.0,HARD,26.0,True,1,81.894,2023,Australian Grand Prix,R
+VER,Red Bull Racing,35.0,2.0,HARD,27.0,True,1,81.681,2023,Australian Grand Prix,R
+VER,Red Bull Racing,36.0,2.0,HARD,28.0,True,1,81.732,2023,Australian Grand Prix,R
+VER,Red Bull Racing,37.0,2.0,HARD,29.0,True,1,81.403,2023,Australian Grand Prix,R
+VER,Red Bull Racing,38.0,2.0,HARD,30.0,True,1,81.319,2023,Australian Grand Prix,R
+VER,Red Bull Racing,39.0,2.0,HARD,31.0,True,1,81.578,2023,Australian Grand Prix,R
+VER,Red Bull Racing,40.0,2.0,HARD,32.0,True,1,81.078,2023,Australian Grand Prix,R
+VER,Red Bull Racing,41.0,2.0,HARD,33.0,True,1,80.986,2023,Australian Grand Prix,R
+VER,Red Bull Racing,42.0,2.0,HARD,34.0,True,1,81.148,2023,Australian Grand Prix,R
+VER,Red Bull Racing,43.0,2.0,HARD,35.0,True,1,81.166,2023,Australian Grand Prix,R
+VER,Red Bull Racing,44.0,2.0,HARD,36.0,True,1,81.089,2023,Australian Grand Prix,R
+VER,Red Bull Racing,45.0,2.0,HARD,37.0,True,1,80.807,2023,Australian Grand Prix,R
+VER,Red Bull Racing,46.0,2.0,HARD,38.0,True,1,80.703,2023,Australian Grand Prix,R
+VER,Red Bull Racing,47.0,2.0,HARD,39.0,True,1,84.107,2023,Australian Grand Prix,R
+VER,Red Bull Racing,48.0,2.0,HARD,40.0,True,1,81.073,2023,Australian Grand Prix,R
+VER,Red Bull Racing,49.0,2.0,HARD,41.0,True,1,80.342,2023,Australian Grand Prix,R
+VER,Red Bull Racing,50.0,2.0,HARD,42.0,True,1,80.471,2023,Australian Grand Prix,R
+VER,Red Bull Racing,51.0,2.0,HARD,43.0,True,1,80.632,2023,Australian Grand Prix,R
+VER,Red Bull Racing,52.0,2.0,HARD,44.0,True,1,80.738,2023,Australian Grand Prix,R
+VER,Red Bull Racing,53.0,2.0,HARD,45.0,True,12,80.671,2023,Australian Grand Prix,R
+GAS,Alpine,4.0,1.0,SOFT,4.0,True,1,84.671,2023,Australian Grand Prix,R
+GAS,Alpine,5.0,1.0,SOFT,5.0,True,1,84.29,2023,Australian Grand Prix,R
+GAS,Alpine,6.0,1.0,SOFT,6.0,True,1,83.529,2023,Australian Grand Prix,R
+GAS,Alpine,10.0,2.0,HARD,2.0,True,1,89.037,2023,Australian Grand Prix,R
+GAS,Alpine,11.0,2.0,HARD,3.0,True,1,84.459,2023,Australian Grand Prix,R
+GAS,Alpine,12.0,2.0,HARD,4.0,True,1,83.647,2023,Australian Grand Prix,R
+GAS,Alpine,13.0,2.0,HARD,5.0,True,1,84.568,2023,Australian Grand Prix,R
+GAS,Alpine,14.0,2.0,HARD,6.0,True,1,83.268,2023,Australian Grand Prix,R
+GAS,Alpine,15.0,2.0,HARD,7.0,True,1,83.078,2023,Australian Grand Prix,R
+GAS,Alpine,16.0,2.0,HARD,8.0,True,1,82.777,2023,Australian Grand Prix,R
+GAS,Alpine,17.0,2.0,HARD,9.0,True,1,83.243,2023,Australian Grand Prix,R
+GAS,Alpine,20.0,2.0,HARD,12.0,True,1,82.599,2023,Australian Grand Prix,R
+GAS,Alpine,21.0,2.0,HARD,13.0,True,1,82.45,2023,Australian Grand Prix,R
+GAS,Alpine,22.0,2.0,HARD,14.0,True,1,82.85,2023,Australian Grand Prix,R
+GAS,Alpine,23.0,2.0,HARD,15.0,True,1,82.531,2023,Australian Grand Prix,R
+GAS,Alpine,24.0,2.0,HARD,16.0,True,1,82.498,2023,Australian Grand Prix,R
+GAS,Alpine,25.0,2.0,HARD,17.0,True,1,84.245,2023,Australian Grand Prix,R
+GAS,Alpine,26.0,2.0,HARD,18.0,True,1,82.313,2023,Australian Grand Prix,R
+GAS,Alpine,27.0,2.0,HARD,19.0,True,1,82.115,2023,Australian Grand Prix,R
+GAS,Alpine,28.0,2.0,HARD,20.0,True,1,82.026,2023,Australian Grand Prix,R
+GAS,Alpine,29.0,2.0,HARD,21.0,True,1,82.237,2023,Australian Grand Prix,R
+GAS,Alpine,30.0,2.0,HARD,22.0,True,1,82.188,2023,Australian Grand Prix,R
+GAS,Alpine,31.0,2.0,HARD,23.0,True,1,81.964,2023,Australian Grand Prix,R
+GAS,Alpine,32.0,2.0,HARD,24.0,True,1,81.947,2023,Australian Grand Prix,R
+GAS,Alpine,33.0,2.0,HARD,25.0,True,1,81.806,2023,Australian Grand Prix,R
+GAS,Alpine,34.0,2.0,HARD,26.0,True,1,81.776,2023,Australian Grand Prix,R
+GAS,Alpine,35.0,2.0,HARD,27.0,True,1,81.842,2023,Australian Grand Prix,R
+GAS,Alpine,36.0,2.0,HARD,28.0,True,1,81.684,2023,Australian Grand Prix,R
+GAS,Alpine,37.0,2.0,HARD,29.0,True,1,81.748,2023,Australian Grand Prix,R
+GAS,Alpine,38.0,2.0,HARD,30.0,True,1,81.425,2023,Australian Grand Prix,R
+GAS,Alpine,39.0,2.0,HARD,31.0,True,1,81.823,2023,Australian Grand Prix,R
+GAS,Alpine,40.0,2.0,HARD,32.0,True,1,81.801,2023,Australian Grand Prix,R
+GAS,Alpine,41.0,2.0,HARD,33.0,True,1,81.586,2023,Australian Grand Prix,R
+GAS,Alpine,42.0,2.0,HARD,34.0,True,1,81.422,2023,Australian Grand Prix,R
+GAS,Alpine,43.0,2.0,HARD,35.0,True,1,81.103,2023,Australian Grand Prix,R
+GAS,Alpine,44.0,2.0,HARD,36.0,True,1,81.177,2023,Australian Grand Prix,R
+GAS,Alpine,45.0,2.0,HARD,37.0,True,1,81.455,2023,Australian Grand Prix,R
+GAS,Alpine,46.0,2.0,HARD,38.0,True,1,81.24,2023,Australian Grand Prix,R
+GAS,Alpine,47.0,2.0,HARD,39.0,True,1,80.995,2023,Australian Grand Prix,R
+GAS,Alpine,48.0,2.0,HARD,40.0,True,1,81.242,2023,Australian Grand Prix,R
+GAS,Alpine,49.0,2.0,HARD,41.0,True,1,81.152,2023,Australian Grand Prix,R
+GAS,Alpine,50.0,2.0,HARD,42.0,True,1,81.604,2023,Australian Grand Prix,R
+GAS,Alpine,51.0,2.0,HARD,43.0,True,1,81.616,2023,Australian Grand Prix,R
+GAS,Alpine,52.0,2.0,HARD,44.0,True,1,81.62,2023,Australian Grand Prix,R
+GAS,Alpine,53.0,2.0,HARD,45.0,True,12,81.098,2023,Australian Grand Prix,R
+PER,Red Bull Racing,4.0,3.0,HARD,2.0,True,1,85.108,2023,Australian Grand Prix,R
+PER,Red Bull Racing,5.0,3.0,HARD,3.0,True,1,84.501,2023,Australian Grand Prix,R
+PER,Red Bull Racing,6.0,3.0,HARD,4.0,True,1,83.584,2023,Australian Grand Prix,R
+PER,Red Bull Racing,10.0,4.0,HARD,3.0,False,1,93.436,2023,Australian Grand Prix,R
+PER,Red Bull Racing,11.0,4.0,HARD,4.0,False,1,86.003,2023,Australian Grand Prix,R
+PER,Red Bull Racing,12.0,4.0,HARD,5.0,False,1,83.982,2023,Australian Grand Prix,R
+PER,Red Bull Racing,13.0,4.0,HARD,6.0,False,1,83.052,2023,Australian Grand Prix,R
+PER,Red Bull Racing,14.0,4.0,HARD,7.0,False,1,83.33,2023,Australian Grand Prix,R
+PER,Red Bull Racing,15.0,4.0,HARD,8.0,False,1,84.167,2023,Australian Grand Prix,R
+PER,Red Bull Racing,16.0,4.0,HARD,9.0,False,1,84.299,2023,Australian Grand Prix,R
+PER,Red Bull Racing,17.0,4.0,HARD,10.0,False,1,82.345,2023,Australian Grand Prix,R
+PER,Red Bull Racing,20.0,4.0,HARD,13.0,False,1,82.757,2023,Australian Grand Prix,R
+PER,Red Bull Racing,21.0,4.0,HARD,14.0,False,1,83.537,2023,Australian Grand Prix,R
+PER,Red Bull Racing,22.0,4.0,HARD,15.0,False,1,82.737,2023,Australian Grand Prix,R
+PER,Red Bull Racing,23.0,4.0,HARD,16.0,False,1,82.186,2023,Australian Grand Prix,R
+PER,Red Bull Racing,24.0,4.0,HARD,17.0,False,1,82.678,2023,Australian Grand Prix,R
+PER,Red Bull Racing,25.0,4.0,HARD,18.0,False,1,82.064,2023,Australian Grand Prix,R
+PER,Red Bull Racing,26.0,4.0,HARD,19.0,False,1,82.224,2023,Australian Grand Prix,R
+PER,Red Bull Racing,27.0,4.0,HARD,20.0,False,1,82.07,2023,Australian Grand Prix,R
+PER,Red Bull Racing,28.0,4.0,HARD,21.0,False,1,82.244,2023,Australian Grand Prix,R
+PER,Red Bull Racing,29.0,4.0,HARD,22.0,False,1,81.908,2023,Australian Grand Prix,R
+PER,Red Bull Racing,30.0,4.0,HARD,23.0,False,1,81.918,2023,Australian Grand Prix,R
+PER,Red Bull Racing,31.0,4.0,HARD,24.0,False,1,81.812,2023,Australian Grand Prix,R
+PER,Red Bull Racing,32.0,4.0,HARD,25.0,False,1,81.456,2023,Australian Grand Prix,R
+PER,Red Bull Racing,33.0,4.0,HARD,26.0,False,1,81.807,2023,Australian Grand Prix,R
+PER,Red Bull Racing,34.0,4.0,HARD,27.0,False,1,81.907,2023,Australian Grand Prix,R
+PER,Red Bull Racing,35.0,4.0,HARD,28.0,False,1,82.236,2023,Australian Grand Prix,R
+PER,Red Bull Racing,36.0,4.0,HARD,29.0,False,1,82.059,2023,Australian Grand Prix,R
+PER,Red Bull Racing,37.0,4.0,HARD,30.0,False,1,81.814,2023,Australian Grand Prix,R
+PER,Red Bull Racing,38.0,4.0,HARD,31.0,False,1,81.701,2023,Australian Grand Prix,R
+PER,Red Bull Racing,39.0,4.0,HARD,32.0,False,1,81.718,2023,Australian Grand Prix,R
+PER,Red Bull Racing,40.0,4.0,HARD,33.0,False,1,81.602,2023,Australian Grand Prix,R
+PER,Red Bull Racing,41.0,4.0,HARD,34.0,False,1,81.744,2023,Australian Grand Prix,R
+PER,Red Bull Racing,42.0,4.0,HARD,35.0,False,1,80.979,2023,Australian Grand Prix,R
+PER,Red Bull Racing,43.0,4.0,HARD,36.0,False,1,80.697,2023,Australian Grand Prix,R
+PER,Red Bull Racing,44.0,4.0,HARD,37.0,False,1,81.232,2023,Australian Grand Prix,R
+PER,Red Bull Racing,45.0,4.0,HARD,38.0,False,1,81.147,2023,Australian Grand Prix,R
+PER,Red Bull Racing,46.0,4.0,HARD,39.0,False,1,81.004,2023,Australian Grand Prix,R
+PER,Red Bull Racing,47.0,4.0,HARD,40.0,False,1,80.643,2023,Australian Grand Prix,R
+PER,Red Bull Racing,48.0,4.0,HARD,41.0,False,1,80.732,2023,Australian Grand Prix,R
+PER,Red Bull Racing,49.0,4.0,HARD,42.0,False,1,80.747,2023,Australian Grand Prix,R
+PER,Red Bull Racing,50.0,4.0,HARD,43.0,False,1,81.019,2023,Australian Grand Prix,R
+PER,Red Bull Racing,51.0,4.0,HARD,44.0,False,1,81.31,2023,Australian Grand Prix,R
+PER,Red Bull Racing,52.0,4.0,HARD,45.0,False,1,80.855,2023,Australian Grand Prix,R
+PER,Red Bull Racing,53.0,4.0,HARD,46.0,False,12,80.235,2023,Australian Grand Prix,R
+ALO,Aston Martin,4.0,1.0,MEDIUM,5.0,False,1,84.293,2023,Australian Grand Prix,R
+ALO,Aston Martin,5.0,1.0,MEDIUM,6.0,False,1,83.29,2023,Australian Grand Prix,R
+ALO,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,82.603,2023,Australian Grand Prix,R
+ALO,Aston Martin,10.0,2.0,HARD,2.0,True,1,88.668,2023,Australian Grand Prix,R
+ALO,Aston Martin,11.0,2.0,HARD,3.0,True,1,84.644,2023,Australian Grand Prix,R
+ALO,Aston Martin,12.0,2.0,HARD,4.0,True,1,83.321,2023,Australian Grand Prix,R
+ALO,Aston Martin,13.0,2.0,HARD,5.0,True,1,83.634,2023,Australian Grand Prix,R
+ALO,Aston Martin,14.0,2.0,HARD,6.0,True,1,83.424,2023,Australian Grand Prix,R
+ALO,Aston Martin,15.0,2.0,HARD,7.0,True,1,83.008,2023,Australian Grand Prix,R
+ALO,Aston Martin,16.0,2.0,HARD,8.0,True,1,82.26,2023,Australian Grand Prix,R
+ALO,Aston Martin,17.0,2.0,HARD,9.0,True,1,82.261,2023,Australian Grand Prix,R
+ALO,Aston Martin,20.0,2.0,HARD,12.0,True,1,82.913,2023,Australian Grand Prix,R
+ALO,Aston Martin,21.0,2.0,HARD,13.0,True,1,82.921,2023,Australian Grand Prix,R
+ALO,Aston Martin,22.0,2.0,HARD,14.0,True,1,83.054,2023,Australian Grand Prix,R
+ALO,Aston Martin,23.0,2.0,HARD,15.0,True,1,83.087,2023,Australian Grand Prix,R
+ALO,Aston Martin,24.0,2.0,HARD,16.0,True,1,82.885,2023,Australian Grand Prix,R
+ALO,Aston Martin,25.0,2.0,HARD,17.0,True,1,82.934,2023,Australian Grand Prix,R
+ALO,Aston Martin,26.0,2.0,HARD,18.0,True,1,82.325,2023,Australian Grand Prix,R
+ALO,Aston Martin,27.0,2.0,HARD,19.0,True,1,82.354,2023,Australian Grand Prix,R
+ALO,Aston Martin,28.0,2.0,HARD,20.0,True,1,81.901,2023,Australian Grand Prix,R
+ALO,Aston Martin,29.0,2.0,HARD,21.0,True,1,82.029,2023,Australian Grand Prix,R
+ALO,Aston Martin,30.0,2.0,HARD,22.0,True,1,81.932,2023,Australian Grand Prix,R
+ALO,Aston Martin,31.0,2.0,HARD,23.0,True,1,82.456,2023,Australian Grand Prix,R
+ALO,Aston Martin,32.0,2.0,HARD,24.0,True,1,82.098,2023,Australian Grand Prix,R
+ALO,Aston Martin,33.0,2.0,HARD,25.0,True,1,81.991,2023,Australian Grand Prix,R
+ALO,Aston Martin,34.0,2.0,HARD,26.0,True,1,82.021,2023,Australian Grand Prix,R
+ALO,Aston Martin,35.0,2.0,HARD,27.0,True,1,81.728,2023,Australian Grand Prix,R
+ALO,Aston Martin,36.0,2.0,HARD,28.0,True,1,81.687,2023,Australian Grand Prix,R
+ALO,Aston Martin,37.0,2.0,HARD,29.0,True,1,81.573,2023,Australian Grand Prix,R
+ALO,Aston Martin,38.0,2.0,HARD,30.0,True,1,81.716,2023,Australian Grand Prix,R
+ALO,Aston Martin,39.0,2.0,HARD,31.0,True,1,81.654,2023,Australian Grand Prix,R
+ALO,Aston Martin,40.0,2.0,HARD,32.0,True,1,81.694,2023,Australian Grand Prix,R
+ALO,Aston Martin,41.0,2.0,HARD,33.0,True,1,81.37,2023,Australian Grand Prix,R
+ALO,Aston Martin,42.0,2.0,HARD,34.0,True,1,81.284,2023,Australian Grand Prix,R
+ALO,Aston Martin,43.0,2.0,HARD,35.0,True,1,81.206,2023,Australian Grand Prix,R
+ALO,Aston Martin,44.0,2.0,HARD,36.0,True,1,80.959,2023,Australian Grand Prix,R
+ALO,Aston Martin,45.0,2.0,HARD,37.0,True,1,81.063,2023,Australian Grand Prix,R
+ALO,Aston Martin,46.0,2.0,HARD,38.0,True,1,80.69,2023,Australian Grand Prix,R
+ALO,Aston Martin,47.0,2.0,HARD,39.0,True,1,81.031,2023,Australian Grand Prix,R
+ALO,Aston Martin,48.0,2.0,HARD,40.0,True,1,81.118,2023,Australian Grand Prix,R
+ALO,Aston Martin,49.0,2.0,HARD,41.0,True,1,80.734,2023,Australian Grand Prix,R
+ALO,Aston Martin,50.0,2.0,HARD,42.0,True,1,80.723,2023,Australian Grand Prix,R
+ALO,Aston Martin,51.0,2.0,HARD,43.0,True,1,80.904,2023,Australian Grand Prix,R
+ALO,Aston Martin,52.0,2.0,HARD,44.0,True,1,80.516,2023,Australian Grand Prix,R
+ALO,Aston Martin,53.0,2.0,HARD,45.0,True,12,80.476,2023,Australian Grand Prix,R
+STR,Aston Martin,4.0,1.0,MEDIUM,5.0,False,1,84.385,2023,Australian Grand Prix,R
+STR,Aston Martin,5.0,1.0,MEDIUM,6.0,False,1,83.937,2023,Australian Grand Prix,R
+STR,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,83.076,2023,Australian Grand Prix,R
+STR,Aston Martin,10.0,2.0,HARD,2.0,True,1,90.499,2023,Australian Grand Prix,R
+STR,Aston Martin,11.0,2.0,HARD,3.0,True,1,84.738,2023,Australian Grand Prix,R
+STR,Aston Martin,12.0,2.0,HARD,4.0,True,1,83.277,2023,Australian Grand Prix,R
+STR,Aston Martin,13.0,2.0,HARD,5.0,True,1,83.802,2023,Australian Grand Prix,R
+STR,Aston Martin,14.0,2.0,HARD,6.0,True,1,83.271,2023,Australian Grand Prix,R
+STR,Aston Martin,15.0,2.0,HARD,7.0,True,1,83.647,2023,Australian Grand Prix,R
+STR,Aston Martin,16.0,2.0,HARD,8.0,True,1,83.077,2023,Australian Grand Prix,R
+STR,Aston Martin,17.0,2.0,HARD,9.0,True,1,83.317,2023,Australian Grand Prix,R
+STR,Aston Martin,20.0,2.0,HARD,12.0,True,1,82.155,2023,Australian Grand Prix,R
+STR,Aston Martin,21.0,2.0,HARD,13.0,True,1,82.187,2023,Australian Grand Prix,R
+STR,Aston Martin,22.0,2.0,HARD,14.0,True,1,82.731,2023,Australian Grand Prix,R
+STR,Aston Martin,23.0,2.0,HARD,15.0,True,1,82.699,2023,Australian Grand Prix,R
+STR,Aston Martin,24.0,2.0,HARD,16.0,True,1,82.543,2023,Australian Grand Prix,R
+STR,Aston Martin,25.0,2.0,HARD,17.0,True,1,83.371,2023,Australian Grand Prix,R
+STR,Aston Martin,26.0,2.0,HARD,18.0,True,1,82.502,2023,Australian Grand Prix,R
+STR,Aston Martin,27.0,2.0,HARD,19.0,True,1,82.104,2023,Australian Grand Prix,R
+STR,Aston Martin,28.0,2.0,HARD,20.0,True,1,82.187,2023,Australian Grand Prix,R
+STR,Aston Martin,29.0,2.0,HARD,21.0,True,1,82.005,2023,Australian Grand Prix,R
+STR,Aston Martin,30.0,2.0,HARD,22.0,True,1,82.187,2023,Australian Grand Prix,R
+STR,Aston Martin,31.0,2.0,HARD,23.0,True,1,82.069,2023,Australian Grand Prix,R
+STR,Aston Martin,32.0,2.0,HARD,24.0,True,1,82.174,2023,Australian Grand Prix,R
+STR,Aston Martin,33.0,2.0,HARD,25.0,True,1,81.976,2023,Australian Grand Prix,R
+STR,Aston Martin,34.0,2.0,HARD,26.0,True,1,82.231,2023,Australian Grand Prix,R
+STR,Aston Martin,35.0,2.0,HARD,27.0,True,1,82.065,2023,Australian Grand Prix,R
+STR,Aston Martin,36.0,2.0,HARD,28.0,True,1,82.048,2023,Australian Grand Prix,R
+STR,Aston Martin,37.0,2.0,HARD,29.0,True,1,82.298,2023,Australian Grand Prix,R
+STR,Aston Martin,38.0,2.0,HARD,30.0,True,1,81.451,2023,Australian Grand Prix,R
+STR,Aston Martin,39.0,2.0,HARD,31.0,True,1,81.691,2023,Australian Grand Prix,R
+STR,Aston Martin,40.0,2.0,HARD,32.0,True,1,81.506,2023,Australian Grand Prix,R
+STR,Aston Martin,41.0,2.0,HARD,33.0,True,1,81.725,2023,Australian Grand Prix,R
+STR,Aston Martin,42.0,2.0,HARD,34.0,True,1,81.583,2023,Australian Grand Prix,R
+STR,Aston Martin,43.0,2.0,HARD,35.0,True,1,81.189,2023,Australian Grand Prix,R
+STR,Aston Martin,44.0,2.0,HARD,36.0,True,1,82.039,2023,Australian Grand Prix,R
+STR,Aston Martin,45.0,2.0,HARD,37.0,True,1,81.317,2023,Australian Grand Prix,R
+STR,Aston Martin,46.0,2.0,HARD,38.0,True,1,81.273,2023,Australian Grand Prix,R
+STR,Aston Martin,47.0,2.0,HARD,39.0,True,1,81.435,2023,Australian Grand Prix,R
+STR,Aston Martin,48.0,2.0,HARD,40.0,True,1,81.025,2023,Australian Grand Prix,R
+STR,Aston Martin,49.0,2.0,HARD,41.0,True,1,81.133,2023,Australian Grand Prix,R
+STR,Aston Martin,50.0,2.0,HARD,42.0,True,1,80.934,2023,Australian Grand Prix,R
+STR,Aston Martin,51.0,2.0,HARD,43.0,True,1,81.155,2023,Australian Grand Prix,R
+STR,Aston Martin,52.0,2.0,HARD,44.0,True,1,81.131,2023,Australian Grand Prix,R
+STR,Aston Martin,53.0,2.0,HARD,45.0,True,12,80.957,2023,Australian Grand Prix,R
+SAR,Williams,4.0,3.0,HARD,3.0,False,1,85.804,2023,Australian Grand Prix,R
+SAR,Williams,5.0,3.0,HARD,4.0,False,1,85.136,2023,Australian Grand Prix,R
+SAR,Williams,6.0,3.0,HARD,5.0,False,1,84.319,2023,Australian Grand Prix,R
+SAR,Williams,10.0,4.0,MEDIUM,2.0,True,1,92.633,2023,Australian Grand Prix,R
+SAR,Williams,11.0,4.0,MEDIUM,3.0,True,1,85.76,2023,Australian Grand Prix,R
+SAR,Williams,12.0,4.0,MEDIUM,4.0,True,1,84.08,2023,Australian Grand Prix,R
+SAR,Williams,13.0,4.0,MEDIUM,5.0,True,1,84.245,2023,Australian Grand Prix,R
+SAR,Williams,14.0,4.0,MEDIUM,6.0,True,1,83.499,2023,Australian Grand Prix,R
+SAR,Williams,15.0,4.0,MEDIUM,7.0,True,1,84.186,2023,Australian Grand Prix,R
+SAR,Williams,16.0,4.0,MEDIUM,8.0,True,1,84.676,2023,Australian Grand Prix,R
+SAR,Williams,17.0,4.0,MEDIUM,9.0,True,1,84.105,2023,Australian Grand Prix,R
+SAR,Williams,20.0,4.0,MEDIUM,12.0,True,1,83.766,2023,Australian Grand Prix,R
+SAR,Williams,21.0,4.0,MEDIUM,13.0,True,1,83.878,2023,Australian Grand Prix,R
+SAR,Williams,22.0,4.0,MEDIUM,14.0,True,1,84.059,2023,Australian Grand Prix,R
+SAR,Williams,23.0,4.0,MEDIUM,15.0,True,1,83.982,2023,Australian Grand Prix,R
+SAR,Williams,24.0,4.0,MEDIUM,16.0,True,1,84.049,2023,Australian Grand Prix,R
+SAR,Williams,25.0,4.0,MEDIUM,17.0,True,1,83.993,2023,Australian Grand Prix,R
+SAR,Williams,26.0,4.0,MEDIUM,18.0,True,1,84.205,2023,Australian Grand Prix,R
+SAR,Williams,27.0,4.0,MEDIUM,19.0,True,1,83.758,2023,Australian Grand Prix,R
+SAR,Williams,28.0,4.0,MEDIUM,20.0,True,1,83.735,2023,Australian Grand Prix,R
+SAR,Williams,29.0,4.0,MEDIUM,21.0,True,1,84.122,2023,Australian Grand Prix,R
+SAR,Williams,30.0,4.0,MEDIUM,22.0,True,1,84.282,2023,Australian Grand Prix,R
+SAR,Williams,31.0,4.0,MEDIUM,23.0,True,1,84.16,2023,Australian Grand Prix,R
+SAR,Williams,32.0,4.0,MEDIUM,24.0,True,1,83.996,2023,Australian Grand Prix,R
+SAR,Williams,33.0,4.0,MEDIUM,25.0,True,1,84.377,2023,Australian Grand Prix,R
+SAR,Williams,34.0,4.0,MEDIUM,26.0,True,1,83.848,2023,Australian Grand Prix,R
+SAR,Williams,35.0,4.0,MEDIUM,27.0,True,1,84.874,2023,Australian Grand Prix,R
+SAR,Williams,38.0,5.0,HARD,9.0,False,1,84.396,2023,Australian Grand Prix,R
+SAR,Williams,39.0,5.0,HARD,10.0,False,1,82.887,2023,Australian Grand Prix,R
+SAR,Williams,40.0,5.0,HARD,11.0,False,1,82.674,2023,Australian Grand Prix,R
+SAR,Williams,41.0,5.0,HARD,12.0,False,1,81.974,2023,Australian Grand Prix,R
+SAR,Williams,42.0,5.0,HARD,13.0,False,1,81.945,2023,Australian Grand Prix,R
+SAR,Williams,43.0,5.0,HARD,14.0,False,1,81.881,2023,Australian Grand Prix,R
+SAR,Williams,44.0,5.0,HARD,15.0,False,1,81.57,2023,Australian Grand Prix,R
+SAR,Williams,45.0,5.0,HARD,16.0,False,1,81.912,2023,Australian Grand Prix,R
+SAR,Williams,46.0,5.0,HARD,17.0,False,1,81.563,2023,Australian Grand Prix,R
+SAR,Williams,47.0,5.0,HARD,18.0,False,1,85.687,2023,Australian Grand Prix,R
+SAR,Williams,48.0,5.0,HARD,19.0,False,1,85.121,2023,Australian Grand Prix,R
+SAR,Williams,49.0,5.0,HARD,20.0,False,1,83.324,2023,Australian Grand Prix,R
+SAR,Williams,50.0,5.0,HARD,21.0,False,1,81.456,2023,Australian Grand Prix,R
+SAR,Williams,51.0,5.0,HARD,22.0,False,1,83.403,2023,Australian Grand Prix,R
+SAR,Williams,52.0,5.0,HARD,23.0,False,12,81.514,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,85.406,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,85.054,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,83.956,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,10.0,3.0,HARD,3.0,False,1,92.162,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,11.0,3.0,HARD,4.0,False,1,85.389,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,12.0,3.0,HARD,5.0,False,1,83.863,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,13.0,3.0,HARD,6.0,False,1,83.538,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,14.0,3.0,HARD,7.0,False,1,83.519,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,15.0,3.0,HARD,8.0,False,1,85.158,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,16.0,3.0,HARD,9.0,False,1,84.687,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,17.0,3.0,HARD,10.0,False,1,83.574,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,20.0,3.0,HARD,13.0,False,1,83.584,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,21.0,3.0,HARD,14.0,False,1,83.425,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,22.0,3.0,HARD,15.0,False,1,83.387,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,23.0,3.0,HARD,16.0,False,1,83.313,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,24.0,3.0,HARD,17.0,False,1,83.043,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,25.0,3.0,HARD,18.0,False,1,83.216,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,26.0,3.0,HARD,19.0,False,1,83.235,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,27.0,3.0,HARD,20.0,False,1,82.554,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,28.0,3.0,HARD,21.0,False,1,83.442,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,29.0,3.0,HARD,22.0,False,1,82.587,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,30.0,3.0,HARD,23.0,False,1,83.476,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,31.0,3.0,HARD,24.0,False,1,84.146,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,32.0,3.0,HARD,25.0,False,1,83.534,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,33.0,3.0,HARD,26.0,False,1,82.592,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,34.0,3.0,HARD,27.0,False,1,83.295,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,35.0,3.0,HARD,28.0,False,1,84.159,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,36.0,3.0,HARD,29.0,False,1,82.807,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,37.0,3.0,HARD,30.0,False,1,83.212,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,38.0,3.0,HARD,31.0,False,1,82.647,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,39.0,3.0,HARD,32.0,False,1,82.484,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,40.0,3.0,HARD,33.0,False,1,82.141,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,41.0,3.0,HARD,34.0,False,1,82.774,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,42.0,3.0,HARD,35.0,False,1,82.53,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,43.0,3.0,HARD,36.0,False,1,82.209,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,44.0,3.0,HARD,37.0,False,1,82.164,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,45.0,3.0,HARD,38.0,False,1,81.963,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,46.0,3.0,HARD,39.0,False,1,81.792,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,47.0,3.0,HARD,40.0,False,1,81.919,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,48.0,3.0,HARD,41.0,False,1,81.972,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,49.0,3.0,HARD,42.0,False,1,81.963,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,50.0,3.0,HARD,43.0,False,1,81.978,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,51.0,3.0,HARD,44.0,False,1,82.575,2023,Australian Grand Prix,R
+MAG,Haas F1 Team,52.0,3.0,HARD,45.0,False,1,81.685,2023,Australian Grand Prix,R
+DEV,AlphaTauri,4.0,1.0,HARD,4.0,True,1,85.259,2023,Australian Grand Prix,R
+DEV,AlphaTauri,5.0,1.0,HARD,5.0,True,1,85.025,2023,Australian Grand Prix,R
+DEV,AlphaTauri,6.0,1.0,HARD,6.0,True,1,84.18,2023,Australian Grand Prix,R
+DEV,AlphaTauri,10.0,2.0,MEDIUM,2.0,True,1,94.287,2023,Australian Grand Prix,R
+DEV,AlphaTauri,11.0,2.0,MEDIUM,3.0,True,1,85.891,2023,Australian Grand Prix,R
+DEV,AlphaTauri,12.0,2.0,MEDIUM,4.0,True,1,84.118,2023,Australian Grand Prix,R
+DEV,AlphaTauri,13.0,2.0,MEDIUM,5.0,True,1,83.579,2023,Australian Grand Prix,R
+DEV,AlphaTauri,14.0,2.0,MEDIUM,6.0,True,1,83.662,2023,Australian Grand Prix,R
+DEV,AlphaTauri,15.0,2.0,MEDIUM,7.0,True,1,83.984,2023,Australian Grand Prix,R
+DEV,AlphaTauri,16.0,2.0,MEDIUM,8.0,True,1,84.689,2023,Australian Grand Prix,R
+DEV,AlphaTauri,17.0,2.0,MEDIUM,9.0,True,1,84.01,2023,Australian Grand Prix,R
+DEV,AlphaTauri,20.0,2.0,MEDIUM,12.0,True,1,84.161,2023,Australian Grand Prix,R
+DEV,AlphaTauri,21.0,2.0,MEDIUM,13.0,True,1,83.792,2023,Australian Grand Prix,R
+DEV,AlphaTauri,22.0,2.0,MEDIUM,14.0,True,1,84.349,2023,Australian Grand Prix,R
+DEV,AlphaTauri,23.0,2.0,MEDIUM,15.0,True,1,84.019,2023,Australian Grand Prix,R
+DEV,AlphaTauri,24.0,2.0,MEDIUM,16.0,True,1,84.229,2023,Australian Grand Prix,R
+DEV,AlphaTauri,25.0,2.0,MEDIUM,17.0,True,1,84.453,2023,Australian Grand Prix,R
+DEV,AlphaTauri,26.0,2.0,MEDIUM,18.0,True,1,84.353,2023,Australian Grand Prix,R
+DEV,AlphaTauri,27.0,2.0,MEDIUM,19.0,True,1,86.014,2023,Australian Grand Prix,R
+DEV,AlphaTauri,28.0,2.0,MEDIUM,20.0,True,1,84.406,2023,Australian Grand Prix,R
+DEV,AlphaTauri,29.0,2.0,MEDIUM,21.0,True,1,84.527,2023,Australian Grand Prix,R
+DEV,AlphaTauri,30.0,2.0,MEDIUM,22.0,True,1,84.284,2023,Australian Grand Prix,R
+DEV,AlphaTauri,31.0,2.0,MEDIUM,23.0,True,1,84.333,2023,Australian Grand Prix,R
+DEV,AlphaTauri,32.0,2.0,MEDIUM,24.0,True,1,84.357,2023,Australian Grand Prix,R
+DEV,AlphaTauri,33.0,2.0,MEDIUM,25.0,True,1,83.992,2023,Australian Grand Prix,R
+DEV,AlphaTauri,34.0,2.0,MEDIUM,26.0,True,1,84.134,2023,Australian Grand Prix,R
+DEV,AlphaTauri,35.0,2.0,MEDIUM,27.0,True,1,84.628,2023,Australian Grand Prix,R
+DEV,AlphaTauri,36.0,2.0,MEDIUM,28.0,True,1,84.398,2023,Australian Grand Prix,R
+DEV,AlphaTauri,37.0,2.0,MEDIUM,29.0,True,1,84.155,2023,Australian Grand Prix,R
+DEV,AlphaTauri,38.0,2.0,MEDIUM,30.0,True,1,84.131,2023,Australian Grand Prix,R
+DEV,AlphaTauri,39.0,2.0,MEDIUM,31.0,True,1,83.947,2023,Australian Grand Prix,R
+DEV,AlphaTauri,40.0,2.0,MEDIUM,32.0,True,1,83.933,2023,Australian Grand Prix,R
+DEV,AlphaTauri,41.0,2.0,MEDIUM,33.0,True,1,83.696,2023,Australian Grand Prix,R
+DEV,AlphaTauri,42.0,2.0,MEDIUM,34.0,True,1,84.184,2023,Australian Grand Prix,R
+DEV,AlphaTauri,43.0,2.0,MEDIUM,35.0,True,1,85.035,2023,Australian Grand Prix,R
+DEV,AlphaTauri,44.0,2.0,MEDIUM,36.0,True,1,83.637,2023,Australian Grand Prix,R
+DEV,AlphaTauri,47.0,3.0,SOFT,2.0,True,1,81.844,2023,Australian Grand Prix,R
+DEV,AlphaTauri,48.0,3.0,SOFT,3.0,True,1,81.693,2023,Australian Grand Prix,R
+DEV,AlphaTauri,49.0,3.0,SOFT,4.0,True,1,81.288,2023,Australian Grand Prix,R
+DEV,AlphaTauri,50.0,3.0,SOFT,5.0,True,1,81.183,2023,Australian Grand Prix,R
+DEV,AlphaTauri,51.0,3.0,SOFT,6.0,True,1,81.331,2023,Australian Grand Prix,R
+DEV,AlphaTauri,52.0,3.0,SOFT,7.0,True,12,81.189,2023,Australian Grand Prix,R
+TSU,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,85.299,2023,Australian Grand Prix,R
+TSU,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,84.62,2023,Australian Grand Prix,R
+TSU,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,84.11,2023,Australian Grand Prix,R
+TSU,AlphaTauri,10.0,2.0,HARD,2.0,True,1,90.664,2023,Australian Grand Prix,R
+TSU,AlphaTauri,11.0,2.0,HARD,3.0,True,1,84.878,2023,Australian Grand Prix,R
+TSU,AlphaTauri,12.0,2.0,HARD,4.0,True,1,84.596,2023,Australian Grand Prix,R
+TSU,AlphaTauri,13.0,2.0,HARD,5.0,True,1,83.629,2023,Australian Grand Prix,R
+TSU,AlphaTauri,14.0,2.0,HARD,6.0,True,1,84.369,2023,Australian Grand Prix,R
+TSU,AlphaTauri,15.0,2.0,HARD,7.0,True,1,83.945,2023,Australian Grand Prix,R
+TSU,AlphaTauri,16.0,2.0,HARD,8.0,True,1,84.004,2023,Australian Grand Prix,R
+TSU,AlphaTauri,17.0,2.0,HARD,9.0,True,1,83.704,2023,Australian Grand Prix,R
+TSU,AlphaTauri,20.0,2.0,HARD,12.0,True,1,83.267,2023,Australian Grand Prix,R
+TSU,AlphaTauri,21.0,2.0,HARD,13.0,True,1,83.906,2023,Australian Grand Prix,R
+TSU,AlphaTauri,22.0,2.0,HARD,14.0,True,1,83.222,2023,Australian Grand Prix,R
+TSU,AlphaTauri,23.0,2.0,HARD,15.0,True,1,83.846,2023,Australian Grand Prix,R
+TSU,AlphaTauri,24.0,2.0,HARD,16.0,True,1,83.76,2023,Australian Grand Prix,R
+TSU,AlphaTauri,25.0,2.0,HARD,17.0,True,1,83.612,2023,Australian Grand Prix,R
+TSU,AlphaTauri,26.0,2.0,HARD,18.0,True,1,83.431,2023,Australian Grand Prix,R
+TSU,AlphaTauri,27.0,2.0,HARD,19.0,True,1,83.693,2023,Australian Grand Prix,R
+TSU,AlphaTauri,28.0,2.0,HARD,20.0,True,1,83.13,2023,Australian Grand Prix,R
+TSU,AlphaTauri,29.0,2.0,HARD,21.0,True,1,83.893,2023,Australian Grand Prix,R
+TSU,AlphaTauri,30.0,2.0,HARD,22.0,True,1,83.558,2023,Australian Grand Prix,R
+TSU,AlphaTauri,31.0,2.0,HARD,23.0,True,1,83.831,2023,Australian Grand Prix,R
+TSU,AlphaTauri,32.0,2.0,HARD,24.0,True,1,83.246,2023,Australian Grand Prix,R
+TSU,AlphaTauri,33.0,2.0,HARD,25.0,True,1,83.068,2023,Australian Grand Prix,R
+TSU,AlphaTauri,34.0,2.0,HARD,26.0,True,1,83.934,2023,Australian Grand Prix,R
+TSU,AlphaTauri,35.0,2.0,HARD,27.0,True,1,85.477,2023,Australian Grand Prix,R
+TSU,AlphaTauri,36.0,2.0,HARD,28.0,True,1,83.31,2023,Australian Grand Prix,R
+TSU,AlphaTauri,37.0,2.0,HARD,29.0,True,1,83.084,2023,Australian Grand Prix,R
+TSU,AlphaTauri,38.0,2.0,HARD,30.0,True,1,83.057,2023,Australian Grand Prix,R
+TSU,AlphaTauri,39.0,2.0,HARD,31.0,True,1,83.193,2023,Australian Grand Prix,R
+TSU,AlphaTauri,40.0,2.0,HARD,32.0,True,1,82.901,2023,Australian Grand Prix,R
+TSU,AlphaTauri,41.0,2.0,HARD,33.0,True,1,82.91,2023,Australian Grand Prix,R
+TSU,AlphaTauri,42.0,2.0,HARD,34.0,True,1,82.881,2023,Australian Grand Prix,R
+TSU,AlphaTauri,43.0,2.0,HARD,35.0,True,1,82.806,2023,Australian Grand Prix,R
+TSU,AlphaTauri,44.0,2.0,HARD,36.0,True,1,82.387,2023,Australian Grand Prix,R
+TSU,AlphaTauri,45.0,2.0,HARD,37.0,True,1,82.111,2023,Australian Grand Prix,R
+TSU,AlphaTauri,46.0,2.0,HARD,38.0,True,1,82.299,2023,Australian Grand Prix,R
+TSU,AlphaTauri,47.0,2.0,HARD,39.0,True,1,82.009,2023,Australian Grand Prix,R
+TSU,AlphaTauri,48.0,2.0,HARD,40.0,True,1,82.04,2023,Australian Grand Prix,R
+TSU,AlphaTauri,49.0,2.0,HARD,41.0,True,1,82.294,2023,Australian Grand Prix,R
+TSU,AlphaTauri,50.0,2.0,HARD,42.0,True,1,82.011,2023,Australian Grand Prix,R
+TSU,AlphaTauri,51.0,2.0,HARD,43.0,True,1,81.827,2023,Australian Grand Prix,R
+TSU,AlphaTauri,52.0,2.0,HARD,44.0,True,1,81.789,2023,Australian Grand Prix,R
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,84.327,2023,Australian Grand Prix,R
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,83.639,2023,Australian Grand Prix,R
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,83.349,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,4.0,2.0,HARD,3.0,True,1,85.204,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,5.0,2.0,HARD,4.0,True,1,84.847,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,6.0,2.0,HARD,5.0,True,1,84.856,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,10.0,3.0,HARD,9.0,False,1,91.657,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,11.0,3.0,HARD,10.0,False,1,85.23,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,12.0,3.0,HARD,11.0,False,1,83.869,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,13.0,3.0,HARD,12.0,False,1,83.411,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,14.0,3.0,HARD,13.0,False,1,83.581,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,15.0,3.0,HARD,14.0,False,1,85.028,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,16.0,3.0,HARD,15.0,False,1,85.545,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,17.0,3.0,HARD,16.0,False,1,83.374,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,20.0,3.0,HARD,19.0,False,1,83.666,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,21.0,3.0,HARD,20.0,False,1,83.268,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,22.0,3.0,HARD,21.0,False,1,83.205,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,23.0,3.0,HARD,22.0,False,1,83.418,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,24.0,3.0,HARD,23.0,False,1,83.121,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,25.0,3.0,HARD,24.0,False,1,83.46,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,26.0,3.0,HARD,25.0,False,1,83.488,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,27.0,3.0,HARD,26.0,False,1,82.631,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,28.0,3.0,HARD,27.0,False,1,82.904,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,29.0,3.0,HARD,28.0,False,1,83.25,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,30.0,3.0,HARD,29.0,False,1,83.563,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,31.0,3.0,HARD,30.0,False,1,84.468,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,32.0,3.0,HARD,31.0,False,1,83.025,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,33.0,3.0,HARD,32.0,False,1,82.777,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,34.0,3.0,HARD,33.0,False,1,83.493,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,35.0,3.0,HARD,34.0,False,1,83.667,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,36.0,3.0,HARD,35.0,False,1,84.117,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,37.0,3.0,HARD,36.0,False,1,83.222,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,38.0,3.0,HARD,37.0,False,1,82.917,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,39.0,3.0,HARD,38.0,False,1,82.464,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,40.0,3.0,HARD,39.0,False,1,82.243,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,41.0,3.0,HARD,40.0,False,1,82.246,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,42.0,3.0,HARD,41.0,False,1,82.732,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,43.0,3.0,HARD,42.0,False,1,82.348,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,44.0,3.0,HARD,43.0,False,1,82.115,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,45.0,3.0,HARD,44.0,False,1,82.049,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,46.0,3.0,HARD,45.0,False,1,81.936,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,47.0,3.0,HARD,46.0,False,1,81.862,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,48.0,3.0,HARD,47.0,False,1,81.819,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,49.0,3.0,HARD,48.0,False,1,81.983,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,50.0,3.0,HARD,49.0,False,1,81.836,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,51.0,3.0,HARD,50.0,False,1,82.781,2023,Australian Grand Prix,R
+ZHO,Alfa Romeo,52.0,3.0,HARD,51.0,False,1,82.05,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,84.833,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,84.295,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,83.539,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,10.0,2.0,HARD,2.0,True,1,90.264,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,11.0,2.0,HARD,3.0,True,1,84.823,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,12.0,2.0,HARD,4.0,True,1,83.261,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,13.0,2.0,HARD,5.0,True,1,83.719,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,14.0,2.0,HARD,6.0,True,1,84.129,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,15.0,2.0,HARD,7.0,True,1,83.01,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,16.0,2.0,HARD,8.0,True,1,82.824,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,17.0,2.0,HARD,9.0,True,1,83.7,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,20.0,2.0,HARD,12.0,True,1,82.613,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,21.0,2.0,HARD,13.0,True,1,82.681,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,22.0,2.0,HARD,14.0,True,1,82.625,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,23.0,2.0,HARD,15.0,True,1,82.59,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,24.0,2.0,HARD,16.0,True,1,82.639,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,25.0,2.0,HARD,17.0,True,1,83.067,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,26.0,2.0,HARD,18.0,True,1,82.479,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,27.0,2.0,HARD,19.0,True,1,82.221,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,28.0,2.0,HARD,20.0,True,1,82.333,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,29.0,2.0,HARD,21.0,True,1,82.223,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,30.0,2.0,HARD,22.0,True,1,82.671,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,31.0,2.0,HARD,23.0,True,1,82.397,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,32.0,2.0,HARD,24.0,True,1,82.088,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,33.0,2.0,HARD,25.0,True,1,81.744,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,34.0,2.0,HARD,26.0,True,1,82.192,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,35.0,2.0,HARD,27.0,True,1,82.241,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,36.0,2.0,HARD,28.0,True,1,82.141,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,37.0,2.0,HARD,29.0,True,1,81.969,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,38.0,2.0,HARD,30.0,True,1,82.197,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,39.0,2.0,HARD,31.0,True,1,81.852,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,40.0,2.0,HARD,32.0,True,1,81.593,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,41.0,2.0,HARD,33.0,True,1,81.993,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,42.0,2.0,HARD,34.0,True,1,81.438,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,43.0,2.0,HARD,35.0,True,1,81.53,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,44.0,2.0,HARD,36.0,True,1,83.034,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,45.0,2.0,HARD,37.0,True,1,81.406,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,46.0,2.0,HARD,38.0,True,1,81.124,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,47.0,2.0,HARD,39.0,True,1,81.544,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,48.0,2.0,HARD,40.0,True,1,81.866,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,49.0,2.0,HARD,41.0,True,1,81.942,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,50.0,2.0,HARD,42.0,True,1,81.872,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,51.0,2.0,HARD,43.0,True,1,84.48,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,52.0,2.0,HARD,44.0,True,1,82.593,2023,Australian Grand Prix,R
+HUL,Haas F1 Team,53.0,2.0,HARD,45.0,True,12,81.726,2023,Australian Grand Prix,R
+OCO,Alpine,4.0,2.0,HARD,3.0,True,1,85.603,2023,Australian Grand Prix,R
+OCO,Alpine,5.0,2.0,HARD,4.0,True,1,84.974,2023,Australian Grand Prix,R
+OCO,Alpine,6.0,2.0,HARD,5.0,True,1,83.963,2023,Australian Grand Prix,R
+OCO,Alpine,10.0,3.0,HARD,9.0,False,1,92.567,2023,Australian Grand Prix,R
+OCO,Alpine,11.0,3.0,HARD,10.0,False,1,85.266,2023,Australian Grand Prix,R
+OCO,Alpine,12.0,3.0,HARD,11.0,False,1,83.841,2023,Australian Grand Prix,R
+OCO,Alpine,13.0,3.0,HARD,12.0,False,1,83.486,2023,Australian Grand Prix,R
+OCO,Alpine,14.0,3.0,HARD,13.0,False,1,83.49,2023,Australian Grand Prix,R
+OCO,Alpine,15.0,3.0,HARD,14.0,False,1,84.884,2023,Australian Grand Prix,R
+OCO,Alpine,16.0,3.0,HARD,15.0,False,1,83.447,2023,Australian Grand Prix,R
+OCO,Alpine,17.0,3.0,HARD,16.0,False,1,83.008,2023,Australian Grand Prix,R
+OCO,Alpine,20.0,3.0,HARD,19.0,False,1,82.77,2023,Australian Grand Prix,R
+OCO,Alpine,21.0,3.0,HARD,20.0,False,1,84.341,2023,Australian Grand Prix,R
+OCO,Alpine,22.0,3.0,HARD,21.0,False,1,83.518,2023,Australian Grand Prix,R
+OCO,Alpine,23.0,3.0,HARD,22.0,False,1,83.585,2023,Australian Grand Prix,R
+OCO,Alpine,24.0,3.0,HARD,23.0,False,1,83.404,2023,Australian Grand Prix,R
+OCO,Alpine,25.0,3.0,HARD,24.0,False,1,83.632,2023,Australian Grand Prix,R
+OCO,Alpine,26.0,3.0,HARD,25.0,False,1,82.913,2023,Australian Grand Prix,R
+OCO,Alpine,27.0,3.0,HARD,26.0,False,1,82.047,2023,Australian Grand Prix,R
+OCO,Alpine,28.0,3.0,HARD,27.0,False,1,82.256,2023,Australian Grand Prix,R
+OCO,Alpine,29.0,3.0,HARD,28.0,False,1,82.138,2023,Australian Grand Prix,R
+OCO,Alpine,30.0,3.0,HARD,29.0,False,1,81.998,2023,Australian Grand Prix,R
+OCO,Alpine,31.0,3.0,HARD,30.0,False,1,82.027,2023,Australian Grand Prix,R
+OCO,Alpine,32.0,3.0,HARD,31.0,False,1,82.041,2023,Australian Grand Prix,R
+OCO,Alpine,33.0,3.0,HARD,32.0,False,1,82.088,2023,Australian Grand Prix,R
+OCO,Alpine,34.0,3.0,HARD,33.0,False,1,81.788,2023,Australian Grand Prix,R
+OCO,Alpine,35.0,3.0,HARD,34.0,False,1,82.071,2023,Australian Grand Prix,R
+OCO,Alpine,36.0,3.0,HARD,35.0,False,1,82.772,2023,Australian Grand Prix,R
+OCO,Alpine,37.0,3.0,HARD,36.0,False,1,81.954,2023,Australian Grand Prix,R
+OCO,Alpine,38.0,3.0,HARD,37.0,False,1,81.869,2023,Australian Grand Prix,R
+OCO,Alpine,39.0,3.0,HARD,38.0,False,1,81.75,2023,Australian Grand Prix,R
+OCO,Alpine,40.0,3.0,HARD,39.0,False,1,81.902,2023,Australian Grand Prix,R
+OCO,Alpine,41.0,3.0,HARD,40.0,False,1,81.675,2023,Australian Grand Prix,R
+OCO,Alpine,42.0,3.0,HARD,41.0,False,1,81.539,2023,Australian Grand Prix,R
+OCO,Alpine,43.0,3.0,HARD,42.0,False,1,81.273,2023,Australian Grand Prix,R
+OCO,Alpine,44.0,3.0,HARD,43.0,False,1,81.203,2023,Australian Grand Prix,R
+OCO,Alpine,45.0,3.0,HARD,44.0,False,1,81.476,2023,Australian Grand Prix,R
+OCO,Alpine,46.0,3.0,HARD,45.0,False,1,81.508,2023,Australian Grand Prix,R
+OCO,Alpine,47.0,3.0,HARD,46.0,False,1,81.382,2023,Australian Grand Prix,R
+OCO,Alpine,48.0,3.0,HARD,47.0,False,1,81.47,2023,Australian Grand Prix,R
+OCO,Alpine,49.0,3.0,HARD,48.0,False,1,81.668,2023,Australian Grand Prix,R
+OCO,Alpine,50.0,3.0,HARD,49.0,False,1,81.204,2023,Australian Grand Prix,R
+OCO,Alpine,51.0,3.0,HARD,50.0,False,1,81.452,2023,Australian Grand Prix,R
+OCO,Alpine,52.0,3.0,HARD,51.0,False,1,81.436,2023,Australian Grand Prix,R
+OCO,Alpine,53.0,3.0,HARD,52.0,False,12,81.338,2023,Australian Grand Prix,R
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,85.444,2023,Australian Grand Prix,R
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,84.732,2023,Australian Grand Prix,R
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,83.858,2023,Australian Grand Prix,R
+NOR,McLaren,10.0,2.0,HARD,2.0,True,1,90.926,2023,Australian Grand Prix,R
+NOR,McLaren,11.0,2.0,HARD,3.0,True,1,85.817,2023,Australian Grand Prix,R
+NOR,McLaren,12.0,2.0,HARD,4.0,True,1,83.775,2023,Australian Grand Prix,R
+NOR,McLaren,13.0,2.0,HARD,5.0,True,1,83.54,2023,Australian Grand Prix,R
+NOR,McLaren,14.0,2.0,HARD,6.0,True,1,83.307,2023,Australian Grand Prix,R
+NOR,McLaren,15.0,2.0,HARD,7.0,True,1,83.568,2023,Australian Grand Prix,R
+NOR,McLaren,16.0,2.0,HARD,8.0,True,1,83.111,2023,Australian Grand Prix,R
+NOR,McLaren,17.0,2.0,HARD,9.0,True,1,82.986,2023,Australian Grand Prix,R
+NOR,McLaren,20.0,2.0,HARD,12.0,True,1,82.741,2023,Australian Grand Prix,R
+NOR,McLaren,21.0,2.0,HARD,13.0,True,1,82.828,2023,Australian Grand Prix,R
+NOR,McLaren,22.0,2.0,HARD,14.0,True,1,82.532,2023,Australian Grand Prix,R
+NOR,McLaren,23.0,2.0,HARD,15.0,True,1,82.65,2023,Australian Grand Prix,R
+NOR,McLaren,24.0,2.0,HARD,16.0,True,1,82.536,2023,Australian Grand Prix,R
+NOR,McLaren,25.0,2.0,HARD,17.0,True,1,82.56,2023,Australian Grand Prix,R
+NOR,McLaren,26.0,2.0,HARD,18.0,True,1,82.458,2023,Australian Grand Prix,R
+NOR,McLaren,27.0,2.0,HARD,19.0,True,1,82.415,2023,Australian Grand Prix,R
+NOR,McLaren,28.0,2.0,HARD,20.0,True,1,82.426,2023,Australian Grand Prix,R
+NOR,McLaren,29.0,2.0,HARD,21.0,True,1,82.234,2023,Australian Grand Prix,R
+NOR,McLaren,30.0,2.0,HARD,22.0,True,1,82.228,2023,Australian Grand Prix,R
+NOR,McLaren,31.0,2.0,HARD,23.0,True,1,82.339,2023,Australian Grand Prix,R
+NOR,McLaren,32.0,2.0,HARD,24.0,True,1,82.16,2023,Australian Grand Prix,R
+NOR,McLaren,33.0,2.0,HARD,25.0,True,1,82.28,2023,Australian Grand Prix,R
+NOR,McLaren,34.0,2.0,HARD,26.0,True,1,82.294,2023,Australian Grand Prix,R
+NOR,McLaren,35.0,2.0,HARD,27.0,True,1,82.147,2023,Australian Grand Prix,R
+NOR,McLaren,36.0,2.0,HARD,28.0,True,1,82.09,2023,Australian Grand Prix,R
+NOR,McLaren,37.0,2.0,HARD,29.0,True,1,82.155,2023,Australian Grand Prix,R
+NOR,McLaren,38.0,2.0,HARD,30.0,True,1,81.856,2023,Australian Grand Prix,R
+NOR,McLaren,39.0,2.0,HARD,31.0,True,1,81.657,2023,Australian Grand Prix,R
+NOR,McLaren,40.0,2.0,HARD,32.0,True,1,81.643,2023,Australian Grand Prix,R
+NOR,McLaren,41.0,2.0,HARD,33.0,True,1,81.674,2023,Australian Grand Prix,R
+NOR,McLaren,42.0,2.0,HARD,34.0,True,1,81.496,2023,Australian Grand Prix,R
+NOR,McLaren,43.0,2.0,HARD,35.0,True,1,82.219,2023,Australian Grand Prix,R
+NOR,McLaren,44.0,2.0,HARD,36.0,True,1,81.272,2023,Australian Grand Prix,R
+NOR,McLaren,45.0,2.0,HARD,37.0,True,1,81.518,2023,Australian Grand Prix,R
+NOR,McLaren,46.0,2.0,HARD,38.0,True,1,81.173,2023,Australian Grand Prix,R
+NOR,McLaren,47.0,2.0,HARD,39.0,True,1,81.482,2023,Australian Grand Prix,R
+NOR,McLaren,48.0,2.0,HARD,40.0,True,1,81.784,2023,Australian Grand Prix,R
+NOR,McLaren,49.0,2.0,HARD,41.0,True,1,82.341,2023,Australian Grand Prix,R
+NOR,McLaren,50.0,2.0,HARD,42.0,True,1,81.714,2023,Australian Grand Prix,R
+NOR,McLaren,51.0,2.0,HARD,43.0,True,1,82.032,2023,Australian Grand Prix,R
+NOR,McLaren,52.0,2.0,HARD,44.0,True,1,81.352,2023,Australian Grand Prix,R
+NOR,McLaren,53.0,2.0,HARD,45.0,True,12,81.259,2023,Australian Grand Prix,R
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,83.295,2023,Australian Grand Prix,R
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,83.17,2023,Australian Grand Prix,R
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,82.89,2023,Australian Grand Prix,R
+HAM,Mercedes,10.0,2.0,HARD,2.0,True,1,123.62,2023,Australian Grand Prix,R
+HAM,Mercedes,11.0,2.0,HARD,3.0,True,1,83.79,2023,Australian Grand Prix,R
+HAM,Mercedes,12.0,2.0,HARD,4.0,True,1,84.616,2023,Australian Grand Prix,R
+HAM,Mercedes,13.0,2.0,HARD,5.0,True,1,83.771,2023,Australian Grand Prix,R
+HAM,Mercedes,14.0,2.0,HARD,6.0,True,1,83.618,2023,Australian Grand Prix,R
+HAM,Mercedes,15.0,2.0,HARD,7.0,True,1,82.998,2023,Australian Grand Prix,R
+HAM,Mercedes,16.0,2.0,HARD,8.0,True,1,82.934,2023,Australian Grand Prix,R
+HAM,Mercedes,17.0,2.0,HARD,9.0,True,1,82.121,2023,Australian Grand Prix,R
+HAM,Mercedes,20.0,2.0,HARD,12.0,True,1,82.12,2023,Australian Grand Prix,R
+HAM,Mercedes,21.0,2.0,HARD,13.0,True,1,82.704,2023,Australian Grand Prix,R
+HAM,Mercedes,22.0,2.0,HARD,14.0,True,1,82.72,2023,Australian Grand Prix,R
+HAM,Mercedes,23.0,2.0,HARD,15.0,True,1,82.971,2023,Australian Grand Prix,R
+HAM,Mercedes,24.0,2.0,HARD,16.0,True,1,83.174,2023,Australian Grand Prix,R
+HAM,Mercedes,25.0,2.0,HARD,17.0,True,1,82.456,2023,Australian Grand Prix,R
+HAM,Mercedes,26.0,2.0,HARD,18.0,True,1,82.595,2023,Australian Grand Prix,R
+HAM,Mercedes,27.0,2.0,HARD,19.0,True,1,82.131,2023,Australian Grand Prix,R
+HAM,Mercedes,28.0,2.0,HARD,20.0,True,1,82.008,2023,Australian Grand Prix,R
+HAM,Mercedes,29.0,2.0,HARD,21.0,True,1,82.715,2023,Australian Grand Prix,R
+HAM,Mercedes,30.0,2.0,HARD,22.0,True,1,82.205,2023,Australian Grand Prix,R
+HAM,Mercedes,31.0,2.0,HARD,23.0,True,1,82.22,2023,Australian Grand Prix,R
+HAM,Mercedes,32.0,2.0,HARD,24.0,True,1,82.551,2023,Australian Grand Prix,R
+HAM,Mercedes,33.0,2.0,HARD,25.0,True,1,81.654,2023,Australian Grand Prix,R
+HAM,Mercedes,34.0,2.0,HARD,26.0,True,1,81.973,2023,Australian Grand Prix,R
+HAM,Mercedes,35.0,2.0,HARD,27.0,True,1,81.832,2023,Australian Grand Prix,R
+HAM,Mercedes,36.0,2.0,HARD,28.0,True,1,82.08,2023,Australian Grand Prix,R
+HAM,Mercedes,37.0,2.0,HARD,29.0,True,1,81.4,2023,Australian Grand Prix,R
+HAM,Mercedes,38.0,2.0,HARD,30.0,True,1,81.693,2023,Australian Grand Prix,R
+HAM,Mercedes,39.0,2.0,HARD,31.0,True,1,81.315,2023,Australian Grand Prix,R
+HAM,Mercedes,40.0,2.0,HARD,32.0,True,1,81.563,2023,Australian Grand Prix,R
+HAM,Mercedes,41.0,2.0,HARD,33.0,True,1,81.267,2023,Australian Grand Prix,R
+HAM,Mercedes,42.0,2.0,HARD,34.0,True,1,81.379,2023,Australian Grand Prix,R
+HAM,Mercedes,43.0,2.0,HARD,35.0,True,1,81.073,2023,Australian Grand Prix,R
+HAM,Mercedes,44.0,2.0,HARD,36.0,True,1,80.981,2023,Australian Grand Prix,R
+HAM,Mercedes,45.0,2.0,HARD,37.0,True,1,81.422,2023,Australian Grand Prix,R
+HAM,Mercedes,46.0,2.0,HARD,38.0,True,1,81.029,2023,Australian Grand Prix,R
+HAM,Mercedes,47.0,2.0,HARD,39.0,True,1,80.816,2023,Australian Grand Prix,R
+HAM,Mercedes,48.0,2.0,HARD,40.0,True,1,80.85,2023,Australian Grand Prix,R
+HAM,Mercedes,49.0,2.0,HARD,41.0,True,1,80.613,2023,Australian Grand Prix,R
+HAM,Mercedes,50.0,2.0,HARD,42.0,True,1,80.909,2023,Australian Grand Prix,R
+HAM,Mercedes,51.0,2.0,HARD,43.0,True,1,80.682,2023,Australian Grand Prix,R
+HAM,Mercedes,52.0,2.0,HARD,44.0,True,1,80.741,2023,Australian Grand Prix,R
+HAM,Mercedes,53.0,2.0,HARD,45.0,True,12,80.652,2023,Australian Grand Prix,R
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,False,1,83.889,2023,Australian Grand Prix,R
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,False,1,83.217,2023,Australian Grand Prix,R
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,False,1,82.809,2023,Australian Grand Prix,R
+SAI,Ferrari,10.0,3.0,HARD,3.0,False,1,90.864,2023,Australian Grand Prix,R
+SAI,Ferrari,11.0,3.0,HARD,4.0,False,1,84.433,2023,Australian Grand Prix,R
+SAI,Ferrari,12.0,3.0,HARD,5.0,False,1,83.199,2023,Australian Grand Prix,R
+SAI,Ferrari,13.0,3.0,HARD,6.0,False,1,82.862,2023,Australian Grand Prix,R
+SAI,Ferrari,14.0,3.0,HARD,7.0,False,1,82.958,2023,Australian Grand Prix,R
+SAI,Ferrari,15.0,3.0,HARD,8.0,False,1,82.587,2023,Australian Grand Prix,R
+SAI,Ferrari,16.0,3.0,HARD,9.0,False,1,83.225,2023,Australian Grand Prix,R
+SAI,Ferrari,17.0,3.0,HARD,10.0,False,1,82.945,2023,Australian Grand Prix,R
+SAI,Ferrari,20.0,3.0,HARD,13.0,False,1,82.102,2023,Australian Grand Prix,R
+SAI,Ferrari,21.0,3.0,HARD,14.0,False,1,82.15,2023,Australian Grand Prix,R
+SAI,Ferrari,22.0,3.0,HARD,15.0,False,1,82.903,2023,Australian Grand Prix,R
+SAI,Ferrari,23.0,3.0,HARD,16.0,False,1,82.523,2023,Australian Grand Prix,R
+SAI,Ferrari,24.0,3.0,HARD,17.0,False,1,82.425,2023,Australian Grand Prix,R
+SAI,Ferrari,25.0,3.0,HARD,18.0,False,1,82.994,2023,Australian Grand Prix,R
+SAI,Ferrari,26.0,3.0,HARD,19.0,False,1,82.438,2023,Australian Grand Prix,R
+SAI,Ferrari,27.0,3.0,HARD,20.0,False,1,82.099,2023,Australian Grand Prix,R
+SAI,Ferrari,28.0,3.0,HARD,21.0,False,1,81.919,2023,Australian Grand Prix,R
+SAI,Ferrari,29.0,3.0,HARD,22.0,False,1,82.412,2023,Australian Grand Prix,R
+SAI,Ferrari,30.0,3.0,HARD,23.0,False,1,82.155,2023,Australian Grand Prix,R
+SAI,Ferrari,31.0,3.0,HARD,24.0,False,1,81.854,2023,Australian Grand Prix,R
+SAI,Ferrari,32.0,3.0,HARD,25.0,False,1,81.986,2023,Australian Grand Prix,R
+SAI,Ferrari,33.0,3.0,HARD,26.0,False,1,81.77,2023,Australian Grand Prix,R
+SAI,Ferrari,34.0,3.0,HARD,27.0,False,1,81.877,2023,Australian Grand Prix,R
+SAI,Ferrari,35.0,3.0,HARD,28.0,False,1,81.692,2023,Australian Grand Prix,R
+SAI,Ferrari,36.0,3.0,HARD,29.0,False,1,81.695,2023,Australian Grand Prix,R
+SAI,Ferrari,37.0,3.0,HARD,30.0,False,1,81.659,2023,Australian Grand Prix,R
+SAI,Ferrari,38.0,3.0,HARD,31.0,False,1,81.552,2023,Australian Grand Prix,R
+SAI,Ferrari,39.0,3.0,HARD,32.0,False,1,81.852,2023,Australian Grand Prix,R
+SAI,Ferrari,40.0,3.0,HARD,33.0,False,1,81.942,2023,Australian Grand Prix,R
+SAI,Ferrari,41.0,3.0,HARD,34.0,False,1,81.412,2023,Australian Grand Prix,R
+SAI,Ferrari,42.0,3.0,HARD,35.0,False,1,81.34,2023,Australian Grand Prix,R
+SAI,Ferrari,43.0,3.0,HARD,36.0,False,1,81.074,2023,Australian Grand Prix,R
+SAI,Ferrari,44.0,3.0,HARD,37.0,False,1,81.337,2023,Australian Grand Prix,R
+SAI,Ferrari,45.0,3.0,HARD,38.0,False,1,81.303,2023,Australian Grand Prix,R
+SAI,Ferrari,46.0,3.0,HARD,39.0,False,1,81.308,2023,Australian Grand Prix,R
+SAI,Ferrari,47.0,3.0,HARD,40.0,False,1,81.033,2023,Australian Grand Prix,R
+SAI,Ferrari,48.0,3.0,HARD,41.0,False,1,81.235,2023,Australian Grand Prix,R
+SAI,Ferrari,49.0,3.0,HARD,42.0,False,1,81.102,2023,Australian Grand Prix,R
+SAI,Ferrari,50.0,3.0,HARD,43.0,False,1,80.97,2023,Australian Grand Prix,R
+SAI,Ferrari,51.0,3.0,HARD,44.0,False,1,80.826,2023,Australian Grand Prix,R
+SAI,Ferrari,52.0,3.0,HARD,45.0,False,1,80.719,2023,Australian Grand Prix,R
+SAI,Ferrari,53.0,3.0,HARD,46.0,False,12,80.467,2023,Australian Grand Prix,R
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,83.134,2023,Australian Grand Prix,R
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,83.134,2023,Australian Grand Prix,R
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,83.159,2023,Australian Grand Prix,R
+RUS,Mercedes,10.0,3.0,HARD,3.0,False,1,89.218,2023,Australian Grand Prix,R
+RUS,Mercedes,11.0,3.0,HARD,4.0,False,1,84.617,2023,Australian Grand Prix,R
+RUS,Mercedes,12.0,3.0,HARD,5.0,False,1,83.169,2023,Australian Grand Prix,R
+RUS,Mercedes,13.0,3.0,HARD,6.0,False,1,83.705,2023,Australian Grand Prix,R
+RUS,Mercedes,14.0,3.0,HARD,7.0,False,1,83.073,2023,Australian Grand Prix,R
+RUS,Mercedes,15.0,3.0,HARD,8.0,False,1,83.079,2023,Australian Grand Prix,R
+RUS,Mercedes,16.0,3.0,HARD,9.0,False,1,82.68,2023,Australian Grand Prix,R
+RUS,Mercedes,17.0,3.0,HARD,10.0,False,1,94.488,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,4.0,2.0,HARD,3.0,True,1,86.356,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,5.0,2.0,HARD,4.0,True,1,84.849,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,6.0,2.0,HARD,5.0,True,1,84.331,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,10.0,3.0,HARD,9.0,False,1,94.202,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,11.0,3.0,HARD,10.0,False,1,85.889,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,12.0,3.0,HARD,11.0,False,1,84.397,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,13.0,3.0,HARD,12.0,False,1,83.394,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,14.0,3.0,HARD,13.0,False,1,83.598,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,15.0,3.0,HARD,14.0,False,1,83.939,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,16.0,3.0,HARD,15.0,False,1,84.456,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,17.0,3.0,HARD,16.0,False,1,84.103,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,20.0,3.0,HARD,19.0,False,1,85.798,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,21.0,3.0,HARD,20.0,False,1,84.504,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,22.0,3.0,HARD,21.0,False,1,83.753,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,23.0,3.0,HARD,22.0,False,1,83.485,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,24.0,3.0,HARD,23.0,False,1,84.155,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,25.0,3.0,HARD,24.0,False,1,84.481,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,26.0,3.0,HARD,25.0,False,1,84.149,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,27.0,3.0,HARD,26.0,False,1,84.528,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,28.0,3.0,HARD,27.0,False,1,83.298,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,29.0,3.0,HARD,28.0,False,1,83.014,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,30.0,3.0,HARD,29.0,False,1,83.485,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,31.0,3.0,HARD,30.0,False,1,83.366,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,32.0,3.0,HARD,31.0,False,1,83.593,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,33.0,3.0,HARD,32.0,False,1,83.716,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,34.0,3.0,HARD,33.0,False,1,83.765,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,35.0,3.0,HARD,34.0,False,1,83.049,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,36.0,3.0,HARD,35.0,False,1,82.831,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,37.0,3.0,HARD,36.0,False,1,83.02,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,38.0,3.0,HARD,37.0,False,1,82.773,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,39.0,3.0,HARD,38.0,False,1,83.019,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,40.0,3.0,HARD,39.0,False,1,82.695,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,41.0,3.0,HARD,40.0,False,1,83.085,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,42.0,3.0,HARD,41.0,False,1,82.944,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,43.0,3.0,HARD,42.0,False,1,82.563,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,44.0,3.0,HARD,43.0,False,1,82.523,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,45.0,3.0,HARD,44.0,False,1,82.391,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,46.0,3.0,HARD,45.0,False,1,82.233,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,47.0,3.0,HARD,46.0,False,1,82.37,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,48.0,3.0,HARD,47.0,False,1,82.436,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,49.0,3.0,HARD,48.0,False,1,82.473,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,50.0,3.0,HARD,49.0,False,1,82.405,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,51.0,3.0,HARD,50.0,False,1,82.473,2023,Australian Grand Prix,R
+BOT,Alfa Romeo,52.0,3.0,HARD,51.0,False,1,82.661,2023,Australian Grand Prix,R
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,85.428,2023,Australian Grand Prix,R
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,84.996,2023,Australian Grand Prix,R
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,84.052,2023,Australian Grand Prix,R
+PIA,McLaren,10.0,2.0,HARD,2.0,True,1,91.821,2023,Australian Grand Prix,R
+PIA,McLaren,11.0,2.0,HARD,3.0,True,1,85.221,2023,Australian Grand Prix,R
+PIA,McLaren,12.0,2.0,HARD,4.0,True,1,83.759,2023,Australian Grand Prix,R
+PIA,McLaren,13.0,2.0,HARD,5.0,True,1,83.496,2023,Australian Grand Prix,R
+PIA,McLaren,14.0,2.0,HARD,6.0,True,1,83.56,2023,Australian Grand Prix,R
+PIA,McLaren,15.0,2.0,HARD,7.0,True,1,85.236,2023,Australian Grand Prix,R
+PIA,McLaren,16.0,2.0,HARD,8.0,True,1,83.558,2023,Australian Grand Prix,R
+PIA,McLaren,17.0,2.0,HARD,9.0,True,1,83.229,2023,Australian Grand Prix,R
+PIA,McLaren,20.0,2.0,HARD,12.0,True,1,83.051,2023,Australian Grand Prix,R
+PIA,McLaren,21.0,2.0,HARD,13.0,True,1,83.996,2023,Australian Grand Prix,R
+PIA,McLaren,22.0,2.0,HARD,14.0,True,1,83.854,2023,Australian Grand Prix,R
+PIA,McLaren,23.0,2.0,HARD,15.0,True,1,83.2,2023,Australian Grand Prix,R
+PIA,McLaren,24.0,2.0,HARD,16.0,True,1,83.796,2023,Australian Grand Prix,R
+PIA,McLaren,25.0,2.0,HARD,17.0,True,1,83.478,2023,Australian Grand Prix,R
+PIA,McLaren,26.0,2.0,HARD,18.0,True,1,84.327,2023,Australian Grand Prix,R
+PIA,McLaren,27.0,2.0,HARD,19.0,True,1,82.995,2023,Australian Grand Prix,R
+PIA,McLaren,28.0,2.0,HARD,20.0,True,1,82.825,2023,Australian Grand Prix,R
+PIA,McLaren,29.0,2.0,HARD,21.0,True,1,82.635,2023,Australian Grand Prix,R
+PIA,McLaren,30.0,2.0,HARD,22.0,True,1,83.083,2023,Australian Grand Prix,R
+PIA,McLaren,31.0,2.0,HARD,23.0,True,1,82.662,2023,Australian Grand Prix,R
+PIA,McLaren,32.0,2.0,HARD,24.0,True,1,82.855,2023,Australian Grand Prix,R
+PIA,McLaren,33.0,2.0,HARD,25.0,True,1,82.431,2023,Australian Grand Prix,R
+PIA,McLaren,34.0,2.0,HARD,26.0,True,1,82.504,2023,Australian Grand Prix,R
+PIA,McLaren,35.0,2.0,HARD,27.0,True,1,82.471,2023,Australian Grand Prix,R
+PIA,McLaren,36.0,2.0,HARD,28.0,True,1,82.473,2023,Australian Grand Prix,R
+PIA,McLaren,37.0,2.0,HARD,29.0,True,1,82.346,2023,Australian Grand Prix,R
+PIA,McLaren,38.0,2.0,HARD,30.0,True,1,82.316,2023,Australian Grand Prix,R
+PIA,McLaren,39.0,2.0,HARD,31.0,True,1,82.512,2023,Australian Grand Prix,R
+PIA,McLaren,40.0,2.0,HARD,32.0,True,1,82.003,2023,Australian Grand Prix,R
+PIA,McLaren,41.0,2.0,HARD,33.0,True,1,81.931,2023,Australian Grand Prix,R
+PIA,McLaren,42.0,2.0,HARD,34.0,True,1,82.101,2023,Australian Grand Prix,R
+PIA,McLaren,43.0,2.0,HARD,35.0,True,1,82.218,2023,Australian Grand Prix,R
+PIA,McLaren,44.0,2.0,HARD,36.0,True,1,81.697,2023,Australian Grand Prix,R
+PIA,McLaren,45.0,2.0,HARD,37.0,True,1,81.707,2023,Australian Grand Prix,R
+PIA,McLaren,46.0,2.0,HARD,38.0,True,1,81.652,2023,Australian Grand Prix,R
+PIA,McLaren,47.0,2.0,HARD,39.0,True,1,81.669,2023,Australian Grand Prix,R
+PIA,McLaren,48.0,2.0,HARD,40.0,True,1,81.686,2023,Australian Grand Prix,R
+PIA,McLaren,49.0,2.0,HARD,41.0,True,1,81.525,2023,Australian Grand Prix,R
+PIA,McLaren,50.0,2.0,HARD,42.0,True,1,81.752,2023,Australian Grand Prix,R
+PIA,McLaren,51.0,2.0,HARD,43.0,True,1,81.737,2023,Australian Grand Prix,R
+PIA,McLaren,52.0,2.0,HARD,44.0,True,1,81.683,2023,Australian Grand Prix,R
+PIA,McLaren,53.0,2.0,HARD,45.0,True,12,81.335,2023,Australian Grand Prix,R

@@ -1,0 +1,830 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,LapTime_s,Year,GrandPrix,SessionType
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,97.68,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,96.526,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,96.503,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,95.359,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,95.84,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,95.687,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,95.129,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,95.561,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,95.443,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,95.306,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,94.848,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,95.183,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,94.2,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,94.499,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,94.443,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,12,93.79,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,21.0,2.0,HARD,3.0,True,1,96.946,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,22.0,2.0,HARD,4.0,True,1,94.973,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,23.0,2.0,HARD,5.0,True,1,94.115,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,24.0,2.0,HARD,6.0,True,1,94.146,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,25.0,2.0,HARD,7.0,True,1,92.933,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,26.0,2.0,HARD,8.0,True,1,92.94,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,27.0,2.0,HARD,9.0,True,1,92.838,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,28.0,2.0,HARD,10.0,True,1,92.869,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,29.0,2.0,HARD,11.0,True,1,92.67,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,30.0,2.0,HARD,12.0,True,1,92.877,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,31.0,2.0,HARD,13.0,True,1,92.382,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,32.0,2.0,HARD,14.0,True,1,92.4,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,33.0,2.0,HARD,15.0,True,1,92.387,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,34.0,2.0,HARD,16.0,True,1,92.341,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,35.0,2.0,HARD,17.0,True,1,92.249,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,36.0,2.0,HARD,18.0,True,1,92.384,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,37.0,2.0,HARD,19.0,True,1,92.496,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,38.0,2.0,HARD,20.0,True,1,93.123,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,39.0,2.0,HARD,21.0,True,1,92.432,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,40.0,2.0,HARD,22.0,True,1,92.606,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,41.0,2.0,HARD,23.0,True,1,92.638,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,42.0,2.0,HARD,24.0,True,1,92.274,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,43.0,2.0,HARD,25.0,True,1,92.343,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,44.0,2.0,HARD,26.0,True,1,92.848,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,45.0,2.0,HARD,27.0,True,1,92.968,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,46.0,2.0,HARD,28.0,True,1,93.148,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,47.0,2.0,HARD,29.0,True,1,93.238,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,48.0,2.0,HARD,30.0,True,1,93.607,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,49.0,2.0,HARD,31.0,True,1,93.835,2023,Saudi Arabian Grand Prix,R
+VER,Red Bull Racing,50.0,2.0,HARD,32.0,True,1,91.906,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,97.056,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,96.044,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,96.291,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,95.973,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,95.837,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,97.137,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,96.645,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,96.549,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,96.262,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,96.022,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,96.128,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,96.17,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,16.0,2.0,HARD,2.0,True,1,95.536,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,21.0,2.0,HARD,7.0,True,1,98.374,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,22.0,2.0,HARD,8.0,True,1,96.576,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,23.0,2.0,HARD,9.0,True,1,95.918,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,24.0,2.0,HARD,10.0,True,1,95.322,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,25.0,2.0,HARD,11.0,True,1,95.27,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,26.0,2.0,HARD,12.0,True,1,95.105,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,27.0,2.0,HARD,13.0,True,1,95.0,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,28.0,2.0,HARD,14.0,True,1,94.65,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,29.0,2.0,HARD,15.0,True,1,94.601,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,30.0,2.0,HARD,16.0,True,1,94.869,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,31.0,2.0,HARD,17.0,True,1,94.735,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,32.0,2.0,HARD,18.0,True,1,94.626,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,33.0,2.0,HARD,19.0,True,1,94.516,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,34.0,2.0,HARD,20.0,True,1,94.394,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,35.0,2.0,HARD,21.0,True,1,94.5,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,36.0,2.0,HARD,22.0,True,1,94.436,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,37.0,2.0,HARD,23.0,True,1,94.289,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,38.0,2.0,HARD,24.0,True,1,94.355,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,39.0,2.0,HARD,25.0,True,1,93.929,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,40.0,2.0,HARD,26.0,True,1,94.11,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,41.0,2.0,HARD,27.0,True,1,93.829,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,42.0,2.0,HARD,28.0,True,1,93.96,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,43.0,2.0,HARD,29.0,True,1,94.026,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,44.0,2.0,HARD,30.0,True,1,94.131,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,45.0,2.0,HARD,31.0,True,1,93.82,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,46.0,2.0,HARD,32.0,True,1,94.068,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,47.0,2.0,HARD,33.0,True,1,93.81,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,48.0,2.0,HARD,34.0,True,1,93.624,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,49.0,2.0,HARD,35.0,True,1,93.614,2023,Saudi Arabian Grand Prix,R
+GAS,Alpine,50.0,2.0,HARD,36.0,True,1,93.392,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,95.906,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,94.829,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,95.651,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,94.873,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,94.621,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,94.277,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,94.477,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,94.255,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,94.106,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,94.075,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,94.16,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,94.263,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,94.409,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,94.392,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,94.19,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,12,93.961,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,21.0,2.0,HARD,3.0,True,1,94.557,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,22.0,2.0,HARD,4.0,True,1,93.895,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,23.0,2.0,HARD,5.0,True,1,93.464,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,24.0,2.0,HARD,6.0,True,1,93.44,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,25.0,2.0,HARD,7.0,True,1,93.426,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,26.0,2.0,HARD,8.0,True,1,93.072,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,27.0,2.0,HARD,9.0,True,1,92.891,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,28.0,2.0,HARD,10.0,True,1,93.025,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,29.0,2.0,HARD,11.0,True,1,92.726,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,30.0,2.0,HARD,12.0,True,1,92.726,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,31.0,2.0,HARD,13.0,True,1,92.554,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,32.0,2.0,HARD,14.0,True,1,92.498,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,33.0,2.0,HARD,15.0,True,1,92.55,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,34.0,2.0,HARD,16.0,True,1,92.294,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,35.0,2.0,HARD,17.0,True,1,92.68,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,36.0,2.0,HARD,18.0,True,1,92.292,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,37.0,2.0,HARD,19.0,True,1,92.638,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,38.0,2.0,HARD,20.0,True,1,92.188,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,39.0,2.0,HARD,21.0,True,1,93.19,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,40.0,2.0,HARD,22.0,True,1,92.83,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,41.0,2.0,HARD,23.0,True,1,92.637,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,42.0,2.0,HARD,24.0,True,1,92.235,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,43.0,2.0,HARD,25.0,True,1,92.308,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,44.0,2.0,HARD,26.0,True,1,92.267,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,45.0,2.0,HARD,27.0,True,1,92.419,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,46.0,2.0,HARD,28.0,True,1,92.933,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,47.0,2.0,HARD,29.0,True,1,92.895,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,48.0,2.0,HARD,30.0,True,1,93.075,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,49.0,2.0,HARD,31.0,True,1,93.306,2023,Saudi Arabian Grand Prix,R
+PER,Red Bull Racing,50.0,2.0,HARD,32.0,True,1,93.691,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,95.567,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,95.14,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,96.664,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,94.92,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,94.658,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,94.422,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,94.398,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,94.4,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,94.835,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,94.982,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,94.927,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,94.918,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,94.837,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,94.717,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,94.842,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,17.0,1.0,MEDIUM,17.0,True,12,94.595,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,21.0,2.0,HARD,4.0,False,1,96.033,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,22.0,2.0,HARD,5.0,False,1,94.738,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,23.0,2.0,HARD,6.0,False,1,94.771,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,24.0,2.0,HARD,7.0,False,1,94.836,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,25.0,2.0,HARD,8.0,False,1,94.136,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,26.0,2.0,HARD,9.0,False,1,94.119,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,27.0,2.0,HARD,10.0,False,1,94.246,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,28.0,2.0,HARD,11.0,False,1,94.062,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,29.0,2.0,HARD,12.0,False,1,93.988,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,30.0,2.0,HARD,13.0,False,1,93.654,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,31.0,2.0,HARD,14.0,False,1,93.605,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,32.0,2.0,HARD,15.0,False,1,93.401,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,33.0,2.0,HARD,16.0,False,1,93.337,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,34.0,2.0,HARD,17.0,False,1,93.22,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,35.0,2.0,HARD,18.0,False,1,93.514,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,36.0,2.0,HARD,19.0,False,1,93.323,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,37.0,2.0,HARD,20.0,False,1,93.175,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,38.0,2.0,HARD,21.0,False,1,93.174,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,39.0,2.0,HARD,22.0,False,1,93.249,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,40.0,2.0,HARD,23.0,False,1,92.768,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,41.0,2.0,HARD,24.0,False,1,93.127,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,42.0,2.0,HARD,25.0,False,1,93.156,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,43.0,2.0,HARD,26.0,False,1,93.207,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,44.0,2.0,HARD,27.0,False,1,93.189,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,45.0,2.0,HARD,28.0,False,1,93.075,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,46.0,2.0,HARD,29.0,False,1,92.979,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,47.0,2.0,HARD,30.0,False,1,92.887,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,48.0,2.0,HARD,31.0,False,1,92.802,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,49.0,2.0,HARD,32.0,False,1,92.815,2023,Saudi Arabian Grand Prix,R
+ALO,Aston Martin,50.0,2.0,HARD,33.0,False,1,92.24,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,2.0,1.0,SOFT,2.0,True,1,96.907,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,3.0,1.0,SOFT,3.0,True,1,95.825,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,4.0,1.0,SOFT,4.0,True,1,95.871,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,5.0,1.0,SOFT,5.0,True,1,96.275,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,6.0,1.0,SOFT,6.0,True,1,95.347,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,7.0,1.0,SOFT,7.0,True,1,96.117,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,8.0,1.0,SOFT,8.0,True,1,95.858,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,9.0,1.0,SOFT,9.0,True,1,95.364,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,10.0,1.0,SOFT,10.0,True,1,95.612,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,11.0,1.0,SOFT,11.0,True,1,95.125,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,12.0,1.0,SOFT,12.0,True,1,95.438,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,13.0,1.0,SOFT,13.0,True,1,95.226,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,14.0,1.0,SOFT,14.0,True,1,94.609,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,15.0,1.0,SOFT,15.0,True,1,95.071,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,21.0,2.0,HARD,5.0,True,1,98.031,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,22.0,2.0,HARD,6.0,True,1,95.7,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,23.0,2.0,HARD,7.0,True,1,94.853,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,24.0,2.0,HARD,8.0,True,1,95.403,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,25.0,2.0,HARD,9.0,True,1,94.742,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,26.0,2.0,HARD,10.0,True,1,94.432,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,27.0,2.0,HARD,11.0,True,1,94.681,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,28.0,2.0,HARD,12.0,True,1,94.886,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,29.0,2.0,HARD,13.0,True,1,94.321,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,30.0,2.0,HARD,14.0,True,1,94.334,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,31.0,2.0,HARD,15.0,True,1,94.082,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,32.0,2.0,HARD,16.0,True,1,94.701,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,33.0,2.0,HARD,17.0,True,1,93.787,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,34.0,2.0,HARD,18.0,True,1,93.716,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,35.0,2.0,HARD,19.0,True,1,94.341,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,36.0,2.0,HARD,20.0,True,1,93.749,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,37.0,2.0,HARD,21.0,True,1,93.839,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,38.0,2.0,HARD,22.0,True,1,93.713,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,39.0,2.0,HARD,23.0,True,1,93.479,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,40.0,2.0,HARD,24.0,True,1,93.569,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,41.0,2.0,HARD,25.0,True,1,93.155,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,42.0,2.0,HARD,26.0,True,1,93.384,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,43.0,2.0,HARD,27.0,True,1,93.447,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,44.0,2.0,HARD,28.0,True,1,93.322,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,45.0,2.0,HARD,29.0,True,1,93.238,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,46.0,2.0,HARD,30.0,True,1,93.419,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,47.0,2.0,HARD,31.0,True,1,93.056,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,48.0,2.0,HARD,32.0,True,1,94.119,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,49.0,2.0,HARD,33.0,True,1,93.942,2023,Saudi Arabian Grand Prix,R
+LEC,Ferrari,50.0,2.0,HARD,34.0,True,1,96.267,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,96.324,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,95.239,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,95.56,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,95.471,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,95.551,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,95.14,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,95.616,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,96.118,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,95.443,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,95.512,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,96.522,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,15.0,2.0,HARD,3.0,False,1,96.262,2023,Saudi Arabian Grand Prix,R
+STR,Aston Martin,16.0,2.0,HARD,4.0,False,1,96.485,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,2.0,1.0,HARD,2.0,True,1,99.426,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,3.0,1.0,HARD,3.0,True,1,96.997,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,4.0,1.0,HARD,4.0,True,1,96.844,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,5.0,1.0,HARD,5.0,True,1,96.881,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,6.0,1.0,HARD,6.0,True,1,97.043,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,7.0,1.0,HARD,7.0,True,1,97.282,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,8.0,1.0,HARD,8.0,True,1,98.259,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,9.0,1.0,HARD,9.0,True,1,97.159,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,10.0,1.0,HARD,10.0,True,1,96.757,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,11.0,1.0,HARD,11.0,True,1,96.735,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,12.0,1.0,HARD,12.0,True,1,96.645,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,13.0,1.0,HARD,13.0,True,1,96.126,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,14.0,1.0,HARD,14.0,True,1,96.434,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,15.0,1.0,HARD,15.0,True,1,96.19,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,16.0,1.0,HARD,16.0,True,1,96.154,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,21.0,2.0,MEDIUM,3.0,True,1,98.699,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,22.0,2.0,MEDIUM,4.0,True,1,97.11,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,23.0,2.0,MEDIUM,5.0,True,1,95.822,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,24.0,2.0,MEDIUM,6.0,True,1,95.557,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,25.0,2.0,MEDIUM,7.0,True,1,95.738,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,26.0,2.0,MEDIUM,8.0,True,1,96.912,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,27.0,2.0,MEDIUM,9.0,True,1,95.604,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,28.0,2.0,MEDIUM,10.0,True,1,95.208,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,29.0,2.0,MEDIUM,11.0,True,1,94.738,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,30.0,2.0,MEDIUM,12.0,True,1,96.407,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,31.0,2.0,MEDIUM,13.0,True,1,95.039,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,32.0,2.0,MEDIUM,14.0,True,1,95.314,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,33.0,2.0,MEDIUM,15.0,True,1,95.325,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,34.0,2.0,MEDIUM,16.0,True,1,95.069,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,35.0,2.0,MEDIUM,17.0,True,1,95.523,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,36.0,2.0,MEDIUM,18.0,True,1,95.534,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,37.0,2.0,MEDIUM,19.0,True,1,95.437,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,38.0,2.0,MEDIUM,20.0,True,1,96.144,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,39.0,2.0,MEDIUM,21.0,True,1,95.718,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,40.0,2.0,MEDIUM,22.0,True,1,95.18,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,41.0,2.0,MEDIUM,23.0,True,1,95.974,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,42.0,2.0,MEDIUM,24.0,True,1,95.92,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,43.0,2.0,MEDIUM,25.0,True,1,95.229,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,44.0,2.0,MEDIUM,26.0,True,1,94.905,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,45.0,2.0,MEDIUM,27.0,True,1,95.13,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,46.0,2.0,MEDIUM,28.0,True,1,94.569,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,47.0,2.0,MEDIUM,29.0,True,1,94.896,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,48.0,2.0,MEDIUM,30.0,True,1,94.584,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,49.0,2.0,MEDIUM,31.0,True,1,94.469,2023,Saudi Arabian Grand Prix,R
+SAR,Williams,50.0,2.0,MEDIUM,32.0,True,1,96.175,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,97.219,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,96.796,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,97.098,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,97.298,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,97.01,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,96.304,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,10.0,2.0,HARD,2.0,True,1,95.834,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,11.0,2.0,HARD,3.0,True,1,95.756,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,12.0,2.0,HARD,4.0,True,1,95.805,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,13.0,2.0,HARD,5.0,True,1,95.552,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,14.0,2.0,HARD,6.0,True,1,95.199,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,15.0,2.0,HARD,7.0,True,1,95.179,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,16.0,2.0,HARD,8.0,True,1,95.561,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,21.0,2.0,HARD,13.0,True,1,98.649,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,22.0,2.0,HARD,14.0,True,1,96.88,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,23.0,2.0,HARD,15.0,True,1,95.702,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,24.0,2.0,HARD,16.0,True,1,95.279,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,25.0,2.0,HARD,17.0,True,1,96.317,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,26.0,2.0,HARD,18.0,True,1,95.544,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,27.0,2.0,HARD,19.0,True,1,95.501,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,28.0,2.0,HARD,20.0,True,1,95.564,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,29.0,2.0,HARD,21.0,True,1,95.001,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,30.0,2.0,HARD,22.0,True,1,95.139,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,31.0,2.0,HARD,23.0,True,1,95.057,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,32.0,2.0,HARD,24.0,True,1,94.959,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,33.0,2.0,HARD,25.0,True,1,94.402,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,34.0,2.0,HARD,26.0,True,1,94.852,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,35.0,2.0,HARD,27.0,True,1,95.659,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,36.0,2.0,HARD,28.0,True,1,94.662,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,37.0,2.0,HARD,29.0,True,1,94.357,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,38.0,2.0,HARD,30.0,True,1,94.047,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,39.0,2.0,HARD,31.0,True,1,94.189,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,40.0,2.0,HARD,32.0,True,1,95.449,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,41.0,2.0,HARD,33.0,True,1,94.27,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,42.0,2.0,HARD,34.0,True,1,93.753,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,43.0,2.0,HARD,35.0,True,1,94.108,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,44.0,2.0,HARD,36.0,True,1,93.374,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,45.0,2.0,HARD,37.0,True,1,94.134,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,46.0,2.0,HARD,38.0,True,1,95.329,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,47.0,2.0,HARD,39.0,True,1,93.833,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,48.0,2.0,HARD,40.0,True,1,93.829,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,49.0,2.0,HARD,41.0,True,1,93.746,2023,Saudi Arabian Grand Prix,R
+MAG,Haas F1 Team,50.0,2.0,HARD,42.0,True,1,94.043,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,100.748,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,96.945,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,96.847,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,96.992,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,96.862,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,97.087,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,97.22,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,97.249,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,96.592,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,96.52,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,1,96.282,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,96.014,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,1,96.449,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,96.017,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,96.126,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,21.0,2.0,HARD,4.0,True,1,99.388,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,22.0,2.0,HARD,5.0,True,1,97.424,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,23.0,2.0,HARD,6.0,True,1,97.103,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,24.0,2.0,HARD,7.0,True,1,95.386,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,25.0,2.0,HARD,8.0,True,1,95.686,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,26.0,2.0,HARD,9.0,True,1,96.074,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,27.0,2.0,HARD,10.0,True,1,95.766,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,28.0,2.0,HARD,11.0,True,1,95.508,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,29.0,2.0,HARD,12.0,True,1,95.759,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,30.0,2.0,HARD,13.0,True,1,95.778,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,31.0,2.0,HARD,14.0,True,1,95.64,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,32.0,2.0,HARD,15.0,True,1,95.141,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,33.0,2.0,HARD,16.0,True,1,95.188,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,34.0,2.0,HARD,17.0,True,1,95.25,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,35.0,2.0,HARD,18.0,True,1,95.027,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,36.0,2.0,HARD,19.0,True,1,94.763,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,37.0,2.0,HARD,20.0,True,1,95.127,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,38.0,2.0,HARD,21.0,True,1,95.591,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,39.0,2.0,HARD,22.0,True,1,95.769,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,40.0,2.0,HARD,23.0,True,1,95.091,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,41.0,2.0,HARD,24.0,True,1,95.319,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,42.0,2.0,HARD,25.0,True,1,94.968,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,43.0,2.0,HARD,26.0,True,1,94.22,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,44.0,2.0,HARD,27.0,True,1,94.036,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,45.0,2.0,HARD,28.0,True,1,94.126,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,46.0,2.0,HARD,29.0,True,1,94.135,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,47.0,2.0,HARD,30.0,True,1,94.183,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,48.0,2.0,HARD,31.0,True,1,94.199,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,49.0,2.0,HARD,32.0,True,1,93.609,2023,Saudi Arabian Grand Prix,R
+DEV,AlphaTauri,50.0,2.0,HARD,33.0,True,1,93.925,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,98.171,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,97.15,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,97.006,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,96.705,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,96.788,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,96.655,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,96.569,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,96.285,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,96.187,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,96.2,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,1,95.839,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,96.087,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,1,95.938,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,95.616,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,95.638,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,21.0,2.0,HARD,4.0,True,1,98.152,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,22.0,2.0,HARD,5.0,True,1,96.197,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,23.0,2.0,HARD,6.0,True,1,95.717,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,24.0,2.0,HARD,7.0,True,1,96.425,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,25.0,2.0,HARD,8.0,True,1,96.833,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,26.0,2.0,HARD,9.0,True,1,95.513,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,27.0,2.0,HARD,10.0,True,1,95.392,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,28.0,2.0,HARD,11.0,True,1,95.155,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,29.0,2.0,HARD,12.0,True,1,94.791,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,30.0,2.0,HARD,13.0,True,1,95.113,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,31.0,2.0,HARD,14.0,True,1,94.929,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,32.0,2.0,HARD,15.0,True,1,95.246,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,33.0,2.0,HARD,16.0,True,1,94.797,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,34.0,2.0,HARD,17.0,True,1,94.925,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,35.0,2.0,HARD,18.0,True,1,94.878,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,36.0,2.0,HARD,19.0,True,1,94.61,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,37.0,2.0,HARD,20.0,True,1,94.715,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,38.0,2.0,HARD,21.0,True,1,94.488,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,39.0,2.0,HARD,22.0,True,1,94.353,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,40.0,2.0,HARD,23.0,True,1,94.373,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,41.0,2.0,HARD,24.0,True,1,94.316,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,42.0,2.0,HARD,25.0,True,1,94.056,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,43.0,2.0,HARD,26.0,True,1,93.989,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,44.0,2.0,HARD,27.0,True,1,94.189,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,45.0,2.0,HARD,28.0,True,1,94.599,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,46.0,2.0,HARD,29.0,True,1,97.002,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,47.0,2.0,HARD,30.0,True,1,94.282,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,48.0,2.0,HARD,31.0,True,1,94.125,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,49.0,2.0,HARD,32.0,True,1,94.117,2023,Saudi Arabian Grand Prix,R
+TSU,AlphaTauri,50.0,2.0,HARD,33.0,True,1,93.931,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,98.916,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,97.065,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,96.913,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,97.108,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,97.004,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,97.577,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,97.053,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,96.126,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,96.311,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,95.911,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,96.066,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,96.026,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,1,96.878,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,96.622,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,96.83,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,21.0,2.0,HARD,4.0,True,1,99.011,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,22.0,2.0,HARD,5.0,True,1,96.964,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,23.0,2.0,HARD,6.0,True,1,95.656,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,24.0,2.0,HARD,7.0,True,1,95.567,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,25.0,2.0,HARD,8.0,True,1,96.007,2023,Saudi Arabian Grand Prix,R
+ALB,Williams,26.0,2.0,HARD,9.0,True,1,98.229,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,96.615,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,96.26,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,1,96.359,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,1,96.314,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,95.928,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,96.506,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,1,97.134,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,96.451,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,10.0,1.0,MEDIUM,10.0,True,1,96.253,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,13.0,2.0,HARD,2.0,True,1,95.263,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,14.0,2.0,HARD,3.0,True,1,95.547,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,15.0,2.0,HARD,4.0,True,1,95.618,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,16.0,2.0,HARD,5.0,True,1,95.98,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,21.0,3.0,MEDIUM,3.0,True,1,98.769,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,22.0,3.0,MEDIUM,4.0,True,1,97.391,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,23.0,3.0,MEDIUM,5.0,True,1,96.346,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,24.0,3.0,MEDIUM,6.0,True,1,95.452,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,25.0,3.0,MEDIUM,7.0,True,1,95.56,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,26.0,3.0,MEDIUM,8.0,True,1,96.338,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,27.0,3.0,MEDIUM,9.0,True,1,95.629,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,28.0,3.0,MEDIUM,10.0,True,1,95.4,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,29.0,3.0,MEDIUM,11.0,True,1,94.811,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,30.0,3.0,MEDIUM,12.0,True,1,96.153,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,31.0,3.0,MEDIUM,13.0,True,1,95.268,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,32.0,3.0,MEDIUM,14.0,True,1,95.136,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,33.0,3.0,MEDIUM,15.0,True,1,95.397,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,34.0,3.0,MEDIUM,16.0,True,1,95.361,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,35.0,3.0,MEDIUM,17.0,True,1,95.164,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,36.0,3.0,MEDIUM,18.0,True,1,95.233,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,37.0,3.0,MEDIUM,19.0,True,1,95.391,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,38.0,3.0,MEDIUM,20.0,True,1,95.158,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,39.0,3.0,MEDIUM,21.0,True,1,94.646,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,40.0,3.0,MEDIUM,22.0,True,1,94.764,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,41.0,3.0,MEDIUM,23.0,True,1,94.363,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,42.0,3.0,MEDIUM,24.0,True,1,94.825,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,43.0,3.0,MEDIUM,25.0,True,1,94.514,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,44.0,3.0,MEDIUM,26.0,True,1,94.622,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,45.0,3.0,MEDIUM,27.0,True,1,94.541,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,46.0,3.0,MEDIUM,28.0,True,1,94.538,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,47.0,3.0,MEDIUM,29.0,True,1,94.18,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,48.0,3.0,MEDIUM,30.0,True,1,94.138,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,49.0,3.0,MEDIUM,31.0,True,1,93.894,2023,Saudi Arabian Grand Prix,R
+ZHO,Alfa Romeo,50.0,3.0,MEDIUM,32.0,True,1,94.105,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,97.67,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,96.538,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,97.593,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,96.753,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,96.095,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,96.398,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,96.282,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,96.613,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,96.166,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,13.0,2.0,HARD,2.0,True,1,95.892,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,14.0,2.0,HARD,3.0,True,1,96.821,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,15.0,2.0,HARD,4.0,True,1,96.004,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,16.0,2.0,HARD,5.0,True,1,95.932,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,21.0,2.0,HARD,10.0,True,1,98.42,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,22.0,2.0,HARD,11.0,True,1,96.951,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,23.0,2.0,HARD,12.0,True,1,95.533,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,24.0,2.0,HARD,13.0,True,1,95.782,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,25.0,2.0,HARD,14.0,True,1,95.891,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,26.0,2.0,HARD,15.0,True,1,96.043,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,27.0,2.0,HARD,16.0,True,1,96.238,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,28.0,2.0,HARD,17.0,True,1,95.62,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,29.0,2.0,HARD,18.0,True,1,95.176,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,30.0,2.0,HARD,19.0,True,1,96.263,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,31.0,2.0,HARD,20.0,True,1,95.038,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,32.0,2.0,HARD,21.0,True,1,95.368,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,33.0,2.0,HARD,22.0,True,1,95.028,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,34.0,2.0,HARD,23.0,True,1,95.478,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,35.0,2.0,HARD,24.0,True,1,95.013,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,36.0,2.0,HARD,25.0,True,1,94.957,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,37.0,2.0,HARD,26.0,True,1,94.809,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,38.0,2.0,HARD,27.0,True,1,94.03,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,39.0,2.0,HARD,28.0,True,1,94.263,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,40.0,2.0,HARD,29.0,True,1,94.365,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,41.0,2.0,HARD,30.0,True,1,94.047,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,42.0,2.0,HARD,31.0,True,1,94.351,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,43.0,2.0,HARD,32.0,True,1,94.388,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,44.0,2.0,HARD,33.0,True,1,94.168,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,45.0,2.0,HARD,34.0,True,1,94.822,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,46.0,2.0,HARD,35.0,True,1,94.481,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,47.0,2.0,HARD,36.0,True,1,94.426,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,48.0,2.0,HARD,37.0,True,1,94.026,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,49.0,2.0,HARD,38.0,True,1,94.106,2023,Saudi Arabian Grand Prix,R
+HUL,Haas F1 Team,50.0,2.0,HARD,39.0,True,1,93.78,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,1,97.006,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,1,96.066,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,1,95.729,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,1,95.849,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,95.794,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,7.0,1.0,MEDIUM,7.0,True,1,95.847,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,8.0,1.0,MEDIUM,8.0,True,1,96.212,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,9.0,1.0,MEDIUM,9.0,True,1,95.924,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,10.0,1.0,MEDIUM,10.0,True,1,95.955,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,11.0,1.0,MEDIUM,11.0,True,1,95.901,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,12.0,1.0,MEDIUM,12.0,True,1,96.266,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,13.0,1.0,MEDIUM,13.0,True,1,97.156,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,14.0,1.0,MEDIUM,14.0,True,1,96.579,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,15.0,1.0,MEDIUM,15.0,True,1,96.209,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,21.0,2.0,HARD,5.0,True,1,98.033,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,22.0,2.0,HARD,6.0,True,1,96.558,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,23.0,2.0,HARD,7.0,True,1,95.212,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,24.0,2.0,HARD,8.0,True,1,94.882,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,25.0,2.0,HARD,9.0,True,1,95.131,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,26.0,2.0,HARD,10.0,True,1,94.609,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,27.0,2.0,HARD,11.0,True,1,94.903,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,28.0,2.0,HARD,12.0,True,1,94.918,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,29.0,2.0,HARD,13.0,True,1,94.582,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,30.0,2.0,HARD,14.0,True,1,94.978,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,31.0,2.0,HARD,15.0,True,1,94.79,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,32.0,2.0,HARD,16.0,True,1,94.641,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,33.0,2.0,HARD,17.0,True,1,94.394,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,34.0,2.0,HARD,18.0,True,1,94.698,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,35.0,2.0,HARD,19.0,True,1,94.644,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,36.0,2.0,HARD,20.0,True,1,94.286,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,37.0,2.0,HARD,21.0,True,1,94.136,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,38.0,2.0,HARD,22.0,True,1,94.216,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,39.0,2.0,HARD,23.0,True,1,94.039,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,40.0,2.0,HARD,24.0,True,1,93.826,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,41.0,2.0,HARD,25.0,True,1,93.915,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,42.0,2.0,HARD,26.0,True,1,93.964,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,43.0,2.0,HARD,27.0,True,1,93.897,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,44.0,2.0,HARD,28.0,True,1,93.841,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,45.0,2.0,HARD,29.0,True,1,93.815,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,46.0,2.0,HARD,30.0,True,1,93.976,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,47.0,2.0,HARD,31.0,True,1,93.998,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,48.0,2.0,HARD,32.0,True,1,93.723,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,49.0,2.0,HARD,33.0,True,1,93.222,2023,Saudi Arabian Grand Prix,R
+OCO,Alpine,50.0,2.0,HARD,34.0,True,1,94.312,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,4.0,2.0,HARD,2.0,True,1,96.627,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,5.0,2.0,HARD,3.0,True,1,95.929,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,6.0,2.0,HARD,4.0,True,1,95.963,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,7.0,2.0,HARD,5.0,True,1,95.771,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,8.0,2.0,HARD,6.0,True,1,95.523,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,9.0,2.0,HARD,7.0,True,1,95.721,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,10.0,2.0,HARD,8.0,True,1,96.141,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,11.0,2.0,HARD,9.0,True,1,96.1,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,12.0,2.0,HARD,10.0,True,1,96.285,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,13.0,2.0,HARD,11.0,True,1,96.269,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,14.0,2.0,HARD,12.0,True,1,96.289,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,15.0,2.0,HARD,13.0,True,1,96.228,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,16.0,2.0,HARD,14.0,True,1,96.446,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,21.0,3.0,MEDIUM,2.0,True,1,99.3,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,22.0,3.0,MEDIUM,3.0,True,1,97.7,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,23.0,3.0,MEDIUM,4.0,True,1,96.253,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,24.0,3.0,MEDIUM,5.0,True,1,96.251,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,25.0,3.0,MEDIUM,6.0,True,1,95.515,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,26.0,3.0,MEDIUM,7.0,True,1,95.315,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,27.0,3.0,MEDIUM,8.0,True,1,95.574,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,28.0,3.0,MEDIUM,9.0,True,1,95.724,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,29.0,3.0,MEDIUM,10.0,True,1,95.729,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,30.0,3.0,MEDIUM,11.0,True,1,95.446,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,31.0,3.0,MEDIUM,12.0,True,1,95.694,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,32.0,3.0,MEDIUM,13.0,True,1,95.478,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,33.0,3.0,MEDIUM,14.0,True,1,95.49,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,34.0,3.0,MEDIUM,15.0,True,1,95.481,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,35.0,3.0,MEDIUM,16.0,True,1,95.261,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,36.0,3.0,MEDIUM,17.0,True,1,95.158,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,37.0,3.0,MEDIUM,18.0,True,1,95.005,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,38.0,3.0,MEDIUM,19.0,True,1,94.658,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,39.0,3.0,MEDIUM,20.0,True,1,95.057,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,40.0,3.0,MEDIUM,21.0,True,1,95.549,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,41.0,3.0,MEDIUM,22.0,True,1,94.969,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,42.0,3.0,MEDIUM,23.0,True,1,96.183,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,43.0,3.0,MEDIUM,24.0,True,1,95.228,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,44.0,3.0,MEDIUM,25.0,True,1,95.519,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,45.0,3.0,MEDIUM,26.0,True,1,94.871,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,46.0,3.0,MEDIUM,27.0,True,1,94.532,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,47.0,3.0,MEDIUM,28.0,True,1,94.818,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,48.0,3.0,MEDIUM,29.0,True,1,95.378,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,49.0,3.0,MEDIUM,30.0,True,1,94.122,2023,Saudi Arabian Grand Prix,R
+NOR,McLaren,50.0,3.0,MEDIUM,31.0,True,1,95.307,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,2.0,1.0,HARD,2.0,True,1,97.188,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,3.0,1.0,HARD,3.0,True,1,96.628,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,4.0,1.0,HARD,4.0,True,1,96.263,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,5.0,1.0,HARD,5.0,True,1,95.867,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,6.0,1.0,HARD,6.0,True,1,95.973,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,7.0,1.0,HARD,7.0,True,1,96.093,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,8.0,1.0,HARD,8.0,True,1,96.122,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,9.0,1.0,HARD,9.0,True,1,96.978,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,10.0,1.0,HARD,10.0,True,1,95.976,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,11.0,1.0,HARD,11.0,True,1,95.909,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,12.0,1.0,HARD,12.0,True,1,96.568,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,13.0,1.0,HARD,13.0,True,1,95.822,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,14.0,1.0,HARD,14.0,True,1,95.708,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,15.0,1.0,HARD,15.0,True,1,95.693,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,16.0,1.0,HARD,16.0,True,1,95.228,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,17.0,1.0,HARD,17.0,True,12,95.047,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,21.0,2.0,MEDIUM,3.0,True,1,97.234,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,22.0,2.0,MEDIUM,4.0,True,1,95.182,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,23.0,2.0,MEDIUM,5.0,True,1,94.715,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,24.0,2.0,MEDIUM,6.0,True,1,94.335,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,25.0,2.0,MEDIUM,7.0,True,1,94.734,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,26.0,2.0,MEDIUM,8.0,True,1,93.998,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,27.0,2.0,MEDIUM,9.0,True,1,93.985,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,28.0,2.0,MEDIUM,10.0,True,1,94.234,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,29.0,2.0,MEDIUM,11.0,True,1,94.186,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,30.0,2.0,MEDIUM,12.0,True,1,94.447,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,31.0,2.0,MEDIUM,13.0,True,1,93.846,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,32.0,2.0,MEDIUM,14.0,True,1,94.071,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,33.0,2.0,MEDIUM,15.0,True,1,93.874,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,34.0,2.0,MEDIUM,16.0,True,1,93.864,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,35.0,2.0,MEDIUM,17.0,True,1,93.887,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,36.0,2.0,MEDIUM,18.0,True,1,93.39,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,37.0,2.0,MEDIUM,19.0,True,1,93.625,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,38.0,2.0,MEDIUM,20.0,True,1,93.653,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,39.0,2.0,MEDIUM,21.0,True,1,93.383,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,40.0,2.0,MEDIUM,22.0,True,1,93.507,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,41.0,2.0,MEDIUM,23.0,True,1,93.22,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,42.0,2.0,MEDIUM,24.0,True,1,93.314,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,43.0,2.0,MEDIUM,25.0,True,1,93.011,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,44.0,2.0,MEDIUM,26.0,True,1,93.099,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,45.0,2.0,MEDIUM,27.0,True,1,93.054,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,46.0,2.0,MEDIUM,28.0,True,1,93.316,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,47.0,2.0,MEDIUM,29.0,True,1,92.941,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,48.0,2.0,MEDIUM,30.0,True,1,93.367,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,49.0,2.0,MEDIUM,31.0,True,1,93.537,2023,Saudi Arabian Grand Prix,R
+HAM,Mercedes,50.0,2.0,MEDIUM,32.0,True,1,93.024,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,96.583,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,95.354,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,95.428,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,95.433,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,95.667,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,95.216,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,95.321,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,96.378,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,96.056,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,95.842,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,95.944,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,95.256,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,95.001,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,21.0,2.0,HARD,6.0,True,1,97.37,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,22.0,2.0,HARD,7.0,True,1,96.313,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,23.0,2.0,HARD,8.0,True,1,95.041,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,24.0,2.0,HARD,9.0,True,1,94.656,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,25.0,2.0,HARD,10.0,True,1,94.814,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,26.0,2.0,HARD,11.0,True,1,94.415,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,27.0,2.0,HARD,12.0,True,1,94.539,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,28.0,2.0,HARD,13.0,True,1,94.762,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,29.0,2.0,HARD,14.0,True,1,94.331,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,30.0,2.0,HARD,15.0,True,1,94.498,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,31.0,2.0,HARD,16.0,True,1,94.104,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,32.0,2.0,HARD,17.0,True,1,93.867,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,33.0,2.0,HARD,18.0,True,1,93.989,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,34.0,2.0,HARD,19.0,True,1,93.861,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,35.0,2.0,HARD,20.0,True,1,93.862,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,36.0,2.0,HARD,21.0,True,1,93.539,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,37.0,2.0,HARD,22.0,True,1,93.803,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,38.0,2.0,HARD,23.0,True,1,93.913,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,39.0,2.0,HARD,24.0,True,1,93.465,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,40.0,2.0,HARD,25.0,True,1,93.403,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,41.0,2.0,HARD,26.0,True,1,93.411,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,42.0,2.0,HARD,27.0,True,1,93.432,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,43.0,2.0,HARD,28.0,True,1,93.288,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,44.0,2.0,HARD,29.0,True,1,93.358,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,45.0,2.0,HARD,30.0,True,1,93.512,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,46.0,2.0,HARD,31.0,True,1,93.149,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,47.0,2.0,HARD,32.0,True,1,93.128,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,48.0,2.0,HARD,33.0,True,1,92.92,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,49.0,2.0,HARD,34.0,True,1,93.564,2023,Saudi Arabian Grand Prix,R
+SAI,Ferrari,50.0,2.0,HARD,35.0,True,1,92.822,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,96.114,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,95.3,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,95.596,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,95.423,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,95.477,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,95.256,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,95.157,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,95.89,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,95.265,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,95.4,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,95.283,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,95.043,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,94.94,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,94.946,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,95.12,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,12,94.892,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,21.0,2.0,HARD,3.0,True,1,96.802,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,22.0,2.0,HARD,4.0,True,1,95.07,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,23.0,2.0,HARD,5.0,True,1,94.958,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,24.0,2.0,HARD,6.0,True,1,95.063,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,25.0,2.0,HARD,7.0,True,1,94.106,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,26.0,2.0,HARD,8.0,True,1,94.493,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,27.0,2.0,HARD,9.0,True,1,94.118,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,28.0,2.0,HARD,10.0,True,1,94.091,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,29.0,2.0,HARD,11.0,True,1,93.688,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,30.0,2.0,HARD,12.0,True,1,94.165,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,31.0,2.0,HARD,13.0,True,1,93.433,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,32.0,2.0,HARD,14.0,True,1,93.633,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,33.0,2.0,HARD,15.0,True,1,93.52,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,34.0,2.0,HARD,16.0,True,1,93.758,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,35.0,2.0,HARD,17.0,True,1,93.756,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,36.0,2.0,HARD,18.0,True,1,93.625,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,37.0,2.0,HARD,19.0,True,1,93.524,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,38.0,2.0,HARD,20.0,True,1,93.42,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,39.0,2.0,HARD,21.0,True,1,93.555,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,40.0,2.0,HARD,22.0,True,1,93.459,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,41.0,2.0,HARD,23.0,True,1,92.998,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,42.0,2.0,HARD,24.0,True,1,93.041,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,43.0,2.0,HARD,25.0,True,1,93.083,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,44.0,2.0,HARD,26.0,True,1,93.243,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,45.0,2.0,HARD,27.0,True,1,92.917,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,46.0,2.0,HARD,28.0,True,1,92.982,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,47.0,2.0,HARD,29.0,True,1,92.901,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,48.0,2.0,HARD,30.0,True,1,92.756,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,49.0,2.0,HARD,31.0,True,1,93.135,2023,Saudi Arabian Grand Prix,R
+RUS,Mercedes,50.0,2.0,HARD,32.0,True,1,92.433,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,98.763,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,96.956,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,1,97.211,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,1,96.597,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,97.418,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,97.674,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,1,98.831,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,11.0,2.0,HARD,2.0,True,1,96.218,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,12.0,2.0,HARD,3.0,True,1,95.927,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,13.0,2.0,HARD,4.0,True,1,96.495,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,14.0,2.0,HARD,5.0,True,1,96.207,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,15.0,2.0,HARD,6.0,True,1,96.259,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,16.0,2.0,HARD,7.0,True,1,96.153,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,21.0,3.0,MEDIUM,4.0,True,1,99.065,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,22.0,3.0,MEDIUM,5.0,True,1,98.366,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,23.0,3.0,MEDIUM,6.0,True,1,98.218,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,24.0,3.0,MEDIUM,7.0,True,1,96.239,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,25.0,3.0,MEDIUM,8.0,True,1,96.412,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,26.0,3.0,MEDIUM,9.0,True,1,96.343,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,27.0,3.0,MEDIUM,10.0,True,1,96.993,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,28.0,3.0,MEDIUM,11.0,True,1,96.128,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,29.0,3.0,MEDIUM,12.0,True,1,96.166,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,30.0,3.0,MEDIUM,13.0,True,1,95.846,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,31.0,3.0,MEDIUM,14.0,True,1,96.248,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,32.0,3.0,MEDIUM,15.0,True,1,96.142,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,33.0,3.0,MEDIUM,16.0,True,1,95.997,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,34.0,3.0,MEDIUM,17.0,True,1,96.148,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,37.0,4.0,SOFT,2.0,True,1,94.384,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,38.0,4.0,SOFT,3.0,True,1,94.976,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,39.0,4.0,SOFT,4.0,True,1,95.348,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,40.0,4.0,SOFT,5.0,True,1,96.474,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,41.0,4.0,SOFT,6.0,True,1,96.7,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,42.0,4.0,SOFT,7.0,True,1,95.325,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,43.0,4.0,SOFT,8.0,True,1,95.288,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,44.0,4.0,SOFT,9.0,True,1,95.004,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,45.0,4.0,SOFT,10.0,True,1,95.227,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,46.0,4.0,SOFT,11.0,True,1,95.283,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,47.0,4.0,SOFT,12.0,True,1,96.694,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,48.0,4.0,SOFT,13.0,True,1,96.607,2023,Saudi Arabian Grand Prix,R
+BOT,Alfa Romeo,49.0,4.0,SOFT,14.0,True,1,95.501,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,3.0,2.0,HARD,2.0,True,1,95.634,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,4.0,2.0,HARD,3.0,True,1,95.512,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,5.0,2.0,HARD,4.0,True,1,95.662,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,6.0,2.0,HARD,5.0,True,1,95.359,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,7.0,2.0,HARD,6.0,True,1,95.636,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,8.0,2.0,HARD,7.0,True,1,95.626,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,9.0,2.0,HARD,8.0,True,1,95.9,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,10.0,2.0,HARD,9.0,True,1,95.782,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,11.0,2.0,HARD,10.0,True,1,95.899,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,12.0,2.0,HARD,11.0,True,1,96.364,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,13.0,2.0,HARD,12.0,True,1,96.654,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,14.0,2.0,HARD,13.0,True,1,96.275,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,15.0,2.0,HARD,14.0,True,1,96.082,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,16.0,2.0,HARD,15.0,True,1,96.304,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,21.0,2.0,HARD,20.0,True,1,99.663,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,22.0,2.0,HARD,21.0,True,1,97.626,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,23.0,2.0,HARD,22.0,True,1,96.562,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,24.0,2.0,HARD,23.0,True,1,96.405,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,25.0,2.0,HARD,24.0,True,1,96.735,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,26.0,2.0,HARD,25.0,True,1,95.752,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,27.0,2.0,HARD,26.0,True,1,95.973,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,28.0,2.0,HARD,27.0,True,1,95.543,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,29.0,2.0,HARD,28.0,True,1,95.949,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,30.0,2.0,HARD,29.0,True,1,95.673,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,31.0,2.0,HARD,30.0,True,1,95.446,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,32.0,2.0,HARD,31.0,True,1,95.224,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,33.0,2.0,HARD,32.0,True,1,95.644,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,34.0,2.0,HARD,33.0,True,1,95.47,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,35.0,2.0,HARD,34.0,True,1,95.277,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,36.0,2.0,HARD,35.0,True,1,95.005,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,37.0,2.0,HARD,36.0,True,1,94.859,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,38.0,2.0,HARD,37.0,True,1,94.827,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,39.0,2.0,HARD,38.0,True,1,94.949,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,40.0,2.0,HARD,39.0,True,1,94.429,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,41.0,2.0,HARD,40.0,True,1,95.301,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,42.0,2.0,HARD,41.0,True,1,95.951,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,43.0,2.0,HARD,42.0,True,1,95.257,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,44.0,2.0,HARD,43.0,True,1,94.861,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,45.0,2.0,HARD,44.0,True,1,95.625,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,46.0,2.0,HARD,45.0,True,1,94.467,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,47.0,2.0,HARD,46.0,True,1,94.509,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,48.0,2.0,HARD,47.0,True,1,94.287,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,49.0,2.0,HARD,48.0,True,1,94.291,2023,Saudi Arabian Grand Prix,R
+PIA,McLaren,50.0,2.0,HARD,49.0,True,1,94.618,2023,Saudi Arabian Grand Prix,R

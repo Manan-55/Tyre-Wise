@@ -1,0 +1,15 @@
+# Data
+data/cache/
+data/raw/
+data/processed/
+
+# Models
+backend/models/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/

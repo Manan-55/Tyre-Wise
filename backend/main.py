@@ -1,9 +1,10 @@
 """
-Tyre Wise — FastAPI Backend
+PITWALL — FastAPI Backend
 main.py | Entry Point
 Author: Manan Prajapati
 """
 
+from database import init_db
 import asyncio
 import logging
 from fastapi import FastAPI
@@ -15,7 +16,7 @@ from api.routes.predict import models
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
 app = FastAPI(
-    title="Tyre Wise API",
+    title="PITWALL API",
     description="F1 Tyre Degradation Predictor — XGBoost per compound models + OpenF1 live data",
     version="1.0.0"
 )
@@ -35,6 +36,8 @@ app.include_router(predict.router, prefix="/api")
 # ── Start live fetch background loop on startup ──
 @app.on_event("startup")
 async def startup_event():
+    #await init_db()
+    #logging.info("✓ Database tables created")
     asyncio.create_task(live_fetch_loop(models))
     logging.info("✓ Live fetch background service started")
 
@@ -42,7 +45,7 @@ async def startup_event():
 # ── Health check ──
 @app.get("/")
 def root():
-    return {"status": "Tyre Wise API is running 🏎"}
+    return {"status": "PITWALL API is running 🏎"}
 
 
 # ── Live data endpoint — frontend hits this ──

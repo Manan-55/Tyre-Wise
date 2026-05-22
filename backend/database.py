@@ -2,8 +2,6 @@
 PITWALL — Database Connection
 database.py | Async SQLAlchemy + Supabase PostgreSQL
 """
-import asyncio
-asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 import os
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from sqlalchemy.orm import sessionmaker, declarative_base
